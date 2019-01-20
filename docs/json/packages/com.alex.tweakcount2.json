@@ -423,9 +423,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 19,
+        "good": 20,
         "bad": 0,
-        "total": 19,
+        "total": 20,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -604,6 +604,15 @@
           "date": "2018-08-28T13:48:18Z",
           "userName": "RiPx88",
           "issueNumber": 47800,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Works on my 6s, not on my 6s+, mystery city.",
+          "date": "2019-01-19T23:44:40Z",
+          "userName": "XweAponX",
+          "issueNumber": 57564,
           "arch32": false
         }
       ]
