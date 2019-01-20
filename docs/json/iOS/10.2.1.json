@@ -1565,21 +1565,22 @@
       ]
     },
     {
-      "id": "com.aaronash.barrel",
+      "id": "repo.biteyourapple.net.barrel",
       "name": "Barrel",
-      "latest": "1.8.1.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.aaronash.barrel/",
+      "latest": "1.8.1.1-1",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.barrel/",
       "shortDescription": "3D and other effects on icon pages!",
-      "category": "Tweaks",
-      "author": "Aaron Ash (Charybdis)",
-      "commercial": true,
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "date": "2018-03-31T07:05:38Z",
       "versions": [
         {
           "tweakVersion": "1.8.1.1-1",
           "iOSVersion": "10.2.1",
-          "repository": "BigBoss",
-          "date": "2018-04-18T01:23:43Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-03-31T07:05:38Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1598,22 +1599,21 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.barrel",
+      "id": "com.aaronash.barrel",
       "name": "Barrel",
-      "latest": "1.8.1.1-1",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.barrel/",
+      "latest": "1.8.1.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.aaronash.barrel/",
       "shortDescription": "3D and other effects on icon pages!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "date": "2018-03-31T07:05:38Z",
+      "category": "Tweaks",
+      "author": "Aaron Ash (Charybdis)",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "1.8.1.1-1",
           "iOSVersion": "10.2.1",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-03-31T07:05:38Z",
+          "repository": "BigBoss",
+          "date": "2018-04-18T01:23:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3348,6 +3348,58 @@
       ]
     },
     {
+      "id": "repo.biteyourapple.net.colorbanners2",
+      "name": "ColorBanners 2 (iOS 10)",
+      "latest": "1.1.0",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Color your notifications",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.2",
+          "iOSVersion": "10.2.1",
+          "repository": "repo.biteyourapple.net",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "10.2.1",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-03-31T07:05:10Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.golddavid.colorbanners2",
       "name": "ColorBanners 2 (iOS 10)",
       "latest": "1.1.1",
@@ -3401,40 +3453,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.colorbanners2",
-      "name": "ColorBanners 2 (iOS 10)",
-      "latest": "1.1.0",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Color your notifications",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "id": "com.bengiannis.colorcalculator",
+      "name": "ColorCalculator",
+      "latest": "1.2.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.bengiannis.colorcalculator/",
+      "shortDescription": "Change the Calculator app's tint",
+      "category": "Tweaks",
+      "author": "Ben Giannis",
       "commercial": false,
+      "date": "2018-03-16T07:38:39Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2",
+          "tweakVersion": "1.2.1",
           "iOSVersion": "10.2.1",
-          "repository": "repo.biteyourapple.net",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.1.0",
-          "iOSVersion": "10.2.1",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-03-31T07:05:10Z",
+          "repository": "BigBoss",
+          "date": "2018-04-15T02:40:07Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3453,22 +3487,21 @@
       ]
     },
     {
-      "id": "com.bengiannis.colorcalculator",
-      "name": "ColorCalculator",
-      "latest": "1.2.1",
+      "id": "com.golddavid.colorflow3",
+      "name": "ColorFlow 3 (iOS 10)",
+      "latest": "1.0.5",
       "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.bengiannis.colorcalculator/",
-      "shortDescription": "Change the Calculator app's tint",
+      "url": "http://cydia.saurik.com/package/com.golddavid.colorflow3/",
+      "shortDescription": "Colorful music revolutions.",
       "category": "Tweaks",
-      "author": "Ben Giannis",
-      "commercial": false,
-      "date": "2018-03-16T07:38:39Z",
+      "author": "David Goldman",
+      "commercial": true,
       "versions": [
         {
-          "tweakVersion": "1.2.1",
+          "tweakVersion": "1.0.5",
           "iOSVersion": "10.2.1",
           "repository": "BigBoss",
-          "date": "2018-04-15T02:40:07Z",
+          "date": "2018-08-10T03:09:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3521,39 +3554,6 @@
           "iOSVersion": "10.2.1",
           "repository": "repo.biteyourapple.net",
           "date": "2018-03-31T07:05:00Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.golddavid.colorflow3",
-      "name": "ColorFlow 3 (iOS 10)",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.golddavid.colorflow3/",
-      "shortDescription": "Colorful music revolutions.",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "10.2.1",
-          "repository": "BigBoss",
-          "date": "2018-08-10T03:09:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5339,10 +5339,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-1",
+      "latest": "3.6.0-33",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -6922,7 +6922,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-243",
+      "latest": "1.8r-249",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -12632,7 +12632,7 @@
     {
       "id": "com.f0u4d.watusitools",
       "name": "WatusiTools",
-      "latest": "2.0.3",
+      "latest": "2.0.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.f0u4d.watusitools/",
       "shortDescription": "Library for Watusi and WhatsApp tweaks",
@@ -12938,6 +12938,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.n00neimp0rtant.xcon-pokemongo",
+      "name": "xCon for PokemonGo",
+      "latest": "45-6",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.n00neimp0rtant.xcon-pokemongo/",
+      "shortDescription": "bypass anti-jailbreak protection in pokemon go + snapchat",
+      "category": "Tweaks",
+      "author": "Lunatik",
+      "commercial": false,
+      "date": "2018-07-08T09:35:33Z",
+      "versions": [
+        {
+          "tweakVersion": "45-6",
+          "iOSVersion": "10.2.1",
+          "repository": "beta.unlimapps.com",
+          "date": "2019-01-19T01:34:03Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
