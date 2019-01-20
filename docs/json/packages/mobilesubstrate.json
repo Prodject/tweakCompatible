@@ -1435,10 +1435,10 @@
       "date": "2018-12-31T12:04:24Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 90,
-        "good": 10,
+        "percentage": 91,
+        "good": 11,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1545,6 +1545,15 @@
           "date": "2019-01-19T21:33:16Z",
           "userName": "john12121212",
           "issueNumber": 57558,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-01-18T03:30:01Z",
+          "userName": "atifchy",
+          "issueNumber": 57514,
           "arch32": false
         }
       ]
