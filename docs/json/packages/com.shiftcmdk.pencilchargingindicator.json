@@ -1,0 +1,227 @@
+{
+  "id": "com.shiftcmdk.pencilchargingindicator",
+  "name": "PencilChargingIndicator",
+  "latest": "1.1.1",
+  "repository": "shiftcmdk",
+  "url": "http://cydia.saurik.com/package/com.shiftcmdk.pencilchargingindicator/",
+  "shortDescription": "Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.",
+  "category": "Tweaks",
+  "author": "shiftcmdk",
+  "commercial": false,
+  "date": "2018-11-05T20:06:31Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "11.3.1",
+      "repository": "shiftcmdk",
+      "date": "2018-11-05T20:06:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
+        "bad": 0,
+        "total": 3,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Pretty Cool!",
+          "date": "2018-11-05T20:06:31Z",
+          "userName": "XweAponX",
+          "issueNumber": 54693,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-05T21:17:45Z",
+          "userName": "craigz",
+          "issueNumber": 54696,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-06T01:00:13Z",
+          "userName": "tomhmoses",
+          "issueNumber": 54746,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "11.3.1",
+      "repository": "shiftcmdk",
+      "date": "2018-11-06T22:39:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-06T22:39:58Z",
+          "userName": "mohitt01p",
+          "issueNumber": 54839,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "11.3.1",
+      "repository": "shiftcmdk",
+      "date": "2018-11-07T14:00:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-07T14:00:59Z",
+          "userName": "Complex113",
+          "issueNumber": 54866,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-11T00:40:42Z",
+          "userName": "andy9744",
+          "issueNumber": 55018,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "11.3.1",
+      "repository": "shiftcmdk",
+      "date": "2018-11-12T01:48:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-12T01:48:29Z",
+          "userName": "mohitt01p",
+          "issueNumber": 55117,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "11.0.1",
+      "repository": "shiftcmdk",
+      "date": "2018-11-14T15:07:46Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "iPhone 6",
+          "date": "2018-11-14T15:07:46Z",
+          "userName": "umarmasroor",
+          "issueNumber": 55219,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "11.0",
+      "repository": "shiftcmdk",
+      "date": "2018-11-15T10:20:10Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-15T10:20:10Z",
+          "userName": "zer0-star",
+          "issueNumber": 55252,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

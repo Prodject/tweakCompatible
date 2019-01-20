@@ -1,0 +1,81 @@
+{
+  "id": "com.aceruos.stacks",
+  "name": "Stacks",
+  "latest": "0.0.1",
+  "repository": "Chariz (HASHBANG Productions)",
+  "url": "http://cydia.saurik.com/package/com.aceruos.stacks/",
+  "shortDescription": "A new outlook on your icons",
+  "category": "Themes",
+  "author": "Aceruos Team",
+  "commercial": false,
+  "date": "2018-10-04T16:13:37Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "11.3.1",
+      "repository": "Chariz (HASHBANG Productions)",
+      "date": "2018-10-04T16:13:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-04T16:13:37Z",
+          "userName": "xFahrenheightx",
+          "issueNumber": 52133,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-04T23:19:40Z",
+          "userName": "jacc",
+          "issueNumber": 52164,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "IPhone X",
+          "date": "2018-10-10T14:10:30Z",
+          "userName": "sinTralphy",
+          "issueNumber": 52641,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-10-12T02:45:53Z",
+          "userName": "haykam821",
+          "issueNumber": 52797,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2018-10-15T16:03:14Z",
+          "userName": "Ectalite",
+          "issueNumber": 53094,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

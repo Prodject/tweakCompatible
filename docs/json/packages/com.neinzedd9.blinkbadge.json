@@ -1,0 +1,107 @@
+{
+  "id": "com.neinzedd9.blinkbadge",
+  "name": "BlinkBadge",
+  "latest": "1.1.0",
+  "repository": "BigBoss",
+  "url": "http://cydia.saurik.com/package/com.neinzedd9.blinkbadge/",
+  "shortDescription": "Makes app notification badges blink",
+  "category": "Tweaks",
+  "author": "NeinZedd9",
+  "commercial": false,
+  "date": "2018-03-13T04:49:17Z",
+  "versions": [
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "11.1.2",
+      "repository": "BigBoss",
+      "date": "2018-03-13T04:49:17Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "Crashes to safemode",
+          "date": "2018-03-13T04:49:17Z",
+          "userName": "RazMataz1989",
+          "issueNumber": 6081,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "10.2",
+      "repository": "BigBoss",
+      "date": "2018-07-29T19:49:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-07-29T19:49:28Z",
+          "userName": "Potterd",
+          "issueNumber": 35527,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "10.3.3",
+      "repository": "BigBoss",
+      "date": "2018-07-30T19:19:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 1,
+          "bad": 0,
+          "percentage": 100,
+          "calculatedStatus": "Working"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone5,1",
+          "issues": "",
+          "date": "2018-07-30T19:19:07Z",
+          "userName": "ReuIphone",
+          "issueNumber": 36510,
+          "arch32": true
+        }
+      ]
+    }
+  ]
+}

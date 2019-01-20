@@ -1,0 +1,81 @@
+{
+  "id": "me.nepeta.launchtron",
+  "name": "Launchtron",
+  "latest": "0.1.1",
+  "repository": "Nepeta",
+  "url": "http://cydia.saurik.com/package/me.nepeta.launchtron/",
+  "shortDescription": "Fast circular app launcher",
+  "category": "Tweaks",
+  "author": "Nepeta",
+  "commercial": false,
+  "date": "2019-01-13T21:45:28Z",
+  "versions": [
+    {
+      "tweakVersion": "0.1.1",
+      "iOSVersion": "11.3.1",
+      "repository": "Nepeta",
+      "date": "2019-01-13T21:45:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-01-13T21:45:28Z",
+          "userName": "ThyGiant",
+          "issueNumber": 57296,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-01-13T22:37:38Z",
+          "userName": "oscarmg90",
+          "issueNumber": 57297,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-01-14T07:18:22Z",
+          "userName": "buitim",
+          "issueNumber": 57316,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-01-14T19:54:41Z",
+          "userName": "LimaHotel807",
+          "issueNumber": 57326,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-01-15T00:05:13Z",
+          "userName": "starmega",
+          "issueNumber": 57339,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}

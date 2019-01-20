@@ -1,0 +1,112 @@
+{
+  "id": "com.spark.circlesettings",
+  "name": "CircleSettings",
+  "latest": "1.0.0-2",
+  "repository": "Spark's Beta Repo",
+  "url": "http://cydia.saurik.com/package/com.spark.circlesettings/",
+  "shortDescription": "Make all icons in the settings application circular!",
+  "category": "Tweaks",
+  "author": "Spark",
+  "commercial": false,
+  "date": "2018-09-03T20:23:36Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0-1",
+      "iOSVersion": "11.3.1",
+      "repository": "Spark's Beta Repo",
+      "date": "2018-09-03T20:23:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Flawless alternative.",
+          "date": "2018-09-03T20:23:36Z",
+          "userName": "xFahrenheightx",
+          "issueNumber": 48984,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0-2",
+      "iOSVersion": "11.3.1",
+      "repository": "Spark's Beta Repo",
+      "date": "2018-09-03T20:57:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 5,
+        "bad": 0,
+        "total": 5,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-09-03T20:57:26Z",
+          "userName": "haudankaivajasi",
+          "issueNumber": 48996,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-09-03T20:50:16Z",
+          "userName": "tryaink",
+          "issueNumber": 48992,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-09-03T22:44:18Z",
+          "userName": "sajjadibraheem",
+          "issueNumber": 49014,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-09-04T23:43:57Z",
+          "userName": "vxrsce",
+          "issueNumber": 49228,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-11T20:48:06Z",
+          "userName": "xFahrenheightx",
+          "issueNumber": 52733,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
