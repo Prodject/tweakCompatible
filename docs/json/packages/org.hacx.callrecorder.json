@@ -556,10 +556,10 @@
       "date": "2018-08-10T04:53:57Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -594,6 +594,15 @@
           "date": "2018-09-09T22:49:43Z",
           "userName": "adrianr514",
           "issueNumber": 49933,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-01-19T00:49:57Z",
+          "userName": "t10i",
+          "issueNumber": 57537,
           "arch32": false
         }
       ]
