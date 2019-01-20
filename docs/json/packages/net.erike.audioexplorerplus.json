@@ -1,7 +1,7 @@
 {
   "id": "net.erike.audioexplorerplus",
   "name": "AudioExplorer+",
-  "latest": "2.7.1",
+  "latest": "2.7.1-2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/net.erike.audioexplorerplus/",
   "shortDescription": "find & use audio from your device files",
@@ -278,6 +278,37 @@
           "date": "2018-08-28T03:19:28Z",
           "userName": "d3vCr0w",
           "issueNumber": 47753,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.7.1-2",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2019-01-19T10:32:11Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-01-19T10:32:11Z",
+          "userName": "mrkssntr",
+          "issueNumber": 57547,
           "arch32": false
         }
       ]
