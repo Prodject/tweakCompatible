@@ -1504,15 +1504,6 @@
         },
         {
           "status": "working",
-          "device": "iPhone8,1",
-          "issues": "",
-          "date": "2019-01-02T22:20:55Z",
-          "userName": "vxrsce",
-          "issueNumber": 56987,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone7,1",
           "issues": "",
           "date": "2019-01-07T22:10:40Z",
@@ -1554,6 +1545,15 @@
           "date": "2019-01-18T03:30:01Z",
           "userName": "atifchy",
           "issueNumber": 57514,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-01-17T18:45:36Z",
+          "userName": "vxrsce",
+          "issueNumber": 57506,
           "arch32": false
         }
       ]
