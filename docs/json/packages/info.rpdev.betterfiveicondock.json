@@ -347,10 +347,10 @@
       "date": "2018-07-07T05:24:05Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 33,
+        "percentage": 30,
         "good": 3,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -439,6 +439,15 @@
           "date": "2018-08-12T19:25:25Z",
           "userName": "littlelamp100",
           "issueNumber": 42672,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "not working unc0ver jb",
+          "date": "2019-01-18T23:09:59Z",
+          "userName": "LittleMuslim",
+          "issueNumber": 57532,
           "arch32": false
         }
       ]
