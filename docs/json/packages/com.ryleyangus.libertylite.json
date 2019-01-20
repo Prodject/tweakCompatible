@@ -1622,11 +1622,11 @@
       "repository": "Ryley's Repo",
       "date": "2018-07-26T23:06:37Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 2,
+        "calculatedStatus": "Likely working",
+        "percentage": 42,
+        "good": 3,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1688,6 +1688,15 @@
           "date": "2018-12-09T11:52:03Z",
           "userName": "jeells102",
           "issueNumber": 56028,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-01-18T14:30:23Z",
+          "userName": "Mattwenty",
+          "issueNumber": 57524,
           "arch32": false
         }
       ]
