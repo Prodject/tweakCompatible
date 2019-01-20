@@ -216,10 +216,10 @@
         {
           "status": "working",
           "device": "iPhone7,2",
-          "issues": "Works fine",
-          "date": "2019-01-15T17:01:38Z",
+          "issues": "",
+          "date": "2019-01-18T03:29:10Z",
           "userName": "atifchy",
-          "issueNumber": 57403,
+          "issueNumber": 57513,
           "arch32": false
         }
       ]
