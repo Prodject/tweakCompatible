@@ -3041,10 +3041,10 @@
         {
           "status": "working",
           "device": "iPhone7,2",
-          "issues": "",
-          "date": "2019-01-18T03:27:41Z",
+          "issues": "Working fine ",
+          "date": "2019-01-20T13:18:49Z",
           "userName": "atifchy",
-          "issueNumber": 57512,
+          "issueNumber": 57567,
           "arch32": false
         }
       ]
