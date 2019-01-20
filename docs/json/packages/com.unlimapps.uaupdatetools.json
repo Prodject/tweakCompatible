@@ -3057,9 +3057,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3076,6 +3076,15 @@
           "date": "2018-08-16T18:16:15Z",
           "userName": "o9u",
           "issueNumber": 44324,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "Work for blocking update and downgrade option. Not for remove badges update on AppStore",
+          "date": "2019-01-18T13:16:29Z",
+          "userName": "tryaink",
+          "issueNumber": 57521,
           "arch32": false
         }
       ]
