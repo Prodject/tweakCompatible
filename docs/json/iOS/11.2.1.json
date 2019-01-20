@@ -2293,22 +2293,21 @@
       ]
     },
     {
-      "id": "com.spicat.blurrybadges",
+      "id": "org.thebigboss.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.2",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "PoomSmart",
       "commercial": false,
-      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.2",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.2.1",
-          "repository": "Spica T Repo",
-          "date": "2018-08-08T20:54:34Z",
+          "repository": "BigBoss",
+          "date": "2018-07-08T07:10:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2327,21 +2326,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.blurrybadges",
+      "id": "com.spicat.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
+      "latest": "1.2",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "PoomSmart",
+      "author": "SpicaT",
       "commercial": false,
+      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.2",
           "iOSVersion": "11.2.1",
-          "repository": "BigBoss",
-          "date": "2018-07-08T07:10:18Z",
+          "repository": "Spica T Repo",
+          "date": "2018-08-08T20:54:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5467,7 +5467,7 @@
     {
       "id": "com.foxfort.darksounds",
       "name": "DarkSounds",
-      "latest": "1.2.2",
+      "latest": "1.2.4",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.foxfort.darksounds/",
       "shortDescription": "Dark mode for Apple Music",
@@ -6408,39 +6408,6 @@
       ]
     },
     {
-      "id": "com.spark.easyswitcherx",
-      "name": "EasySwitcherX [Public]",
-      "latest": "0.0.4-5",
-      "repository": "Spark's Beta Repo",
-      "url": "http://beta.sparkservers.co.uk/",
-      "shortDescription": "Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)",
-      "category": "Tweaks",
-      "author": "Spark",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.4-5",
-          "iOSVersion": "11.2.1",
-          "repository": "Spark's Beta Repo",
-          "date": "2018-07-08T06:41:51Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.easyswitcherx",
       "name": "EasySwitcherX [Public]",
       "latest": "0.0.4-5",
@@ -6463,6 +6430,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spark.easyswitcherx",
+      "name": "EasySwitcherX [Public]",
+      "latest": "0.0.4-5",
+      "repository": "Spark's Beta Repo",
+      "url": "http://beta.sparkservers.co.uk/",
+      "shortDescription": "Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)",
+      "category": "Tweaks",
+      "author": "Spark",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-5",
+          "iOSVersion": "11.2.1",
+          "repository": "Spark's Beta Repo",
+          "date": "2018-07-08T06:41:51Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8284,7 +8284,7 @@
     {
       "id": "com.smokin1337.fugap",
       "name": "FUGap",
-      "latest": "2.1-2",
+      "latest": "2.2",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.smokin1337.fugap/",
       "shortDescription": "Close the gap at the top of the cc !",
@@ -11732,7 +11732,7 @@
     {
       "id": "io.ominousness.modernxi",
       "name": "ModernXI",
-      "latest": "0.1.2",
+      "latest": "0.1.3",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/io.ominousness.modernxi/",
       "shortDescription": "A tweak that does something weird to notifications.",
@@ -11865,6 +11865,39 @@
       ]
     },
     {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "11.2.1",
+          "repository": "BigBoss",
+          "date": "2018-07-13T18:01:12Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -11885,39 +11918,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "11.2.1",
-          "repository": "BigBoss",
-          "date": "2018-07-13T18:01:12Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -15648,7 +15648,7 @@
     {
       "id": "org.coolstar.sileo",
       "name": "Sileo (Beta)",
-      "latest": "0.4b5",
+      "latest": "0.4b6",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/org.coolstar.sileo/",
       "shortDescription": "A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)",
@@ -18424,9 +18424,9 @@
           "repository": "BigBoss",
           "date": "2019-01-16T07:06:33Z",
           "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
