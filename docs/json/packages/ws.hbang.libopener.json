@@ -373,10 +373,10 @@
       "date": "2018-07-29T04:09:57Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 72,
+        "percentage": 66,
         "good": 8,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -483,6 +483,15 @@
           "date": "2018-11-05T15:59:07Z",
           "userName": "soum91",
           "issueNumber": 54656,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "On unc0ver, opener breaks phone calls and links",
+          "date": "2019-01-20T15:45:08Z",
+          "userName": "swang530",
+          "issueNumber": 57571,
           "arch32": false
         }
       ]
