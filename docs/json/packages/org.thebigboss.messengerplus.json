@@ -115,10 +115,10 @@
       "date": "2018-07-14T23:40:50Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 60,
-        "good": 3,
+        "percentage": 66,
+        "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -171,6 +171,15 @@
           "date": "2018-10-25T05:28:35Z",
           "userName": "SonNguyenSpace",
           "issueNumber": 53926,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,2",
+          "issues": "Not all the settings are working",
+          "date": "2019-01-19T17:55:12Z",
+          "userName": "Shengheer",
+          "issueNumber": 57557,
           "arch32": false
         }
       ]
