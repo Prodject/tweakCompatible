@@ -17,10 +17,10 @@
       "date": "2018-07-30T15:03:27Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2018-12-21T12:19:28Z",
           "userName": "ZerOneX",
           "issueNumber": 56509,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad7,1",
+          "issues": "",
+          "date": "2019-01-18T17:04:41Z",
+          "userName": "RiPx88",
+          "issueNumber": 57526,
           "arch32": false
         }
       ]
