@@ -57,10 +57,10 @@
       "date": "2018-07-09T12:44:53Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 87,
-        "good": 14,
+        "percentage": 88,
+        "good": 15,
         "bad": 0,
-        "total": 16,
+        "total": 17,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -212,6 +212,15 @@
           "date": "2018-11-11T00:40:22Z",
           "userName": "andy9744",
           "issueNumber": 55016,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-01-19T00:52:20Z",
+          "userName": "t10i",
+          "issueNumber": 57538,
           "arch32": false
         }
       ]
