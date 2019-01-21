@@ -125,9 +125,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -144,6 +144,15 @@
           "date": "2018-12-23T15:50:25Z",
           "userName": "GhostenigmaX",
           "issueNumber": 56569,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-01-21T13:54:59Z",
+          "userName": "buitim",
+          "issueNumber": 57585,
           "arch32": false
         }
       ]
