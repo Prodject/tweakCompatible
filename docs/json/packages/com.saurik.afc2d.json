@@ -151,9 +151,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -188,6 +188,15 @@
           "date": "2018-03-04T20:40:16Z",
           "userName": "Teracell",
           "issueNumber": 3866,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-01-22T20:20:47Z",
+          "userName": "gochart420",
+          "issueNumber": 57627,
           "arch32": false
         }
       ]
