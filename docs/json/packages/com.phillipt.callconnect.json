@@ -107,11 +107,11 @@
       "repository": "BigBoss",
       "date": "2018-07-07T17:38:45Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 85,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -182,6 +182,15 @@
           "date": "2018-08-05T14:54:25Z",
           "userName": "sumaznstyle",
           "issueNumber": 39169,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Crashes phone app, I have no other phone tweaks",
+          "date": "2019-01-22T03:19:58Z",
+          "userName": "starmega",
+          "issueNumber": 57594,
           "arch32": false
         }
       ]
