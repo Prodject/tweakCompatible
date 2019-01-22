@@ -1435,10 +1435,10 @@
       "date": "2018-12-31T12:04:24Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 91,
-        "good": 11,
+        "percentage": 92,
+        "good": 12,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1554,6 +1554,15 @@
           "date": "2019-01-17T18:45:36Z",
           "userName": "vxrsce",
           "issueNumber": 57506,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-01-22T07:46:26Z",
+          "userName": "Martin-SF",
+          "issueNumber": 57605,
           "arch32": false
         }
       ]
