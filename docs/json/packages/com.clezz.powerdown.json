@@ -14,11 +14,11 @@
       "iOSVersion": "10.2",
       "repository": "BigBoss",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -44,6 +44,15 @@
           "date": "2017-12-31T16:03:20Z",
           "userName": "Tatsh",
           "issueNumber": 571,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "It crashes when I use the functionality (could be for oggetto tweak I have, dk)",
+          "date": "2019-01-22T22:19:12Z",
+          "userName": "giacomocaco",
+          "issueNumber": 57635,
           "arch32": false
         }
       ]
