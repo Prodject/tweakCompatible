@@ -1,7 +1,7 @@
 {
   "id": "ldid",
   "name": "Link Identity Editor",
-  "latest": "2.0.1-2",
+  "latest": "1.2.2-coolstar2",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/ldid/",
   "shortDescription": "pseudo-codesign Mach-O files",
@@ -862,6 +862,37 @@
           "date": "2019-01-15T06:01:12Z",
           "userName": "M4ZT3R",
           "issueNumber": 57360,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.2-coolstar2",
+      "iOSVersion": "11.1.2",
+      "repository": "Electra's iOS Utilities",
+      "date": "2019-01-22T06:04:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-01-22T06:04:34Z",
+          "userName": "Valaisin",
+          "issueNumber": 57598,
           "arch32": false
         }
       ]
