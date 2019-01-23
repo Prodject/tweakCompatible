@@ -204,6 +204,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.2.2",
+      "iOSVersion": "11.3",
+      "repository": "s1ris",
+      "date": "2019-01-23T01:43:05Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-01-23T01:43:05Z",
+          "userName": "Sahmoee",
+          "issueNumber": 57644,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
