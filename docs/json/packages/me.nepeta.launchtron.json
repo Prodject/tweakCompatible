@@ -1,7 +1,7 @@
 {
   "id": "me.nepeta.launchtron",
   "name": "Launchtron",
-  "latest": "0.1.1",
+  "latest": "0.1.2",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/me.nepeta.launchtron/",
   "shortDescription": "Fast circular app launcher",
@@ -73,6 +73,37 @@
           "date": "2019-01-15T00:05:13Z",
           "userName": "starmega",
           "issueNumber": 57339,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.2",
+      "iOSVersion": "11.3.1",
+      "repository": "Nepeta",
+      "date": "2019-01-24T03:13:35Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Doesn’t appear to work",
+          "date": "2019-01-24T03:13:35Z",
+          "userName": "XweAponX",
+          "issueNumber": 57664,
           "arch32": false
         }
       ]
