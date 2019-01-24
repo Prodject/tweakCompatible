@@ -20,7 +20,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2019-01-23T22:07:44Z",
           "userName": "abir1909",
           "issueNumber": 57657,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "SETTINGS AIN’T THERE",
+          "date": "2019-01-24T07:50:00Z",
+          "userName": "XweAponX",
+          "issueNumber": 57677,
           "arch32": false
         }
       ]
