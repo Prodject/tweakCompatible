@@ -1,7 +1,7 @@
 {
   "id": "me.alfhaily.rocket",
   "name": "Rocket for Instagram",
-  "latest": "3.2.5",
+  "latest": "3.2.7",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
   "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -4142,6 +4142,37 @@
           "date": "2019-01-13T04:31:53Z",
           "userName": "Passsenger57",
           "issueNumber": 57279,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.2.7",
+      "iOSVersion": "11.3.1",
+      "repository": "Alfhaily APT",
+      "date": "2019-01-24T01:39:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-01-24T01:39:34Z",
+          "userName": "vxrsce",
+          "issueNumber": 57663,
           "arch32": false
         }
       ]
