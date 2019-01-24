@@ -1551,18 +1551,18 @@
           "status": "working",
           "device": "iPhone8,1",
           "issues": "",
-          "date": "2019-01-17T18:45:36Z",
-          "userName": "vxrsce",
-          "issueNumber": 57506,
+          "date": "2019-01-22T07:46:26Z",
+          "userName": "Martin-SF",
+          "issueNumber": 57605,
           "arch32": false
         },
         {
           "status": "working",
           "device": "iPhone8,1",
           "issues": "",
-          "date": "2019-01-22T07:46:26Z",
-          "userName": "Martin-SF",
-          "issueNumber": 57605,
+          "date": "2019-01-24T00:40:52Z",
+          "userName": "vxrsce",
+          "issueNumber": 57659,
           "arch32": false
         }
       ]
