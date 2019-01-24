@@ -1,0 +1,76 @@
+{
+  "id": "com.muirey03.hive",
+  "name": "Hive",
+  "latest": "1.0.0-1",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.muirey03.hive/",
+  "shortDescription": "Redesigned passcode screen",
+  "category": "Tweaks",
+  "author": "Muirey03",
+  "commercial": false,
+  "date": "2019-01-24T08:28:53Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0-1",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2019-01-24T08:28:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-01-24T08:28:53Z",
+          "userName": "ThyGiant",
+          "issueNumber": 57678,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0-1",
+      "iOSVersion": "11.2.5",
+      "repository": "Packix",
+      "date": "2019-01-24T08:54:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-01-24T08:54:20Z",
+          "userName": "liljonny53",
+          "issueNumber": 57679,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
