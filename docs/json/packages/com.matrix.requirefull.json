@@ -203,10 +203,10 @@
       "date": "2018-07-20T20:21:02Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -241,6 +241,15 @@
           "date": "2019-01-08T18:20:57Z",
           "userName": "hero3210",
           "issueNumber": 57164,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,1",
+          "issues": "",
+          "date": "2019-01-25T13:07:27Z",
+          "userName": "RiPx88",
+          "issueNumber": 57708,
           "arch32": false
         }
       ]
