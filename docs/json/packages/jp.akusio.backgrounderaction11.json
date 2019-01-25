@@ -1,7 +1,7 @@
 {
   "id": "jp.akusio.backgrounderaction11",
   "name": "Backgrounder Action",
-  "latest": "0.0.3",
+  "latest": "0.0.6",
   "repository": "akusio repo",
   "url": "http://cydia.saurik.com/package/jp.akusio.backgrounderaction11/",
   "shortDescription": "*Currnetly in Beta* Add \"Toggle Background Mode\" action to Activator.",
@@ -73,6 +73,37 @@
           "date": "2018-09-30T10:50:41Z",
           "userName": "wolferous",
           "issueNumber": 51932,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.6",
+      "iOSVersion": "11.3.1",
+      "repository": "akusio repo",
+      "date": "2019-01-25T11:22:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-01-25T11:22:25Z",
+          "userName": "soum91",
+          "issueNumber": 57705,
           "arch32": false
         }
       ]
