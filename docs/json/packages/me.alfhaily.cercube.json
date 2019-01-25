@@ -1,7 +1,7 @@
 {
   "id": "me.alfhaily.cercube",
   "name": "Cercube for YouTube",
-  "latest": "4.2.2.8",
+  "latest": "4.2.2.9",
   "repository": "Alfhaily APT",
   "url": "https://apt.alfhaily.me/",
   "shortDescription": "Download YouTube videos and more!",
@@ -3363,6 +3363,37 @@
           "date": "2018-12-16T03:45:20Z",
           "userName": "Medkorpz",
           "issueNumber": 56268,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.2.2.9",
+      "iOSVersion": "11.3.1",
+      "repository": "Alfhaily APT",
+      "date": "2019-01-25T00:20:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-01-25T00:20:14Z",
+          "userName": "vxrsce",
+          "issueNumber": 57693,
           "arch32": false
         }
       ]
