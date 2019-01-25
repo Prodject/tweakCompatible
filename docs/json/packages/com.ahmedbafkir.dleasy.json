@@ -16,9 +16,9 @@
       "repository": "BigBoss",
       "date": "2019-01-23T22:07:44Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
         "total": 2,
         "arch32": {
@@ -32,20 +32,20 @@
       "users": [
         {
           "status": "not working",
-          "device": "iPhone10,3",
-          "issues": "iPhone X. No where in settings to be found to enable.",
-          "date": "2019-01-23T22:07:44Z",
-          "userName": "abir1909",
-          "issueNumber": 57657,
-          "arch32": false
-        },
-        {
-          "status": "not working",
           "device": "iPhone8,2",
           "issues": "SETTINGS AIN’T THERE",
           "date": "2019-01-24T07:50:00Z",
           "userName": "XweAponX",
           "issueNumber": 57677,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-01-24T23:56:35Z",
+          "userName": "abir1909",
+          "issueNumber": 57690,
           "arch32": false
         }
       ]
