@@ -1,7 +1,7 @@
 {
   "id": "com.tigisoftware.filza64bit",
   "name": "Filza File Manager (64-bit only)",
-  "latest": "3.6.0-35",
+  "latest": "3.6.0-37",
   "repository": "tigisoftware.com",
   "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
   "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -2096,6 +2096,37 @@
           "date": "2019-01-23T23:15:02Z",
           "userName": "vxrsce",
           "issueNumber": 57658,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.6.0-37",
+      "iOSVersion": "11.2.1",
+      "repository": "TIGI Software",
+      "date": "2019-01-24T23:46:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-01-24T23:46:10Z",
+          "userName": "tryaink",
+          "issueNumber": 57688,
           "arch32": false
         }
       ]
