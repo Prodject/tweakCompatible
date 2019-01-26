@@ -1,7 +1,7 @@
 {
   "id": "org.thebigboss.appcon",
   "name": "Appcon",
-  "latest": "1.4.3",
+  "latest": "1.4.3-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/org.thebigboss.appcon/",
   "shortDescription": "Set icon images from your photo library.",
@@ -675,6 +675,37 @@
           "date": "2018-11-13T18:17:43Z",
           "userName": "LiaVsHerself",
           "issueNumber": 55176,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.3-1",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2019-01-26T05:03:15Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Installs, has preferences, but doesn’t change any icons. Broken",
+          "date": "2019-01-26T05:03:15Z",
+          "userName": "XweAponX",
+          "issueNumber": 57715,
           "arch32": false
         }
       ]
