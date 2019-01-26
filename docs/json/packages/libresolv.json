@@ -1,7 +1,7 @@
 {
   "id": "libresolv",
   "name": "libresolv",
-  "latest": "25-2",
+  "latest": "25-3",
   "repository": "Bingner/Elucubratus",
   "url": "http://cydia.saurik.com/package/libresolv/",
   "shortDescription": "Darwin's copy of Bind's resolution engine",
@@ -99,6 +99,37 @@
           "date": "2018-11-04T16:21:49Z",
           "userName": "MoDzMonster1337",
           "issueNumber": 54600,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "25-3",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-01-26T06:59:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-01-26T06:59:37Z",
+          "userName": "atifchy",
+          "issueNumber": 57716,
           "arch32": false
         }
       ]
