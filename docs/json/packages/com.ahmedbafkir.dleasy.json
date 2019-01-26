@@ -1,7 +1,7 @@
 {
   "id": "com.ahmedbafkir.dleasy",
   "name": "DLEasy",
-  "latest": "1.0",
+  "latest": "1.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
   "shortDescription": "Download images & videos from social apps easily!",
@@ -46,6 +46,37 @@
           "date": "2019-01-24T23:56:35Z",
           "userName": "abir1909",
           "issueNumber": 57690,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "11.2.1",
+      "repository": "BigBoss",
+      "date": "2019-01-26T21:04:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-01-26T21:04:57Z",
+          "userName": "tryaink",
+          "issueNumber": 57736,
           "arch32": false
         }
       ]
