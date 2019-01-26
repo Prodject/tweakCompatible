@@ -671,7 +671,7 @@
     {
       "id": "org.thebigboss.appcon",
       "name": "Appcon",
-      "latest": "1.4.3",
+      "latest": "1.4.3-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.appcon/",
       "shortDescription": "Set icon images from your photo library.",
@@ -904,7 +904,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "0-1",
+      "latest": "1.7.0-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1193,7 +1193,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-4",
+      "latest": "1-5",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -2064,7 +2064,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.8",
+      "latest": "4.2.2.9",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -3747,10 +3747,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.0-33",
+      "latest": "3.6.0-38",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "shortDescription": "File Manager for iOS. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -3860,6 +3860,26 @@
           "iOSVersion": "9.3.5",
           "repository": "TIGI Software",
           "date": "2018-12-20T19:01:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        },
+        {
+          "tweakVersion": "3.6.0-38",
+          "iOSVersion": "9.3.5",
+          "repository": "BigBoss",
+          "date": "2019-01-26T11:46:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5185,7 +5205,7 @@
     {
       "id": "ldid",
       "name": "Link Identity Editor",
-      "latest": "2.0.1-2",
+      "latest": "1.2.2-coolstar2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/ldid/",
       "shortDescription": "pseudo-codesign Mach-O files",
