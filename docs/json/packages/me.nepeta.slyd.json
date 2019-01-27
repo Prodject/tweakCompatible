@@ -49,9 +49,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -68,6 +68,15 @@
           "date": "2019-01-27T11:05:52Z",
           "userName": "kutiyakripya",
           "issueNumber": 57748,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,4",
+          "issues": "Canceling the password opens camera. I can still press home to get in. ",
+          "date": "2019-01-27T16:15:59Z",
+          "userName": "cydiaz",
+          "issueNumber": 57752,
           "arch32": false
         }
       ]
