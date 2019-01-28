@@ -199,10 +199,10 @@
       "date": "2018-12-08T14:35:46Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -237,6 +237,15 @@
           "date": "2018-12-29T19:34:55Z",
           "userName": "XweAponX",
           "issueNumber": 56783,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-01-28T08:29:31Z",
+          "userName": "dvavjednom",
+          "issueNumber": 57770,
           "arch32": false
         }
       ]
