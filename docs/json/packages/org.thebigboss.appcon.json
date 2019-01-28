@@ -685,11 +685,11 @@
       "repository": "BigBoss",
       "date": "2019-01-26T05:03:15Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -706,6 +706,15 @@
           "date": "2019-01-26T05:03:15Z",
           "userName": "XweAponX",
           "issueNumber": 57715,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-01-28T20:08:46Z",
+          "userName": "JohnLockeNJ",
+          "issueNumber": 57781,
           "arch32": false
         }
       ]
