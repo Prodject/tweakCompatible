@@ -736,6 +736,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.1.5",
+      "iOSVersion": "11.4",
+      "repository": "Packix",
+      "date": "2019-01-28T14:10:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-01-28T14:10:08Z",
+          "userName": "DeadlySkull",
+          "issueNumber": 57779,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
