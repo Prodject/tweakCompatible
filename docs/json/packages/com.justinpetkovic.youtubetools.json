@@ -1702,10 +1702,10 @@
       "date": "2018-09-06T01:08:30Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 81,
-        "good": 9,
+        "percentage": 83,
+        "good": 10,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1812,6 +1812,15 @@
           "date": "2018-11-08T00:18:25Z",
           "userName": "moonshinejeff",
           "issueNumber": 54883,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-01-29T00:52:17Z",
+          "userName": "LittleMuslim",
+          "issueNumber": 57789,
           "arch32": false
         }
       ]
