@@ -366,9 +366,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 80,
-        "good": 28,
+        "good": 29,
         "bad": 0,
-        "total": 35,
+        "total": 36,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -691,6 +691,15 @@
           "date": "2018-11-06T01:02:47Z",
           "userName": "tomhmoses",
           "issueNumber": 54764,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "no settings?",
+          "date": "2019-01-29T00:42:38Z",
+          "userName": "LittleMuslim",
+          "issueNumber": 57788,
           "arch32": false
         }
       ]
