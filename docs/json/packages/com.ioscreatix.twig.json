@@ -694,12 +694,12 @@
           "arch32": false
         },
         {
-          "status": "partial",
+          "status": "working",
           "device": "iPhone9,3",
-          "issues": "no settings?",
-          "date": "2019-01-29T00:42:38Z",
+          "issues": "",
+          "date": "2019-01-29T00:41:15Z",
           "userName": "LittleMuslim",
-          "issueNumber": 57788,
+          "issueNumber": 57787,
           "arch32": false
         }
       ]
