@@ -56,11 +56,11 @@
       "repository": "julioverne's Repo",
       "date": "2018-07-08T09:55:42Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 6,
+        "calculatedStatus": "Working",
+        "percentage": 77,
+        "good": 7,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -140,6 +140,15 @@
           "date": "2019-01-22T08:12:44Z",
           "userName": "buitim",
           "issueNumber": 57607,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-01-29T07:01:44Z",
+          "userName": "dollerbill",
+          "issueNumber": 57790,
           "arch32": false
         }
       ]
