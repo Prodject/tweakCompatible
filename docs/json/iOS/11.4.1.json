@@ -568,6 +568,39 @@
       ]
     },
     {
+      "id": "flex3beta",
+      "name": "Flex 3 Beta",
+      "latest": "3~Beta50",
+      "repository": "Delta",
+      "url": "http://getdelta.co/",
+      "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
+      "category": "Tweaks",
+      "author": "John Coates",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "3~Beta50",
+          "iOSVersion": "11.4.1",
+          "repository": "Delta",
+          "date": "2019-01-30T22:37:25Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.modmyi.grandtheftautozeppelinicons",
       "name": "Grand Theft Auto zeppelin icons",
       "latest": "1.0",
