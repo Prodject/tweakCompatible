@@ -903,6 +903,40 @@
       ]
     },
     {
+      "id": "com.skylerk99.nodelete",
+      "name": "NoMsgDelete",
+      "latest": "1.0",
+      "repository": "Skylerk99",
+      "url": "http://cydia.saurik.com/package/com.skylerk99.nodelete/",
+      "shortDescription": "Swipe to delete no longer will delete message conversations in the stock message app.",
+      "category": "Tweaks",
+      "author": "Skyler Kansala",
+      "commercial": false,
+      "date": "2018-03-31T21:11:35Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4.1",
+          "repository": "Skylerk99",
+          "date": "2019-01-30T22:25:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.nudekeys",
       "name": "NudeKeys",
       "latest": "4.3",
