@@ -1079,6 +1079,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.0.6b2",
+      "iOSVersion": "11.4.1",
+      "repository": "Dream Code",
+      "date": "2019-01-30T22:27:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-01-30T22:27:24Z",
+          "userName": "ios-reports",
+          "issueNumber": 57874,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
