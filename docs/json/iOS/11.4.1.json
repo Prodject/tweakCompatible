@@ -335,6 +335,39 @@
       ]
     },
     {
+      "id": "com.thomasfinch.dim",
+      "name": "Dim",
+      "latest": "1.5.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.thomasfinch.dim/",
+      "shortDescription": "Dim your screen even further!",
+      "category": "Tweaks",
+      "author": "Thomas Finch",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.5.2",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-01-30T22:27:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.secondeight1.dockinswitcher",
       "name": "DockInSwitcher",
       "latest": "1.0-17+debug",
