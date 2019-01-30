@@ -770,6 +770,40 @@
       ]
     },
     {
+      "id": "com.rpetrich.treadmill",
+      "name": "Treadmill",
+      "latest": "0.2",
+      "repository": "rpetrich repo",
+      "url": "http://cydia.saurik.com/package/com.rpetrich.treadmill/",
+      "shortDescription": "How far have you scrolled?",
+      "category": "Tweaks",
+      "author": "Ryan Petrich",
+      "commercial": false,
+      "date": "2018-03-20T16:17:03Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2",
+          "iOSVersion": "11.4.1",
+          "repository": "rpetrich repo",
+          "date": "2019-01-30T21:58:58Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.alex.tweakcount2",
       "name": "Tweak Count 2",
       "latest": "1.0.1",
