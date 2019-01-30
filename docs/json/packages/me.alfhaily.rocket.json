@@ -4233,10 +4233,10 @@
       "date": "2019-01-29T23:07:04Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4271,6 +4271,15 @@
           "date": "2019-01-30T03:08:46Z",
           "userName": "atifchy",
           "issueNumber": 57813,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "crash my instagram app",
+          "date": "2019-01-30T14:11:11Z",
+          "userName": "LittleMuslim",
+          "issueNumber": 57817,
           "arch32": false
         }
       ]
