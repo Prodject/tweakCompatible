@@ -1508,6 +1508,39 @@
       ]
     },
     {
+      "id": "com.brunonfl.wijoin",
+      "name": "WiJoin",
+      "latest": "1.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.brunonfl.wijoin/",
+      "shortDescription": "Show the network you connected to when you connect like in Android!",
+      "category": "Tweaks",
+      "author": "Bruno Andrade",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.2",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-01-30T22:10:10Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.conkerkh.ythdandads",
       "name": "YouTube no Ads/HQ3G",
       "latest": "1.1-4",
