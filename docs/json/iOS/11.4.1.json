@@ -1441,6 +1441,40 @@
       ]
     },
     {
+      "id": "org.thebigboss.whomadeit",
+      "name": "WhoMadeIt",
+      "latest": "1.0.0",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.whomadeit/",
+      "shortDescription": "Show the author of Cydia package in list",
+      "category": "Tweaks",
+      "author": "PoomSmart",
+      "commercial": false,
+      "date": "2018-03-31T21:11:09Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-01-30T22:10:22Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ashapps.wifipasswordslist",
       "name": "Wifi Passwords List",
       "latest": "1.0.1-1",
