@@ -4247,15 +4247,6 @@
       },
       "users": [
         {
-          "status": "working",
-          "device": "iPhone8,1",
-          "issues": "",
-          "date": "2019-01-29T23:07:04Z",
-          "userName": "vxrsce",
-          "issueNumber": 57808,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone9,3",
           "issues": "General stuck time to time",
@@ -4280,6 +4271,15 @@
           "date": "2019-01-30T14:10:20Z",
           "userName": "LittleMuslim",
           "issueNumber": 57816,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-01-30T15:28:08Z",
+          "userName": "vxrsce",
+          "issueNumber": 57818,
           "arch32": false
         }
       ]
