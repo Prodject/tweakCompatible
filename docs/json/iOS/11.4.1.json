@@ -403,6 +403,39 @@
       ]
     },
     {
+      "id": "ws.hbang.newterm2",
+      "name": "NewTerm 2",
+      "latest": "2.0",
+      "repository": "cydia.hbang.ws",
+      "url": "https://cydia.hbang.ws/",
+      "shortDescription": "A powerful terminal app for iOS",
+      "category": "Terminal Support",
+      "author": "HASHBANG Productions",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "11.4.1",
+          "repository": "Chariz",
+          "date": "2019-01-30T19:04:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "it.dreamcode.picobanners2",
       "name": "PicoBanners 2",
       "latest": "0.0.1b2",
