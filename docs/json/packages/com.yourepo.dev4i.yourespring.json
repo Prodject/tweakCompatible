@@ -1,10 +1,10 @@
 {
   "id": "com.yourepo.dev4i.yourespring",
   "name": "YouRespring",
-  "latest": "1.7.4",
+  "latest": "1.7.3",
   "repository": "Dev4i Source - YouRepo",
   "url": "http://cydia.saurik.com/package/com.yourepo.dev4i.yourespring/",
-  "shortDescription": "Create custom respring animations from GIFs. (Pinterest is a great source of GIFs)",
+  "shortDescription": "Create custom respring animations from GIFs.",
   "category": "Tweaks",
   "author": "dev4i",
   "commercial": true,
@@ -596,6 +596,37 @@
           "date": "2019-01-21T23:43:59Z",
           "userName": "cfz31",
           "issueNumber": 57590,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.7.3",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-01-31T21:01:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-01-31T21:01:24Z",
+          "userName": "Giovannigiacomo96",
+          "issueNumber": 57973,
           "arch32": false
         }
       ]
