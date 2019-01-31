@@ -1964,11 +1964,11 @@
       "repository": "Ryley's Repo",
       "date": "2019-01-31T10:11:52Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1985,6 +1985,15 @@
           "date": "2019-01-31T10:11:52Z",
           "userName": "Giovannigiacomo96",
           "issueNumber": 57915,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-01-31T11:13:35Z",
+          "userName": "ios-reports",
+          "issueNumber": 57920,
           "arch32": false
         }
       ]
