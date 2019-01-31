@@ -4094,6 +4094,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kiiimo.badiosbad",
+      "name": "badiOSBad",
+      "latest": "1.0.5",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.badiosbad/",
+      "shortDescription": "Block iOS System Updates from the core and destroy app revokes!",
+      "category": "iOS 11.3x",
+      "author": "Ignition",
+      "commercial": false,
+      "date": "2018-08-19T02:18:12Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "11.3",
+          "repository": "(null)",
+          "date": "2018-08-19T02:18:12Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "fun.ignition.badiosbad",
       "name": "badiOSBad",
       "latest": "1.2.5-debug-1+debug",
@@ -4130,40 +4164,6 @@
           "iOSVersion": "11.3",
           "repository": "(null)",
           "date": "2018-09-02T23:24:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.kiiimo.badiosbad",
-      "name": "badiOSBad",
-      "latest": "1.0.5",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.badiosbad/",
-      "shortDescription": "Block iOS System Updates from the core and destroy app revokes!",
-      "category": "iOS 11.3x",
-      "author": "Ignition",
-      "commercial": false,
-      "date": "2018-08-19T02:18:12Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "11.3",
-          "repository": "(null)",
-          "date": "2018-08-19T02:18:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5669,40 +5669,6 @@
       ]
     },
     {
-      "id": "com.tapthaker.bigshotjb11",
-      "name": "BigShotJb (iOS 11)",
-      "latest": "0.0.2-2",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.tapthaker.bigshotjb11/",
-      "shortDescription": "take screenshots of full vertical scrollable area",
-      "category": "Tweaks",
-      "author": "Tapan Thaker (tapthaker)",
-      "commercial": false,
-      "date": "2018-08-09T15:22:16Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.2-2",
-          "iOSVersion": "11.3",
-          "repository": "(null)",
-          "date": "2018-08-12T16:47:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.julioverne.bigshotjb11",
       "name": "BigShotJb (iOS 11)",
       "latest": "0.0.2-2b",
@@ -5725,6 +5691,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tapthaker.bigshotjb11",
+      "name": "BigShotJb (iOS 11)",
+      "latest": "0.0.2-2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.tapthaker.bigshotjb11/",
+      "shortDescription": "take screenshots of full vertical scrollable area",
+      "category": "Tweaks",
+      "author": "Tapan Thaker (tapthaker)",
+      "commercial": false,
+      "date": "2018-08-09T15:22:16Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.2-2",
+          "iOSVersion": "11.3",
+          "repository": "(null)",
+          "date": "2018-08-12T16:47:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -9948,7 +9948,7 @@
     {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2",
+      "latest": "2.0.2-1+debug",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
@@ -11478,7 +11478,7 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.32~b2",
+      "latest": "1.1.32~b12",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
       "shortDescription": "graphical iPhone front-end for APT",
@@ -12607,6 +12607,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.iarrays.deletecontact",
+      "name": "Delete Contact",
+      "latest": "1.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.iarrays.deletecontact/",
+      "shortDescription": "single or multi-delete contacts; trash icon",
+      "category": "Tweaks",
+      "author": "IArrays",
+      "commercial": false,
+      "date": "2018-03-01T05:43:58Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2019-01-31T22:34:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -42257,39 +42291,6 @@
       ]
     },
     {
-      "id": "be.submanifold.weatherlock",
-      "name": "WeatherLock",
-      "latest": "0.1.13",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
-      "shortDescription": "animated weather background on the lock screen",
-      "category": "Tweaks",
-      "author": "rainwolf",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "0.1.13",
-          "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-08-04T01:03:16Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "be.submanifold.weatherlock11",
       "name": "WeatherLock",
       "latest": "0.0.1-95+debug",
@@ -42310,6 +42311,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "be.submanifold.weatherlock",
+      "name": "WeatherLock",
+      "latest": "0.1.13",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
+      "shortDescription": "animated weather background on the lock screen",
+      "category": "Tweaks",
+      "author": "rainwolf",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "0.1.13",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2018-08-04T01:03:16Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
