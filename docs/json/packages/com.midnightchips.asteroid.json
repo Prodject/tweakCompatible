@@ -17,10 +17,10 @@
       "date": "2018-12-18T07:58:40Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -55,6 +55,15 @@
           "date": "2019-01-15T09:28:43Z",
           "userName": "adil192",
           "issueNumber": 57385,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,2",
+          "issues": "Safemode on lockscreen settings",
+          "date": "2019-01-31T05:06:37Z",
+          "userName": "anonypublic",
+          "issueNumber": 57906,
           "arch32": false
         }
       ]
