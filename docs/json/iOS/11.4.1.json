@@ -869,6 +869,40 @@
       ]
     },
     {
+      "id": "com.ouraigua.jodebox",
+      "name": "JODebox",
+      "latest": "3.0.7",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.ouraigua.jodebox/",
+      "shortDescription": "iOS7 filesystem access from sandboxed applications.",
+      "category": "Development",
+      "author": "Jalal Ouraigua",
+      "commercial": false,
+      "date": "2018-03-01T00:58:34Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0.7",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-01-31T02:57:41Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.libcolorpicker",
       "name": "libcolorpicker",
       "latest": "1.6-1",
