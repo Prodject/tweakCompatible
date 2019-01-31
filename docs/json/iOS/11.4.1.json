@@ -969,6 +969,40 @@
       ]
     },
     {
+      "id": "io.ominousness.mitsuhaxi",
+      "name": "MitsuhaXI",
+      "latest": "0.5.4",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/io.ominousness.mitsuhaxi/",
+      "shortDescription": "Universal iOS 11 audio visualizer",
+      "category": "Tweaks",
+      "author": "c0ldra1n",
+      "commercial": false,
+      "date": "2018-02-28T09:47:30Z",
+      "versions": [
+        {
+          "tweakVersion": "0.5.4",
+          "iOSVersion": "11.4.1",
+          "repository": "Nepeta",
+          "date": "2019-01-31T02:02:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.qusic.networklist",
       "name": "NetworkList",
       "latest": "0.4.1",
