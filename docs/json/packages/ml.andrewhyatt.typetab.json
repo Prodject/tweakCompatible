@@ -1,7 +1,7 @@
 {
   "id": "ml.andrewhyatt.typetab",
   "name": "TypeTab",
-  "latest": "3.0",
+  "latest": "3.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/ml.andrewhyatt.typetab/",
   "shortDescription": "Faster address entry for Safari tabs",
@@ -130,6 +130,37 @@
           "date": "2018-11-18T18:03:52Z",
           "userName": "WhittleMark",
           "issueNumber": 55414,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.2",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2019-01-31T20:41:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "Opening Safari✔️ Creating a new tab❌",
+          "date": "2019-01-31T20:41:24Z",
+          "userName": "burkybang",
+          "issueNumber": 57971,
           "arch32": false
         }
       ]
