@@ -264,10 +264,10 @@
         {
           "status": "not working",
           "device": "iPhone10,5",
-          "issues": "Nothing work ",
-          "date": "2019-01-31T10:47:09Z",
+          "issues": "Not working",
+          "date": "2019-01-31T10:46:21Z",
           "userName": "tryaink",
-          "issueNumber": 57917,
+          "issueNumber": 57916,
           "arch32": false
         }
       ]
