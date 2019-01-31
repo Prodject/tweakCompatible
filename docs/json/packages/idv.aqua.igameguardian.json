@@ -811,9 +811,9 @@
       "repository": "iGG",
       "date": "2019-01-31T19:12:51Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
         "bad": 0,
         "total": 1,
         "arch32": {
@@ -826,12 +826,12 @@
       },
       "users": [
         {
-          "status": "not working",
+          "status": "working",
           "device": "iPhone10,5",
-          "issues": "",
-          "date": "2019-01-31T19:12:51Z",
+          "issues": "Work with igg from Flex tweak ",
+          "date": "2019-01-31T19:36:31Z",
           "userName": "tryaink",
-          "issueNumber": 57954,
+          "issueNumber": 57955,
           "arch32": false
         }
       ]
