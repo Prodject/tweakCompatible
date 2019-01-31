@@ -1434,11 +1434,11 @@
       "repository": "BigBoss",
       "date": "2019-01-30T21:33:52Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1455,6 +1455,15 @@
           "date": "2019-01-30T21:33:52Z",
           "userName": "Vaporeonus",
           "issueNumber": 57854,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-01-31T19:59:18Z",
+          "userName": "Ectalite",
+          "issueNumber": 57960,
           "arch32": false
         }
       ]
