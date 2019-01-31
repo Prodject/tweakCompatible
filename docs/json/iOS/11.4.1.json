@@ -968,6 +968,40 @@
       ]
     },
     {
+      "id": "com.ps-vxbakerxv.emoji121fontefm",
+      "name": "Emoji iOS 12.1",
+      "latest": "1.0",
+      "repository": "EmojiPort Fonts Repo",
+      "url": "http://cydia.saurik.com/package/com.ps-vxbakerxv.emoji121fontefm/",
+      "shortDescription": "EmojiFontManager",
+      "category": "EFM Fonts",
+      "author": "PoomSmart & vXBaKeRXv",
+      "commercial": false,
+      "date": "2018-10-24T11:00:13Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4.1",
+          "repository": "EmojiPort Fonts Repo",
+          "date": "2019-01-31T23:21:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.julioverne.ext3nder-installer",
       "name": "Ext3nder Installer",
       "latest": "021a",
