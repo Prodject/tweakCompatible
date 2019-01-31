@@ -302,6 +302,40 @@
       ]
     },
     {
+      "id": "org.thebigboss.breadcrumbsaway",
+      "name": "BreadcrumbsAway",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.breadcrumbsaway/",
+      "shortDescription": "dismiss iOS 9's back-to-app link",
+      "category": "Tweaks",
+      "author": "Hamza Sood",
+      "commercial": false,
+      "date": "2018-02-28T05:56:02Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-01-31T21:58:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.browserbreadcrumbcleanup",
       "name": "BrowserBreadcrumbCleanup",
       "latest": "2.0-1",
