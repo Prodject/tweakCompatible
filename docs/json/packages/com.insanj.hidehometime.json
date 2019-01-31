@@ -115,10 +115,10 @@
       "date": "2018-07-18T03:12:12Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -144,6 +144,15 @@
           "date": "2018-09-02T12:36:19Z",
           "userName": "Kymek77",
           "issueNumber": 48727,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-01-31T15:21:12Z",
+          "userName": "tay255555",
+          "issueNumber": 57937,
           "arch32": false
         }
       ]
