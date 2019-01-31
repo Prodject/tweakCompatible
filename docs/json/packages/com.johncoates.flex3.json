@@ -764,10 +764,10 @@
       "date": "2018-07-26T03:54:39Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -793,6 +793,15 @@
           "date": "2018-09-23T23:26:06Z",
           "userName": "OVisuals",
           "issueNumber": 51355,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-01-31T18:12:09Z",
+          "userName": "tryaink",
+          "issueNumber": 57947,
           "arch32": false
         }
       ]
