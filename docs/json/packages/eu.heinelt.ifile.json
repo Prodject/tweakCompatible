@@ -573,6 +573,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.2.0-1",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-01-30T23:30:24Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "32 bit only. “Needs to be updated for iOS11”",
+          "date": "2019-01-30T23:30:24Z",
+          "userName": "btraas",
+          "issueNumber": 57887,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
