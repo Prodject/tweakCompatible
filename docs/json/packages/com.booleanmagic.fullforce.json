@@ -131,6 +131,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.4.1",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-01-30T23:52:32Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "Triggers safe mode",
+          "date": "2019-01-30T23:52:32Z",
+          "userName": "btraas",
+          "issueNumber": 57889,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
