@@ -3446,9 +3446,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3474,6 +3474,15 @@
           "date": "2019-01-29T23:07:14Z",
           "userName": "vxrsce",
           "issueNumber": 57809,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Works perfectly, better than others 👍",
+          "date": "2019-01-31T20:54:55Z",
+          "userName": "moonshinejeff",
+          "issueNumber": 57972,
           "arch32": false
         }
       ]
