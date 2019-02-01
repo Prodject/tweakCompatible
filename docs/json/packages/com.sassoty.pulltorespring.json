@@ -1683,9 +1683,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1702,6 +1702,15 @@
           "date": "2019-01-31T23:10:02Z",
           "userName": "Goldstriker208",
           "issueNumber": 57984,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-02-01T02:58:08Z",
+          "userName": "AWNetworkYT",
+          "issueNumber": 58027,
           "arch32": false
         }
       ]
