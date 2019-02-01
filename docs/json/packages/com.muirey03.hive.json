@@ -1,7 +1,7 @@
 {
   "id": "com.muirey03.hive",
   "name": "Hive",
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.muirey03.hive/",
   "shortDescription": "Redesigned passcode screen",
@@ -108,6 +108,37 @@
           "date": "2019-01-25T14:38:00Z",
           "userName": "RiPx88",
           "issueNumber": 57710,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "11.4",
+      "repository": "Packix",
+      "date": "2019-02-01T02:26:44Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-01T02:26:44Z",
+          "userName": "percyjk23",
+          "issueNumber": 58011,
           "arch32": false
         }
       ]
