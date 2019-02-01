@@ -262,6 +262,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.4.3-2",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-02-01T17:09:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,4",
+          "issues": "A lot is broken",
+          "date": "2019-02-01T17:09:54Z",
+          "userName": "Ectalite",
+          "issueNumber": 58116,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
