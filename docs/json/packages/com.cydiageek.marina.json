@@ -1,7 +1,7 @@
 {
   "id": "com.cydiageek.marina",
   "name": "Marina",
-  "latest": "1.0.5",
+  "latest": "1.0.6",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.cydiageek.marina/",
   "shortDescription": "Change the Numbers of the Icons of the Dock & More!",
@@ -356,6 +356,37 @@
           "date": "2018-11-17T06:34:29Z",
           "userName": "f-steff",
           "issueNumber": 55318,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.6",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-02-01T02:31:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-02-01T02:31:03Z",
+          "userName": "AWNetworkYT",
+          "issueNumber": 58016,
           "arch32": false
         }
       ]
