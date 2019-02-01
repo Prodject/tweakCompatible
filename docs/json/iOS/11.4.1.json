@@ -603,6 +603,40 @@
       ]
     },
     {
+      "id": "com.smokin1337.blackoutcc",
+      "name": "BlackOutCC",
+      "latest": "0.0.8",
+      "repository": "smokin1337's Repo",
+      "url": "http://cydia.saurik.com/package/com.smokin1337.blackoutcc/",
+      "shortDescription": "Blackout the control center and folders. Also hide page dots, cc statusbar, folder labels and remove background blur.",
+      "category": "Tweaks",
+      "author": "smokin1337",
+      "commercial": false,
+      "date": "2018-03-23T13:57:55Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.8",
+          "iOSVersion": "11.4.1",
+          "repository": "smokin1337's Repo",
+          "date": "2019-02-01T10:24:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.gnos.bloard",
       "name": "Bloard",
       "latest": "0.1.2-1",
