@@ -1965,10 +1965,10 @@
       "date": "2019-01-31T10:11:52Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1994,6 +1994,15 @@
           "date": "2019-01-31T11:13:35Z",
           "userName": "ios-reports",
           "issueNumber": 57920,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "Works but not for all apps.",
+          "date": "2019-02-01T14:14:50Z",
+          "userName": "AshleyDodd",
+          "issueNumber": 58086,
           "arch32": false
         }
       ]
