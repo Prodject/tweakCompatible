@@ -219,9 +219,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -247,6 +247,15 @@
           "date": "2018-10-28T17:05:46Z",
           "userName": "mohitt01p",
           "issueNumber": 54175,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,1",
+          "issues": "2.1 worked but had some issues for me. Downgraded to 2.0 and works perfect.",
+          "date": "2019-02-01T14:01:54Z",
+          "userName": "RiPx88",
+          "issueNumber": 58076,
           "arch32": false
         }
       ]
