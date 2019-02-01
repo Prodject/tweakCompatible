@@ -1564,11 +1564,11 @@
       "repository": "jailbreak365's Repo",
       "date": "2018-11-27T15:40:06Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1603,6 +1603,15 @@
           "date": "2019-01-03T12:42:52Z",
           "userName": "xXG0DLessXx",
           "issueNumber": 57019,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Respringloop on unc0ver 2.2.x - 3.0.x",
+          "date": "2019-02-01T02:29:34Z",
+          "userName": "Sinane",
+          "issueNumber": 58013,
           "arch32": false
         }
       ]
