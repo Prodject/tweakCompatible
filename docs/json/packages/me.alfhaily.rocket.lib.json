@@ -1,7 +1,7 @@
 {
   "id": "me.alfhaily.rocket.lib",
   "name": "libRocket",
-  "latest": "1.0.5",
+  "latest": "1.0.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/me.alfhaily.rocket.lib/",
   "shortDescription": "A library used by Rocket tweak",
@@ -379,6 +379,37 @@
           "date": "2019-01-24T12:15:49Z",
           "userName": "atifchy",
           "issueNumber": 57681,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-02-01T03:02:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-02-01T03:02:57Z",
+          "userName": "AWNetworkYT",
+          "issueNumber": 58032,
           "arch32": false
         }
       ]

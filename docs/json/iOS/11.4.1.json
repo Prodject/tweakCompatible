@@ -2273,6 +2273,40 @@
       ]
     },
     {
+      "id": "me.alfhaily.rocket.lib",
+      "name": "libRocket",
+      "latest": "1.0.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/me.alfhaily.rocket.lib/",
+      "shortDescription": "A library used by Rocket tweak",
+      "category": "Development",
+      "author": "Majd Alfhaily",
+      "commercial": false,
+      "date": "2018-05-07T21:05:20Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-01T03:02:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.modmyi.libswift4",
       "name": "libswift4",
       "latest": "4.2.1-1",
