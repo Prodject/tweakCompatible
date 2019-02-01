@@ -1728,10 +1728,10 @@
       "date": "2019-01-30T22:30:56Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1757,6 +1757,15 @@
           "date": "2019-01-31T17:29:06Z",
           "userName": "PiratePieRat",
           "issueNumber": 57941,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-02-01T14:10:36Z",
+          "userName": "AshleyDodd",
+          "issueNumber": 58077,
           "arch32": false
         }
       ]
