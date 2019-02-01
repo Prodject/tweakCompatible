@@ -300,6 +300,39 @@
       ]
     },
     {
+      "id": "me.autotouch.autotouch.ios8",
+      "name": "AutoTouch",
+      "latest": "4.3.7",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/me.autotouch.autotouch.ios8/",
+      "shortDescription": "Record and playback touch operations, play macro scripts automatically.",
+      "category": "Tweaks",
+      "author": "Kent Krantz",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "4.3.7",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-01T04:17:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.kunderscore.avertas",
       "name": "Avertas",
       "latest": "9-3",
