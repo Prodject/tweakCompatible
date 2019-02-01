@@ -1,7 +1,7 @@
 {
   "id": "com.opa334.safariplus",
   "name": "Safari Plus",
-  "latest": "1.6.4",
+  "latest": "1.6.5",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.opa334.safariplus/",
   "shortDescription": "Various enhancements to Safari!",
@@ -3452,6 +3452,37 @@
           "date": "2019-01-16T17:23:55Z",
           "userName": "CapnCodems",
           "issueNumber": 57482,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6.5",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2019-02-01T17:13:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-02-01T17:13:39Z",
+          "userName": "atifchy",
+          "issueNumber": 58117,
           "arch32": false
         }
       ]
