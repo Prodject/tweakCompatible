@@ -3383,6 +3383,40 @@
       ]
     },
     {
+      "id": "me.alfhaily.rocket",
+      "name": "Rocket for Instagram",
+      "latest": "3.0.17",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
+      "shortDescription": "posts and view stories anonymously and do much more",
+      "category": "Tweaks",
+      "author": "Majd Alfhaily",
+      "commercial": false,
+      "date": "2018-03-09T01:00:26Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0.17",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-01T03:02:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.rpetrich.rocketbootstrap",
       "name": "RocketBootstrap",
       "latest": "1.0.6",
