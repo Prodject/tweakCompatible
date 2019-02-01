@@ -1106,6 +1106,39 @@
       ]
     },
     {
+      "id": "com.sticktron.croutons",
+      "name": "Croutons (iOS 9/10)",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.sticktron.croutons/",
+      "shortDescription": "Show app icon for statusbar breadcrumb trail",
+      "category": "Tweaks",
+      "author": "Sticktron",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0-1",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-01T07:20:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "cydia",
       "name": "Cydia Installer",
       "latest": "1.1.32~b12",
