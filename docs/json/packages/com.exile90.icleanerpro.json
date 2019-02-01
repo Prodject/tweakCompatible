@@ -3956,9 +3956,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3975,6 +3975,15 @@
           "date": "2019-01-27T14:24:04Z",
           "userName": "MattieThurlow96",
           "issueNumber": 57750,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,2",
+          "issues": "The tweak doesn't do anything. No App, no cleaner. Nothing",
+          "date": "2019-02-01T22:42:03Z",
+          "userName": "yohano",
+          "issueNumber": 58131,
           "arch32": false
         }
       ]
