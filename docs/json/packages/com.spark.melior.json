@@ -595,12 +595,12 @@
       },
       "users": [
         {
-          "status": "partial",
+          "status": "working",
           "device": "iPhone8,2",
           "issues": "",
-          "date": "2019-02-01T01:51:11Z",
+          "date": "2019-02-01T01:35:42Z",
           "userName": "AWNetworkYT",
-          "issueNumber": 58010,
+          "issueNumber": 58003,
           "arch32": false
         }
       ]
