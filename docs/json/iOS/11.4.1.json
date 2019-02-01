@@ -1701,6 +1701,40 @@
       ]
     },
     {
+      "id": "com.lizynz.fullfolderx",
+      "name": "FullFolderX",
+      "latest": "2.0-1",
+      "repository": "Lizynz's Repo",
+      "url": "http://cydia.saurik.com/package/com.lizynz.fullfolderx/",
+      "shortDescription": "Full screen folders on homescreen",
+      "category": "Tweaks",
+      "author": "Lizynz",
+      "commercial": false,
+      "date": "2018-07-15T10:09:59Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0-1",
+          "iOSVersion": "11.4.1",
+          "repository": "Lizynz's Repo",
+          "date": "2019-02-01T03:24:25Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.booleanmagic.fullforce",
       "name": "FullForce",
       "latest": "1.4.1",
