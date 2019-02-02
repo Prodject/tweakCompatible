@@ -1386,6 +1386,40 @@
       ]
     },
     {
+      "id": "com.cl3ment.bootsound",
+      "name": "BootSound",
+      "latest": "1.2",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.cl3ment.bootsound/",
+      "shortDescription": "Play a sound when SpringBoard starts up",
+      "category": "Tweaks",
+      "author": "cl3ment",
+      "commercial": false,
+      "date": "2018-03-02T12:29:45Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2",
+          "iOSVersion": "11.4.1",
+          "repository": "ModMyi (Archive)",
+          "date": "2019-02-02T10:05:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.joemerlino.breadcrumbarrow",
       "name": "BreadCrumbArrow",
       "latest": "0.0.1-5",
