@@ -1376,6 +1376,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-01T10:42:53Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -1396,39 +1429,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-01T10:42:53Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -5290,6 +5290,39 @@
           "iOSVersion": "11.4.1",
           "repository": "CreatureSurvive's Repo",
           "date": "2019-02-01T15:03:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.laughingquoll.siliqua",
+      "name": "Siliqua",
+      "latest": "2.0",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.laughingquoll.siliqua/",
+      "shortDescription": "AirPods Gestures and New Features",
+      "category": "Tweaks",
+      "author": "LaughingQuoll",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "11.4.1",
+          "repository": "Packix",
+          "date": "2019-02-02T01:27:32Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
