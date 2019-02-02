@@ -1386,6 +1386,40 @@
       ]
     },
     {
+      "id": "com.kingpuffdaddi.boostedwifi",
+      "name": "BoostedWifi",
+      "latest": "1.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.kingpuffdaddi.boostedwifi/",
+      "shortDescription": "shows all networks and signal level(RSSI)",
+      "category": "Tweaks",
+      "author": "KingPuffdaddi",
+      "commercial": false,
+      "date": "2018-03-19T16:16:16Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-02T10:05:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.cl3ment.bootsound",
       "name": "BootSound",
       "latest": "1.2",
