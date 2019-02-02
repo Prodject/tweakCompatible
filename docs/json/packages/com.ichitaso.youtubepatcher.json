@@ -1,10 +1,10 @@
 {
   "id": "com.ichitaso.youtubepatcher",
   "name": "YouTubePatcher",
-  "latest": "0.1-5",
+  "latest": "0.1-6",
   "repository": "ichitaso repository",
   "url": "http://cydia.saurik.com/package/com.ichitaso.youtubepatcher/",
-  "shortDescription": "NoAds/Background Play back (Check Ver.12.34 9/7/2017)",
+  "shortDescription": "No inline Ads/Background Play back",
   "category": "Tweaks",
   "author": "ichitaso",
   "commercial": false,
@@ -126,6 +126,37 @@
           "date": "2018-11-20T06:27:58Z",
           "userName": "dayu03",
           "issueNumber": 55518,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-6",
+      "iOSVersion": "11.4",
+      "repository": "ichitaso repository",
+      "date": "2019-02-02T20:59:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-02T20:59:01Z",
+          "userName": "percyjk23",
+          "issueNumber": 58455,
           "arch32": false
         }
       ]
