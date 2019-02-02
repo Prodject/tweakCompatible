@@ -1487,6 +1487,40 @@
       ]
     },
     {
+      "id": "com.creaturecoding.bubbles",
+      "name": "bubbles",
+      "latest": "0.3.0b",
+      "repository": "CreatureSurvive's Repo",
+      "url": "http://cydia.saurik.com/package/com.creaturecoding.bubbles/",
+      "shortDescription": "Make your Messages pop!",
+      "category": "Tweaks",
+      "author": "CreatureSurvive",
+      "commercial": false,
+      "date": "2018-07-23T01:00:26Z",
+      "versions": [
+        {
+          "tweakVersion": "0.3.0b",
+          "iOSVersion": "11.4.1",
+          "repository": "CreatureSurvive's Repo",
+          "date": "2019-02-02T10:05:58Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.midkin.byebyehud",
       "name": "ByeByeHUD",
       "latest": "1.1.3",
