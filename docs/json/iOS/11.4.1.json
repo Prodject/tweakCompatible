@@ -7356,6 +7356,40 @@
       ]
     },
     {
+      "id": "org.coolstar.sileo",
+      "name": "Sileo (Beta)",
+      "latest": "0.4b6",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/org.coolstar.sileo/",
+      "shortDescription": "A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)",
+      "category": "Packaging",
+      "author": "CoolStar",
+      "commercial": false,
+      "date": "2018-12-25T23:56:10Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4b6",
+          "iOSVersion": "11.4.1",
+          "repository": "Electra's iOS Utilities",
+          "date": "2019-02-02T01:42:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.laughingquoll.siliqua",
       "name": "Siliqua",
       "latest": "2.0",
