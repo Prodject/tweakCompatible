@@ -3483,10 +3483,10 @@
         {
           "status": "partial",
           "device": "iPhone10,1",
-          "issues": "As tried by Limneos and Jakeashacks, some volume button functionality is broken. You know what, as a whole very little functions work and their “fix” packages don’t work either.",
-          "date": "2019-02-02T01:09:20Z",
+          "issues": "Some functionality is broken",
+          "date": "2019-02-02T02:33:45Z",
           "userName": "Hydroxing",
-          "issueNumber": 58140,
+          "issueNumber": 58234,
           "arch32": false
         }
       ]
