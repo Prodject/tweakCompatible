@@ -1949,10 +1949,10 @@
       "date": "2018-10-24T17:14:54Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 83,
-        "good": 5,
+        "percentage": 85,
+        "good": 6,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2014,6 +2014,15 @@
           "date": "2018-12-17T22:15:43Z",
           "userName": "narwhaldc",
           "issueNumber": 56367,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-02T19:53:28Z",
+          "userName": "JohnLockeNJ",
+          "issueNumber": 58384,
           "arch32": false
         }
       ]
