@@ -7551,6 +7551,40 @@
       ]
     },
     {
+      "id": "com.spicat.phototorch",
+      "name": "PhotoTorch",
+      "latest": "1.7",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.phototorch/",
+      "shortDescription": "adjustable torch for camera app.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-18T20:17:42Z",
+      "versions": [
+        {
+          "tweakVersion": "1.7",
+          "iOSVersion": "11.4.1",
+          "repository": "Spica T Repo",
+          "date": "2019-02-02T10:16:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "it.dreamcode.picobanners2",
       "name": "PicoBanners 2",
       "latest": "0.0.1b2",
