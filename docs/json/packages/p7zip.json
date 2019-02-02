@@ -1,10 +1,10 @@
 {
   "id": "p7zip",
   "name": "7-zip (POSIX)",
-  "latest": "16.02",
+  "latest": "16.02-1",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/p7zip/",
-  "shortDescription": "A port of 7za.exe for POSIX systems like Unix",
+  "shortDescription": "claims to be a good compressor",
   "category": "Archiving",
   "author": "(null)",
   "commercial": false,
@@ -600,6 +600,37 @@
           "date": "2019-02-02T01:49:24Z",
           "userName": "Hydroxing",
           "issueNumber": 58213,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "16.02-1",
+      "iOSVersion": "11.4.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-02-02T20:00:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-02-02T20:00:24Z",
+          "userName": "md-siam",
+          "issueNumber": 58387,
           "arch32": false
         }
       ]
