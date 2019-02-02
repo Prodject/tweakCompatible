@@ -5578,6 +5578,40 @@
       ]
     },
     {
+      "id": "se.nosskirneh.spotifyhistory",
+      "name": "SpotifyHistory",
+      "latest": "1.6",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/se.nosskirneh.spotifyhistory/",
+      "shortDescription": "View recently played tracks in Spotify",
+      "category": "Tweaks",
+      "author": "Andreas Henriksson",
+      "commercial": false,
+      "date": "2018-03-02T14:57:42Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-02T01:27:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.wizages.springchanger",
       "name": "SpringChanger",
       "latest": "0.3",
