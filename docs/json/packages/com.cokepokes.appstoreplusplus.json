@@ -1483,11 +1483,11 @@
       "repository": "CokePokes",
       "date": "2019-02-02T01:10:25Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1504,6 +1504,15 @@
           "date": "2019-02-02T01:10:25Z",
           "userName": "Hydroxing",
           "issueNumber": 58141,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "Crashes app store",
+          "date": "2019-02-02T05:41:20Z",
+          "userName": "btraas",
+          "issueNumber": 58247,
           "arch32": false
         }
       ]
