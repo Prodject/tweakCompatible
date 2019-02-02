@@ -124,12 +124,12 @@
       },
       "users": [
         {
-          "status": "working",
+          "status": "partial",
           "device": "iPhone8,4",
-          "issues": "",
-          "date": "2019-02-02T09:08:31Z",
+          "issues": "It work only for few settings-app. (Cirdock doesnt remove)",
+          "date": "2019-02-02T11:46:46Z",
           "userName": "Giovannigiacomo96",
-          "issueNumber": 58255,
+          "issueNumber": 58330,
           "arch32": false
         }
       ]
