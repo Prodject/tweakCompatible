@@ -1,7 +1,7 @@
 {
   "id": "com.pokego2.pokego2-11",
   "name": "PokeGo++ 2.0 for Electra!",
-  "latest": "2.0r-103",
+  "latest": "2.0r-104",
   "repository": "pokego2.com",
   "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
   "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -3107,6 +3107,37 @@
           "date": "2019-01-26T09:14:29Z",
           "userName": "atifchy",
           "issueNumber": 57718,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0r-104",
+      "iOSVersion": "11.4",
+      "repository": "Global++ Tweaks",
+      "date": "2019-02-02T20:58:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-02T20:58:42Z",
+          "userName": "percyjk23",
+          "issueNumber": 58454,
           "arch32": false
         }
       ]
