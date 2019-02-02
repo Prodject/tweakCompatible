@@ -8305,9 +8305,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 4,
+        "good": 5,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -8351,6 +8351,15 @@
           "date": "2019-02-02T19:12:59Z",
           "userName": "CrazyGermanHacker",
           "issueNumber": 58372,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-02-02T19:06:53Z",
+          "userName": "md-siam",
+          "issueNumber": 58368,
           "arch32": false
         }
       ]
