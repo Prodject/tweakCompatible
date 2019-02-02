@@ -11813,6 +11813,40 @@
       ]
     },
     {
+      "id": "ws.hbang.writingaletter2",
+      "name": "WritingALetter 2",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ws.hbang.writingaletter2/",
+      "shortDescription": "Would you like help?",
+      "category": "Tweaks",
+      "author": "HASHBANG Productions",
+      "commercial": false,
+      "date": "2018-12-03T17:40:41Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-02T11:41:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ws.hbang.writingaletter2.agents",
       "name": "WritingALetter Agents",
       "latest": "1.0",
