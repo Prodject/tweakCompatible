@@ -4,7 +4,7 @@
   "latest": "1.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.codeymoore.nofade/",
-  "shortDescription": "Stops song duration labels from fading away in the Now Playing view on Spotify.",
+  "shortDescription": "Stops duration labels from fading away on Spotify",
   "category": "Tweaks",
   "author": "Codey Moore",
   "commercial": false,
@@ -179,6 +179,37 @@
           "date": "2018-09-15T13:36:50Z",
           "userName": "ajorpheus",
           "issueNumber": 50479,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "11.4.1",
+      "repository": "Packix",
+      "date": "2019-02-02T01:26:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-02T01:26:34Z",
+          "userName": "Hydroxing",
+          "issueNumber": 58178,
           "arch32": false
         }
       ]
