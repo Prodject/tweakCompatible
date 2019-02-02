@@ -1841,6 +1841,40 @@
       ]
     },
     {
+      "id": "com.rthakrar.defaultplayer",
+      "name": "DefaultPlayer",
+      "latest": "1.8",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.rthakrar.defaultplayer/",
+      "shortDescription": "Choose your default music player app.",
+      "category": "Tweaks",
+      "author": "Ron Thakrar",
+      "commercial": false,
+      "date": "2018-03-18T17:17:44Z",
+      "versions": [
+        {
+          "tweakVersion": "1.8",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-02T01:21:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.detailedbatteryusage",
       "name": "DetailedBatteryUsage",
       "latest": "1.1.1",
