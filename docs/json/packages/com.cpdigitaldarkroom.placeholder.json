@@ -331,10 +331,10 @@
       "date": "2018-07-24T00:56:20Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 88,
-        "good": 8,
+        "percentage": 90,
+        "good": 9,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -423,6 +423,15 @@
           "date": "2018-08-03T02:03:30Z",
           "userName": "reyes101209",
           "issueNumber": 38233,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-02T20:06:52Z",
+          "userName": "JohnLockeNJ",
+          "issueNumber": 58411,
           "arch32": false
         }
       ]
