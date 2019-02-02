@@ -7812,7 +7812,7 @@
     {
       "id": "com.spark.melior",
       "name": "melior",
-      "latest": "1.0.6-1",
+      "latest": "1.0.8-1",
       "repository": "Spark's Beta Repo",
       "url": "http://cydia.saurik.com/package/com.spark.melior/",
       "shortDescription": "Custom volume HUD",
@@ -7826,6 +7826,26 @@
           "iOSVersion": "11.4.1",
           "repository": "OLD - Add https://sparkdev.me",
           "date": "2019-02-01T01:51:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.8-1",
+          "iOSVersion": "11.4.1",
+          "repository": "SparkDev",
+          "date": "2019-02-02T19:00:13Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
