@@ -7551,6 +7551,39 @@
       ]
     },
     {
+      "id": "net.tateu.photodata",
+      "name": "PhotoData",
+      "latest": "1.0.0~beta19",
+      "repository": "tateu's repo",
+      "url": "http://tateu.net/repo/",
+      "shortDescription": "View Photo Exif data and Video data in the Photos App. Open GPS location in Maps.",
+      "category": "Tweaks",
+      "author": "tateu (Josh Harris)",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.0~beta19",
+          "iOSVersion": "11.4.1",
+          "repository": "tateu's repo",
+          "date": "2019-02-02T10:15:45Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.spicat.phototorch",
       "name": "PhotoTorch",
       "latest": "1.7",
