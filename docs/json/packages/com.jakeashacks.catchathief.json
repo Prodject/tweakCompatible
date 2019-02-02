@@ -65,11 +65,11 @@
       "repository": "BigBoss",
       "date": "2018-07-13T18:46:26Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 80,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 12,
         "bad": 0,
-        "total": 15,
+        "total": 16,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -212,6 +212,15 @@
           "date": "2018-07-29T15:57:34Z",
           "userName": "cesn0",
           "issueNumber": 35455,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Breaks vibration and flashlight when camera.app is accessed from the lockscreen",
+          "date": "2019-02-02T15:54:16Z",
+          "userName": "Bourhano",
+          "issueNumber": 58344,
           "arch32": false
         }
       ]
