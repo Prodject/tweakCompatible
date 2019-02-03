@@ -600,11 +600,11 @@
       "repository": "BigBoss",
       "date": "2018-07-12T05:59:05Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -630,6 +630,15 @@
           "date": "2018-07-29T12:10:40Z",
           "userName": "JerGisi",
           "issueNumber": 35407,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Doesn’t allow 5th icon, no conflicts installed either just doesn’t work iPhone X 11.4",
+          "date": "2019-02-03T16:05:58Z",
+          "userName": "Tweaker177",
+          "issueNumber": 58534,
           "arch32": false
         }
       ]
