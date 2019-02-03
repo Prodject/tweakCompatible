@@ -734,10 +734,10 @@
       "date": "2018-09-14T11:35:59Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 8,
+        "percentage": 81,
+        "good": 9,
         "bad": 0,
-        "total": 10,
+        "total": 11,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -835,6 +835,15 @@
           "date": "2019-01-22T18:22:04Z",
           "userName": "ThyGiant",
           "issueNumber": 57622,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-02-03T19:08:37Z",
+          "userName": "cdestefano",
+          "issueNumber": 58572,
           "arch32": false
         }
       ]
