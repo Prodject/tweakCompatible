@@ -503,6 +503,37 @@
           "arch32": true
         }
       ]
+    },
+    {
+      "tweakVersion": "1.1r-14",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-02-03T18:54:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-02-03T18:54:49Z",
+          "userName": "SoulessApollo",
+          "issueNumber": 58568,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
