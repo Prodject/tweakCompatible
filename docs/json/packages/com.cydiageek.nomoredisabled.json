@@ -200,6 +200,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-02-03T08:00:24Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "does not appear to lock you out, however when there are too many failed attempts it will make you enter a password to enable touch id, but when entering the correct password it rejects it for the amount of time you would have been locked out for",
+          "date": "2019-02-03T08:00:24Z",
+          "userName": "tjk918",
+          "issueNumber": 58513,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
