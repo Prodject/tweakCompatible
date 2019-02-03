@@ -1,10 +1,10 @@
 {
   "id": "com.creatix.switchservice",
   "name": "SwitchService",
-  "latest": "4.0.2",
+  "latest": "4.0.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.creatix.switchservice/",
-  "shortDescription": "Hold send button to switch iMsg & SMS",
+  "shortDescription": "Hold Send button to switch between iMessage & SMS",
   "category": "Tweaks",
   "author": "Creatix",
   "commercial": false,
@@ -658,6 +658,37 @@
           "date": "2018-10-25T15:26:48Z",
           "userName": "MattieThurlow96",
           "issueNumber": 53942,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.0.1",
+      "iOSVersion": "11.4.1",
+      "repository": "Packix",
+      "date": "2019-02-03T02:47:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-02-03T02:47:15Z",
+          "userName": "tez87",
+          "issueNumber": 58495,
           "arch32": false
         }
       ]
