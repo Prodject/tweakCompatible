@@ -1,10 +1,10 @@
 {
   "id": "com.aceruos.stacks",
   "name": "Stacks",
-  "latest": "0.0.1",
+  "latest": "1.0",
   "repository": "Chariz (HASHBANG Productions)",
   "url": "http://cydia.saurik.com/package/com.aceruos.stacks/",
-  "shortDescription": "A new outlook on your icons",
+  "shortDescription": "A new outlook on your icons. — Stacks is currently in Public Beta. This means that there will be updates to the icons, as well as additions to icons. If you would like to request an icon, please join us on our discord at https://aceruos.co/",
   "category": "Themes",
   "author": "Aceruos Team",
   "commercial": false,
@@ -73,6 +73,37 @@
           "date": "2018-10-15T16:03:14Z",
           "userName": "Ectalite",
           "issueNumber": 53094,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "11.4",
+      "repository": "Dynastic Repo",
+      "date": "2019-02-03T21:54:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-03T21:54:02Z",
+          "userName": "Tweaker177",
+          "issueNumber": 58577,
           "arch32": false
         }
       ]
