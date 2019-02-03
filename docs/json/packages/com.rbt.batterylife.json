@@ -1477,9 +1477,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1514,6 +1514,15 @@
           "date": "2018-07-19T23:10:21Z",
           "userName": "Maxow123",
           "issueNumber": 30164,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad6,4",
+          "issues": "",
+          "date": "2019-02-03T15:41:05Z",
+          "userName": "darkmoon980",
+          "issueNumber": 58533,
           "arch32": false
         }
       ]
