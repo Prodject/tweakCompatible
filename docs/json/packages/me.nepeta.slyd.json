@@ -49,9 +49,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -77,6 +77,15 @@
           "date": "2019-01-27T16:15:59Z",
           "userName": "cydiaz",
           "issueNumber": 57752,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,1",
+          "issues": "Running iOS 11.3.1 on iP8 and when having the option to change the text, after resprings, it doesn’t take effect and it’s glitchy when sliding to unlock the phone",
+          "date": "2019-02-04T16:59:05Z",
+          "userName": "RedX761",
+          "issueNumber": 58665,
           "arch32": false
         }
       ]
