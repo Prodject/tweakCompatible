@@ -3466,11 +3466,11 @@
       "repository": "rpetrich repo",
       "date": "2019-02-02T01:09:20Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3496,6 +3496,15 @@
           "date": "2019-02-03T10:38:06Z",
           "userName": "sarge187",
           "issueNumber": 58529,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Constantly having \"Activator features disabled because Cydia Substrate or RocketBootstrap is not functioning",
+          "date": "2019-02-04T19:36:26Z",
+          "userName": "x3hemang",
+          "issueNumber": 58672,
           "arch32": false
         }
       ]
