@@ -1,10 +1,10 @@
 {
   "id": "com.ioscreatix.intelix",
   "name": "Intelix",
-  "latest": "1.2.3",
+  "latest": "1.3.8",
   "repository": "iOS Creatix",
   "url": "http://cydia.saurik.com/package/com.ioscreatix.intelix/",
-  "shortDescription": "Grouped Notifications on iOS 11",
+  "shortDescription": "Grouped Notifications for iOS 11",
   "category": "Tweaks",
   "author": "iOS Creatix",
   "commercial": true,
@@ -1319,9 +1319,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1347,6 +1347,15 @@
           "date": "2018-09-28T03:23:50Z",
           "userName": "theskipster00",
           "issueNumber": 51697,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-04T03:48:13Z",
+          "userName": "mejazzyy",
+          "issueNumber": 58606,
           "arch32": false
         }
       ]
