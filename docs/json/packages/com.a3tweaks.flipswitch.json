@@ -1,7 +1,7 @@
 {
   "id": "com.a3tweaks.flipswitch",
   "name": "Flipswitch",
-  "latest": "1.0.16~beta2",
+  "latest": "1.0.15",
   "repository": "rpetrich repo",
   "url": "http://cydia.saurik.com/package/com.a3tweaks.flipswitch/",
   "shortDescription": "Centralized toggle system for iOS",
@@ -1054,6 +1054,37 @@
           "date": "2019-02-02T01:29:10Z",
           "userName": "Hydroxing",
           "issueNumber": 58187,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.15",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-02-04T22:53:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "With CCSupport",
+          "date": "2019-02-04T22:53:57Z",
+          "userName": "real7modi",
+          "issueNumber": 58682,
           "arch32": false
         }
       ]
