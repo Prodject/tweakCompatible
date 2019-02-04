@@ -660,11 +660,11 @@
       "repository": "BigBoss",
       "date": "2018-08-08T17:02:15Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -690,6 +690,15 @@
           "date": "2018-08-11T19:53:22Z",
           "userName": "ceilias",
           "issueNumber": 42128,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-04T05:22:04Z",
+          "userName": "mejazzyy",
+          "issueNumber": 58616,
           "arch32": false
         }
       ]
