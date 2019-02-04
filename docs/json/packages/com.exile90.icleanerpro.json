@@ -1,7 +1,7 @@
 {
   "id": "com.exile90.icleanerpro",
   "name": "iCleaner Pro",
-  "latest": "7.7.1~beta3",
+  "latest": "7.7.0",
   "repository": "Karen's Repo",
   "url": "http://ib-soft.net/icleaner",
   "shortDescription": "The first real iOS system cleaner & optimizer",
@@ -3996,9 +3996,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4024,6 +4024,15 @@
           "date": "2019-02-01T01:37:31Z",
           "userName": "AWNetworkYT",
           "issueNumber": 58006,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-02-04T22:54:51Z",
+          "userName": "real7modi",
+          "issueNumber": 58683,
           "arch32": false
         }
       ]
