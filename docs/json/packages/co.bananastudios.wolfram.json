@@ -383,10 +383,10 @@
       "date": "2018-07-07T06:36:52Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 94,
         "good": 17,
         "bad": 0,
-        "total": 17,
+        "total": 18,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -547,6 +547,15 @@
           "date": "2018-07-31T11:20:54Z",
           "userName": "m0kum",
           "issueNumber": 37025,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Once phone is charged, it freezes my phone and I have needed to rejailbreak every night x4 nights in a row. Uninstalled and works like normal again. Unc0ver 2.2",
+          "date": "2019-02-04T11:51:28Z",
+          "userName": "swang530",
+          "issueNumber": 58638,
           "arch32": false
         }
       ]
