@@ -1,7 +1,7 @@
 {
   "id": "se.nosskirneh.customlockscreenduration",
   "name": "CustomLockscreenDuration",
-  "latest": "1.3-2",
+  "latest": "1.4",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/se.nosskirneh.customlockscreenduration/",
   "shortDescription": "Customize time for sleep on lockscreen",
@@ -201,6 +201,37 @@
           "date": "2018-08-12T09:19:46Z",
           "userName": "elreydebangkok",
           "issueNumber": 42389,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-02-04T03:47:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-02-04T03:47:26Z",
+          "userName": "darksouls2835",
+          "issueNumber": 58599,
           "arch32": false
         }
       ]
