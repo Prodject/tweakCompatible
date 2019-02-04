@@ -1498,21 +1498,21 @@
       },
       "users": [
         {
-          "status": "working",
-          "device": "iPhone10,1",
-          "issues": "",
-          "date": "2019-02-02T01:10:25Z",
-          "userName": "Hydroxing",
-          "issueNumber": 58141,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPad7,5",
           "issues": "Crashes app store",
           "date": "2019-02-02T05:41:20Z",
           "userName": "btraas",
           "issueNumber": 58247,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-04T06:02:53Z",
+          "userName": "Hydroxing",
+          "issueNumber": 58622,
           "arch32": false
         }
       ]
