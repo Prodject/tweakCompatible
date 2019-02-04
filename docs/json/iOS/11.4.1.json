@@ -3378,39 +3378,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-01T10:42:53Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -3431,6 +3398,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-01T10:42:53Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -4869,40 +4869,6 @@
       ]
     },
     {
-      "id": "com.ahmedbafkir.dleasy",
-      "name": "DLEasy",
-      "latest": "1.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
-      "shortDescription": "Download images & videos from social apps easily!",
-      "category": "Tweaks",
-      "author": "Ahmed Bafkir",
-      "commercial": false,
-      "date": "2019-01-23T22:07:44Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-02T21:55:10Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 1,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.ahmedbafkir.dleasy",
       "name": "DLEasy",
       "latest": "1.2",
@@ -4925,6 +4891,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ahmedbafkir.dleasy",
+      "name": "DLEasy",
+      "latest": "1.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
+      "shortDescription": "Download images & videos from social apps easily!",
+      "category": "Tweaks",
+      "author": "Ahmed Bafkir",
+      "commercial": false,
+      "date": "2019-01-23T22:07:44Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-02T21:55:10Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -11580,6 +11580,40 @@
           "iOSVersion": "11.4.1",
           "repository": "Dream Code",
           "date": "2019-01-30T19:07:12Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ichitaso.pokegols",
+      "name": "PokeGo LS GIF",
+      "latest": "1.0-6",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.ichitaso.pokegols/",
+      "shortDescription": "PokeGO Team gif Lock Screen animation!",
+      "category": "Tweaks",
+      "author": "ichitaso",
+      "commercial": false,
+      "date": "2018-03-11T09:57:15Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-6",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-04T02:00:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
