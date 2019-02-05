@@ -174,9 +174,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -193,6 +193,15 @@
           "date": "2018-08-31T17:28:02Z",
           "userName": "DeadlySkull",
           "issueNumber": 48364,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-05T02:38:25Z",
+          "userName": "Tweaker177",
+          "issueNumber": 58699,
           "arch32": false
         }
       ]
