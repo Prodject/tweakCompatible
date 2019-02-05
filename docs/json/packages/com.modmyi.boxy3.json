@@ -58,6 +58,37 @@
           "arch32": true
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "11.4.1",
+      "repository": "ModMyi (Archive)",
+      "date": "2019-02-05T03:36:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "Quick Settings make the device go in to safe mode",
+          "date": "2019-02-05T03:36:28Z",
+          "userName": "hellotinh03",
+          "issueNumber": 58703,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
