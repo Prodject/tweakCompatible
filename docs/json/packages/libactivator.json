@@ -3467,10 +3467,10 @@
       "date": "2019-02-02T01:09:20Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3505,6 +3505,15 @@
           "date": "2019-02-04T19:36:26Z",
           "userName": "x3hemang",
           "issueNumber": 58672,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-02-05T03:39:54Z",
+          "userName": "hellotinh03",
+          "issueNumber": 58704,
           "arch32": false
         }
       ]
