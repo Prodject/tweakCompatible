@@ -1,7 +1,7 @@
 {
   "id": "com.fouadraheb.watusi",
   "name": "Watusi 2 for WhatsApp",
-  "latest": "1.1.7",
+  "latest": "1.1.8",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
   "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -4817,6 +4817,37 @@
           "date": "2019-02-04T18:23:37Z",
           "userName": "x3hemang",
           "issueNumber": 58669,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.8",
+      "iOSVersion": "11.3.1",
+      "repository": "Fouad's Repo",
+      "date": "2019-02-05T21:56:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-02-05T21:56:04Z",
+          "userName": "M4ZT3R",
+          "issueNumber": 58781,
           "arch32": false
         }
       ]
