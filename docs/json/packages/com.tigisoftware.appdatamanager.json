@@ -1,10 +1,10 @@
 {
   "id": "com.tigisoftware.appdatamanager",
   "name": "Apps Manager",
-  "latest": "1.4.0-45",
+  "latest": "1.4.0",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-  "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+  "shortDescription": "WIPE, BACKUP, RESTORE AppData for installed Apps",
   "category": "Utilities",
   "author": "TIGI Software",
   "commercial": false,
@@ -1842,6 +1842,37 @@
           "date": "2019-01-24T23:46:25Z",
           "userName": "tryaink",
           "issueNumber": 57689,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.0",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2019-02-05T17:21:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-02-05T17:21:02Z",
+          "userName": "LittleMuslim",
+          "issueNumber": 58761,
           "arch32": false
         }
       ]
