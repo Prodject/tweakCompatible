@@ -1118,11 +1118,11 @@
       "repository": "Chariz (HASHBANG Productions)",
       "date": "2018-07-30T18:17:18Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 6,
+        "calculatedStatus": "Working",
+        "percentage": 77,
+        "good": 7,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1202,6 +1202,15 @@
           "date": "2018-09-13T07:26:01Z",
           "userName": "iamfreddyg",
           "issueNumber": 50287,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Didn’t work with moveable9",
+          "date": "2019-02-05T11:17:46Z",
+          "userName": "glitchtrey",
+          "issueNumber": 58730,
           "arch32": false
         }
       ]
