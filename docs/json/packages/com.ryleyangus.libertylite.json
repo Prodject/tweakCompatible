@@ -1965,10 +1965,10 @@
       "date": "2019-01-31T10:11:52Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2003,6 +2003,15 @@
           "date": "2019-02-01T14:14:50Z",
           "userName": "AshleyDodd",
           "issueNumber": 58086,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-02-05T02:29:37Z",
+          "userName": "SoulessApollo",
+          "issueNumber": 58694,
           "arch32": false
         }
       ]
