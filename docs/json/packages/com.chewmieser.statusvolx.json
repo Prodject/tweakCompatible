@@ -1,7 +1,7 @@
 {
   "id": "com.chewmieser.statusvolx",
   "name": "StatusVol X",
-  "latest": "0.3.5-3",
+  "latest": "0.5-1+debug",
   "repository": "Chewmieser's Repo",
   "url": "http://apt.steverolfe.com/",
   "shortDescription": "Volume HUD in your status bar",
@@ -248,6 +248,37 @@
           "date": "2018-10-12T16:07:34Z",
           "userName": "dfsek",
           "issueNumber": 52857,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.5-1+debug",
+      "iOSVersion": "11.4.1",
+      "repository": "fidele007 Repo",
+      "date": "2019-02-06T06:08:35Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Displays “#0, #1, #2”, etc. In status bar and no settings appear in settings app.",
+          "date": "2019-02-06T06:08:35Z",
+          "userName": "ON3i11",
+          "issueNumber": 58804,
           "arch32": false
         }
       ]
