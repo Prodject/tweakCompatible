@@ -3466,11 +3466,11 @@
       "repository": "rpetrich repo",
       "date": "2019-02-02T01:09:20Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 2,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3514,6 +3514,15 @@
           "date": "2019-02-05T03:39:54Z",
           "userName": "hellotinh03",
           "issueNumber": 58704,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-06T13:24:50Z",
+          "userName": "viggou",
+          "issueNumber": 58834,
           "arch32": false
         }
       ]
