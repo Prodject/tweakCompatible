@@ -1,10 +1,10 @@
 {
   "id": "com.unlimapps.uaupdatetools",
   "name": "App Admin",
-  "latest": "1.0r-61",
+  "latest": "1.0r-101",
   "repository": "beta.unlimapps.com",
   "url": "https://beta.unlimapps.com/",
-  "shortDescription": "Downgrade apps to any previous version! No AppSync needed!!!",
+  "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
   "category": "System",
   "author": "UnlimApps Inc.",
   "commercial": false,
@@ -3407,9 +3407,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3426,6 +3426,15 @@
           "date": "2019-02-01T01:34:16Z",
           "userName": "AWNetworkYT",
           "issueNumber": 58002,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-02-06T09:39:05Z",
+          "userName": "onikvarikyan",
+          "issueNumber": 58828,
           "arch32": false
         }
       ]
