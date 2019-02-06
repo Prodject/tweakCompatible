@@ -200,11 +200,11 @@
       "repository": "beta.unlimapps.com",
       "date": "2018-07-09T05:20:33Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 37,
-        "good": 3,
+        "calculatedStatus": "Likely working",
+        "percentage": 44,
+        "good": 4,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -284,6 +284,15 @@
           "date": "2018-12-05T07:37:41Z",
           "userName": "CokePokes",
           "issueNumber": 55923,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Works fine with snalchat 10.8.0 with some modifications through filza",
+          "date": "2019-02-06T16:15:18Z",
+          "userName": "sajjadibraheem",
+          "issueNumber": 58838,
           "arch32": false
         }
       ]
