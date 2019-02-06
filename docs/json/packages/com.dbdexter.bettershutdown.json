@@ -1000,11 +1000,11 @@
       "repository": "BigBoss",
       "date": "2019-02-01T01:23:16Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1021,6 +1021,15 @@
           "date": "2019-02-01T01:23:16Z",
           "userName": "AWNetworkYT",
           "issueNumber": 57997,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Restart and power down instead respring into safe mode",
+          "date": "2019-02-06T05:26:13Z",
+          "userName": "ON3i11",
+          "issueNumber": 58801,
           "arch32": false
         }
       ]
