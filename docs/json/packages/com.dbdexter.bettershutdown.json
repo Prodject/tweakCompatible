@@ -1000,9 +1000,9 @@
       "repository": "BigBoss",
       "date": "2019-02-01T01:23:16Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
         "bad": 0,
         "total": 2,
         "arch32": {
@@ -1024,12 +1024,12 @@
           "arch32": false
         },
         {
-          "status": "not working",
+          "status": "partial",
           "device": "iPhone8,1",
-          "issues": "Restart and power down instead respring into safe mode",
-          "date": "2019-02-06T05:26:13Z",
+          "issues": "6s Unc0ver3.0.0b13. Restart button causes phone to respring into safe mode.",
+          "date": "2019-02-06T05:23:09Z",
           "userName": "ON3i11",
-          "issueNumber": 58801,
+          "issueNumber": 58800,
           "arch32": false
         }
       ]
