@@ -1,10 +1,10 @@
 {
   "id": "ca.ndoizo.bolders",
   "name": "Bolders",
-  "latest": "1.0-b3.1",
+  "latest": "1.0",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/ca.ndoizo.bolders/",
-  "shortDescription": "Bigger, bolder folders!",
+  "shortDescription": "Bigger bolder folders.",
   "category": "Tweaks",
   "author": "candoizo",
   "commercial": false,
@@ -1041,9 +1041,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1060,6 +1060,15 @@
           "date": "2019-02-05T04:05:34Z",
           "userName": "mllrr96",
           "issueNumber": 58705,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-07T21:41:42Z",
+          "userName": "teamstreetmotion",
+          "issueNumber": 58930,
           "arch32": false
         }
       ]
