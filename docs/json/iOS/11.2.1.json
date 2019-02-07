@@ -2489,22 +2489,21 @@
       ]
     },
     {
-      "id": "com.spicat.blurrybadges",
+      "id": "org.thebigboss.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.2",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "PoomSmart",
       "commercial": false,
-      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.2",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.2.1",
-          "repository": "Spica T Repo",
-          "date": "2018-08-08T20:54:34Z",
+          "repository": "BigBoss",
+          "date": "2018-07-08T07:10:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2523,21 +2522,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.blurrybadges",
+      "id": "com.spicat.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
+      "latest": "1.2",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "PoomSmart",
+      "author": "SpicaT",
       "commercial": false,
+      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.2",
           "iOSVersion": "11.2.1",
-          "repository": "BigBoss",
-          "date": "2018-07-08T07:10:18Z",
+          "repository": "Spica T Repo",
+          "date": "2018-08-08T20:54:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6592,6 +6592,40 @@
           "iOSVersion": "11.2.1",
           "repository": "Packix",
           "date": "2018-08-01T21:52:22Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "jp.r-plus.doublecut",
+      "name": "DoubleCut",
+      "latest": "0.4.1-1",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/jp.r-plus.doublecut/",
+      "shortDescription": "Double-/Triple-Tap/LongPress key to insert text",
+      "category": "Tweaks",
+      "author": "r_plus",
+      "commercial": false,
+      "date": "2018-03-01T23:00:53Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4.1-1",
+          "iOSVersion": "11.2.1",
+          "repository": "BigBoss",
+          "date": "2019-02-07T06:03:13Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12540,6 +12574,39 @@
       ]
     },
     {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "11.2.1",
+          "repository": "BigBoss",
+          "date": "2018-07-13T18:01:12Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -12560,39 +12627,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "11.2.1",
-          "repository": "BigBoss",
-          "date": "2018-07-13T18:01:12Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -13073,6 +13107,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.noctisxi",
+      "name": "NoctisXI",
+      "latest": "1.4.3.1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctisxi/",
+      "shortDescription": "A system wide dark mode.",
+      "category": "HYI - Tweaks",
+      "author": "LaughingQuoll",
+      "commercial": false,
+      "date": "2018-07-07T19:57:52Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.2",
+          "iOSVersion": "11.2.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T02:21:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.laughingquoll.noctisxi",
       "name": "NoctisXI",
       "latest": "1.6.6",
@@ -13169,40 +13237,6 @@
           "iOSVersion": "11.2.1",
           "repository": "Packix",
           "date": "2019-01-16T06:57:41Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.noctisxi",
-      "name": "NoctisXI",
-      "latest": "1.4.3.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctisxi/",
-      "shortDescription": "A system wide dark mode.",
-      "category": "HYI - Tweaks",
-      "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-07-07T19:57:52Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.2",
-          "iOSVersion": "11.2.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T02:21:55Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
