@@ -116,9 +116,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -135,6 +135,15 @@
           "date": "2019-02-02T22:30:59Z",
           "userName": "anonypublic",
           "issueNumber": 58459,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "Doesn’t changes color to yellow when in Low Power Mode.",
+          "date": "2019-02-07T14:15:45Z",
+          "userName": "hellotinh03",
+          "issueNumber": 58902,
           "arch32": false
         }
       ]
