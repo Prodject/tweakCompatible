@@ -112,20 +112,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,5",
-          "issues": "",
-          "date": "2019-02-03T20:55:24Z",
-          "userName": "gothub001",
-          "issueNumber": 58574,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone7,1",
           "issues": "",
           "date": "2019-02-05T15:54:45Z",
           "userName": "hellotinh03",
           "issueNumber": 58747,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-07T15:25:57Z",
+          "userName": "gothub001",
+          "issueNumber": 58905,
           "arch32": false
         }
       ]
