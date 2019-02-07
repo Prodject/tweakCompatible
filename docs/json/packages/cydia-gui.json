@@ -1246,10 +1246,10 @@
       "date": "2019-02-01T11:00:13Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1275,6 +1275,15 @@
           "date": "2019-02-01T23:01:37Z",
           "userName": "moonshinejeff",
           "issueNumber": 58134,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "Crashes sometimes, but does the job.",
+          "date": "2019-02-07T01:38:03Z",
+          "userName": "xXG0DLessXx",
+          "issueNumber": 58858,
           "arch32": false
         }
       ]
