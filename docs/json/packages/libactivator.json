@@ -3482,15 +3482,6 @@
       "users": [
         {
           "status": "partial",
-          "device": "iPhone10,1",
-          "issues": "Some functionality is broken",
-          "date": "2019-02-02T02:33:45Z",
-          "userName": "Hydroxing",
-          "issueNumber": 58234,
-          "arch32": false
-        },
-        {
-          "status": "partial",
           "device": "iPhone8,4",
           "issues": "",
           "date": "2019-02-03T10:38:06Z",
@@ -3523,6 +3514,15 @@
           "date": "2019-02-06T13:24:50Z",
           "userName": "viggou",
           "issueNumber": 58834,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-07T09:53:15Z",
+          "userName": "Hydroxing",
+          "issueNumber": 58893,
           "arch32": false
         }
       ]
