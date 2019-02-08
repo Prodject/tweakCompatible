@@ -770,10 +770,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.4.0-45",
+      "latest": "1.4.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -836,7 +836,7 @@
     {
       "id": "apt",
       "name": "APT 0.6 Transitional",
-      "latest": "0-23",
+      "latest": "0-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt/",
       "shortDescription": "any advanced packaging tool from Debian",
@@ -870,10 +870,10 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "1.7.0",
+      "latest": "0",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
-      "shortDescription": "repository encryption key management tool",
+      "shortDescription": "the advanced packaging library from Debian",
       "category": "Packaging",
       "author": "(null)",
       "commercial": false,
@@ -904,7 +904,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.7.0-2",
+      "latest": "0-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1663,7 +1663,7 @@
     {
       "id": "bash",
       "name": "Bourne-Again SHell",
-      "latest": "4.4.18",
+      "latest": "4.4.23-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/bash/",
       "shortDescription": "the best shell ever written by Brian Fox",
@@ -1764,7 +1764,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.6",
+      "latest": "3.2",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -2064,7 +2064,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.9",
+      "latest": "4.2.2.10",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -2604,7 +2604,7 @@
     {
       "id": "curl",
       "name": "cURL",
-      "latest": "7.62.0-1",
+      "latest": "7.59.0-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/curl/",
       "shortDescription": "flexible multi-protocol file transfers",
@@ -2739,10 +2739,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.9.1",
+      "latest": "1.1.32~b12",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
+      "shortDescription": "graphical iPhone front-end for APT",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -2805,7 +2805,7 @@
     {
       "id": "cydia-lproj",
       "name": "Cydia Translations",
-      "latest": "1.1.32~b1",
+      "latest": "1.1.12",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia-lproj/",
       "shortDescription": "languages and translations for Cydia",
@@ -3040,10 +3040,10 @@
     {
       "id": "dpkg",
       "name": "Debian Packager",
-      "latest": "1.18.25-5",
+      "latest": "1.19.4",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/dpkg/",
-      "shortDescription": "package maintainance tools from Debian",
+      "shortDescription": "package maintenance tools from Debian",
       "category": "Packaging",
       "author": "(null)",
       "commercial": false,
@@ -3208,7 +3208,7 @@
     {
       "id": "diffutils",
       "name": "Diff Utilities",
-      "latest": "3.6",
+      "latest": "3.6-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/diffutils/",
       "shortDescription": "compare two files for differences",
@@ -3441,21 +3441,22 @@
       ]
     },
     {
-      "id": "com.julioverne.ext3nder-installer",
+      "id": "com.hackyouriphone.ext3nder-installer",
       "name": "Ext3nder Installer",
-      "latest": "021a",
-      "repository": "julioverne's Repo",
-      "url": "http://twitter.com/ijulioverne",
+      "latest": "016",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ext3nder-installer/",
       "shortDescription": "Cydia Extender Installer With Extra Features",
-      "category": "Utilities",
+      "category": "HYI - Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-05-05T23:22:12Z",
       "versions": [
         {
           "tweakVersion": "016",
           "iOSVersion": "9.3.5",
-          "repository": "julioverne's Repo",
-          "date": "2018-05-05T23:11:50Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-05-05T23:22:12Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -3474,22 +3475,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.ext3nder-installer",
+      "id": "com.julioverne.ext3nder-installer",
       "name": "Ext3nder Installer",
-      "latest": "016",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ext3nder-installer/",
+      "latest": "021a",
+      "repository": "julioverne's Repo",
+      "url": "http://twitter.com/ijulioverne",
       "shortDescription": "Cydia Extender Installer With Extra Features",
-      "category": "HYI - Tweaks",
+      "category": "Utilities",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-05-05T23:22:12Z",
       "versions": [
         {
           "tweakVersion": "016",
           "iOSVersion": "9.3.5",
-          "repository": "HackYouriPhone",
-          "date": "2018-05-05T23:22:12Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-05-05T23:11:50Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -3679,7 +3679,7 @@
     {
       "id": "file-cmds",
       "name": "file-cmds",
-      "latest": "220.7-1",
+      "latest": "272",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/file-cmds/",
       "shortDescription": "chflags, compress, ipcrm, ipcs, pax",
@@ -3900,7 +3900,7 @@
     {
       "id": "findutils",
       "name": "Find Utilities",
-      "latest": "4.6",
+      "latest": "4.6.0-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/findutils/",
       "shortDescription": "indexes and searches filesystems",
@@ -4628,7 +4628,7 @@
     {
       "id": "com.exile90.icleanerpro",
       "name": "iCleaner Pro",
-      "latest": "7.7.1~beta2",
+      "latest": "7.7.0",
       "repository": "Karen's Repo",
       "url": "http://ib-soft.net/icleaner",
       "shortDescription": "The first real iOS system cleaner & optimizer",
@@ -5205,7 +5205,7 @@
     {
       "id": "ldid",
       "name": "Link Identity Editor",
-      "latest": "1.2.2-coolstar2",
+      "latest": "2.0.1-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/ldid/",
       "shortDescription": "pseudo-codesign Mach-O files",
@@ -5392,10 +5392,10 @@
     {
       "id": "com.reddestdream.minimalhostsblocker",
       "name": "Minimal Hosts Blocker",
-      "latest": "7.3",
+      "latest": "7.1",
       "repository": "ReddestDream's Repo",
       "url": "https://reddestdream.github.io/",
-      "shortDescription": "A Minimal Ad Blocker! ^_^",
+      "shortDescription": "A minimal ad blocker!",
       "category": "Tweaks",
       "author": "ReddestDream",
       "commercial": false,
@@ -5895,6 +5895,40 @@
       ]
     },
     {
+      "id": "com.serbapple.notifications10",
+      "name": "Notifications10",
+      "latest": "1.0-8",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.serbapple.notifications10/",
+      "shortDescription": "Notification in the style of iOS 10",
+      "category": "Tweaks",
+      "author": "Buzunser",
+      "commercial": true,
+      "date": "2019-02-08T19:12:58Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-8",
+          "iOSVersion": "9.3.5",
+          "repository": "BigBoss",
+          "date": "2019-02-08T19:12:58Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.shade.nougat",
       "name": "Nougat",
       "latest": "0.5.2",
@@ -6030,7 +6064,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.9p1-3",
+      "latest": "7.6p1-4",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -7059,7 +7093,7 @@
     {
       "id": "sed",
       "name": "sed",
-      "latest": "4.6",
+      "latest": "4.5-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/sed/",
       "shortDescription": "edits streams of text using patterns",
@@ -7093,7 +7127,7 @@
     {
       "id": "shell-cmds",
       "name": "shell-cmds",
-      "latest": "118-1",
+      "latest": "118-8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/shell-cmds/",
       "shortDescription": "killall, mktemp, renice, time, which",
@@ -8194,7 +8228,7 @@
     {
       "id": "unrar",
       "name": "unrar",
-      "latest": "5.6.4-1",
+      "latest": "5.5.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unrar/",
       "shortDescription": "de-compresses files in rar format",
@@ -8564,7 +8598,7 @@
     {
       "id": "com.alexzielenski.zeppelin",
       "name": "Zeppelin",
-      "latest": "2.1.0-12",
+      "latest": "2.1.1-1",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
       "shortDescription": "Replaces carrier text with an image!",
@@ -8597,7 +8631,7 @@
     {
       "id": "zip",
       "name": "zip",
-      "latest": "2.32-1",
+      "latest": "3.0",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/zip/",
       "shortDescription": "standard Windows compression tool",
