@@ -4,7 +4,7 @@
   "latest": "1.0.6",
   "repository": "CreatureSurvive's Repo",
   "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
-  "shortDescription": "An awesome Preference Library!",
+  "shortDescription": "A Preference Library that doesnt suck!",
   "category": "System",
   "author": "CreatureSurvive",
   "commercial": false,
@@ -1443,9 +1443,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1471,6 +1471,15 @@
           "date": "2019-01-06T19:02:23Z",
           "userName": "vxrsce",
           "issueNumber": 57109,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-02-08T09:27:54Z",
+          "userName": "burkybang",
+          "issueNumber": 58951,
           "arch32": false
         }
       ]
