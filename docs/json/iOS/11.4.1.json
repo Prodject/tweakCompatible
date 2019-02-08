@@ -614,6 +614,40 @@
       ]
     },
     {
+      "id": "org.thebigboss.anilaunch",
+      "name": "Anilaunch",
+      "latest": "1.1.7-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.anilaunch/",
+      "shortDescription": "Animate icons on various actions.",
+      "category": "Tweaks",
+      "author": "merdok",
+      "commercial": true,
+      "date": "2018-03-22T14:48:42Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.7-1",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-08T13:25:09Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.spark.ants",
       "name": "Ants",
       "latest": "1.0.3-2",
@@ -4143,39 +4177,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-01T10:42:53Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -4196,6 +4197,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-01T10:42:53Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -5944,40 +5978,6 @@
       ]
     },
     {
-      "id": "com.ahmedbafkir.dleasy",
-      "name": "DLEasy",
-      "latest": "1.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
-      "shortDescription": "Download images & videos from social apps easily!",
-      "category": "Tweaks",
-      "author": "Ahmed Bafkir",
-      "commercial": false,
-      "date": "2019-01-23T22:07:44Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-02T21:55:10Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 66,
-            "good": 2,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.ahmedbafkir.dleasy",
       "name": "DLEasy",
       "latest": "1.2",
@@ -6000,6 +6000,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ahmedbafkir.dleasy",
+      "name": "DLEasy",
+      "latest": "1.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
+      "shortDescription": "Download images & videos from social apps easily!",
+      "category": "Tweaks",
+      "author": "Ahmed Bafkir",
+      "commercial": false,
+      "date": "2019-01-23T22:07:44Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-02T21:55:10Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 66,
+            "good": 2,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8875,10 +8909,10 @@
     {
       "id": "com.vitataf.homegesture",
       "name": "Home Gesture",
-      "latest": "1.8.2",
+      "latest": "2.0.0",
       "repository": "MidnightChips",
       "url": "http://cydia.saurik.com/package/com.vitataf.homegesture/",
-      "shortDescription": "Enable iPhone X home gesture on other devices.",
+      "shortDescription": "Enable iPhone X HomeGestures on other devices. — Enable iPhone X HomeGestures on non-X devices. Blacklist certain apps from gestures from being enabled. The best way to get the iPhone X feel without having an iPhone X",
       "category": "Tweaks",
       "author": "VitaTaf",
       "commercial": false,
@@ -10264,7 +10298,7 @@
       "latest": "1.0.6",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
-      "shortDescription": "An awesome Preference Library!",
+      "shortDescription": "A Preference Library that doesnt suck!",
       "category": "System",
       "author": "CreatureSurvive",
       "commercial": false,
@@ -10621,7 +10655,7 @@
     {
       "id": "com.spark.libsparkapplist",
       "name": "libSparkAppList",
-      "latest": "0.0.6",
+      "latest": "1.0.0",
       "repository": "Spark's Beta Repo",
       "url": "http://cydia.saurik.com/package/com.spark.libsparkapplist/",
       "shortDescription": "AppList alternative",
@@ -11975,39 +12009,6 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-03T02:21:13Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -12030,6 +12031,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-03T02:21:13Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
