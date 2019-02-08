@@ -2386,6 +2386,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.7.0",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-02-08T03:09:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "Status bar and lockscreen aren’t working",
+          "date": "2019-02-08T03:09:30Z",
+          "userName": "hellotinh03",
+          "issueNumber": 58936,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
