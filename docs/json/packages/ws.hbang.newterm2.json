@@ -2707,10 +2707,10 @@
       "date": "2019-01-30T19:04:59Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2736,6 +2736,15 @@
           "date": "2019-02-06T18:26:48Z",
           "userName": "harivalkyrie",
           "issueNumber": 58841,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-08T23:25:22Z",
+          "userName": "Hydroxing",
+          "issueNumber": 58980,
           "arch32": false
         }
       ]
