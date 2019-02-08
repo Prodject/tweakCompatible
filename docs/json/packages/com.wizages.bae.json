@@ -1435,10 +1435,10 @@
       "date": "2019-01-30T21:33:52Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1473,6 +1473,15 @@
           "date": "2019-02-03T06:51:07Z",
           "userName": "fluffinuff",
           "issueNumber": 58504,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2019-02-08T13:06:55Z",
+          "userName": "Macley-Kun",
+          "issueNumber": 58961,
           "arch32": false
         }
       ]
