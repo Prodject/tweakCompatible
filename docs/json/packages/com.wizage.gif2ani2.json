@@ -217,11 +217,11 @@
       "repository": "Dynastic Repo",
       "date": "2018-09-27T07:38:09Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -256,6 +256,15 @@
           "date": "2019-02-01T14:01:54Z",
           "userName": "RiPx88",
           "issueNumber": 58076,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "It doesn’t display my gif ",
+          "date": "2019-02-08T06:00:48Z",
+          "userName": "JomarVW",
+          "issueNumber": 58943,
           "arch32": false
         }
       ]
