@@ -798,21 +798,21 @@
       },
       "users": [
         {
-          "status": "working",
-          "device": "iPhone10,1",
-          "issues": "",
-          "date": "2019-02-04T15:44:50Z",
-          "userName": "Hydroxing",
-          "issueNumber": 58655,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone9,2",
           "issues": "Crashes device into non-jailbroken state",
           "date": "2019-02-08T20:23:52Z",
           "userName": "zachjd",
           "issueNumber": 58971,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-08T23:23:58Z",
+          "userName": "Hydroxing",
+          "issueNumber": 58977,
           "arch32": false
         }
       ]
