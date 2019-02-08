@@ -1,7 +1,7 @@
 {
   "id": "com.spark.libsparkapplist",
   "name": "libSparkAppList",
-  "latest": "0.0.6",
+  "latest": "1.0.0",
   "repository": "Spark's Beta Repo",
   "url": "http://cydia.saurik.com/package/com.spark.libsparkapplist/",
   "shortDescription": "AppList alternative",
@@ -819,9 +819,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -847,6 +847,15 @@
           "date": "2018-11-11T00:41:04Z",
           "userName": "andy9744",
           "issueNumber": 55021,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-02-08T09:27:44Z",
+          "userName": "burkybang",
+          "issueNumber": 58950,
           "arch32": false
         }
       ]
