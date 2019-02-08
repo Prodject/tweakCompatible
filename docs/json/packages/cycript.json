@@ -1,10 +1,10 @@
 {
   "id": "cycript",
   "name": "Cycript",
-  "latest": "0.9.594",
+  "latest": "0.9.520-XI2",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/cycript/",
-  "shortDescription": "runtime execution server and disassembler",
+  "shortDescription": "Cycript for arm64 & iOS 11. Now fully works thanks to the new Cydia Substrate :). On iOS 11, get it from http://apt.saurik.com/beta/substrate11/",
   "category": "Development",
   "author": "Jay Freeman (saurik)",
   "commercial": false,
@@ -137,6 +137,37 @@
           "date": "2018-11-11T00:35:22Z",
           "userName": "andy9744",
           "issueNumber": 55008,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.9.520-XI2",
+      "iOSVersion": "11.4.1",
+      "repository": "Jakeashacks",
+      "date": "2019-02-08T06:58:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Works, but there's a bug with the versioning",
+          "date": "2019-02-08T06:58:48Z",
+          "userName": "viggou",
+          "issueNumber": 58945,
           "arch32": false
         }
       ]
