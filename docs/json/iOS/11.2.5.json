@@ -10258,6 +10258,40 @@
       ]
     },
     {
+      "id": "com.evynw.sbew9",
+      "name": "SB EW9",
+      "latest": "1.0",
+      "repository": "Evelyn's Collection",
+      "url": "http://cydia.saurik.com/package/com.evynw.sbew9/",
+      "shortDescription": "A widget. Like what else do you think this is lol.",
+      "category": "Homescreen Widgets",
+      "author": "Evelyn (ev_ynw)",
+      "commercial": false,
+      "date": "2018-07-11T06:44:20Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.2.5",
+          "repository": "Evelyn's Collection",
+          "date": "2019-02-09T02:52:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.cc.sb3dtouchcolor",
       "name": "SB3DTouchColor",
       "latest": "0.0.1",
