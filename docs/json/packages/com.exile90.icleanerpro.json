@@ -1,7 +1,7 @@
 {
   "id": "com.exile90.icleanerpro",
   "name": "iCleaner Pro",
-  "latest": "7.7.0",
+  "latest": "7.7.1~beta3",
   "repository": "Karen's Repo",
   "url": "http://ib-soft.net/icleaner",
   "shortDescription": "The first real iOS system cleaner & optimizer",
@@ -4064,6 +4064,37 @@
           "date": "2019-02-01T04:17:48Z",
           "userName": "Goldstriker208",
           "issueNumber": 58044,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "7.7.1~beta3",
+      "iOSVersion": "11.2.5",
+      "repository": "Ivano Bilenchi's Beta Repo",
+      "date": "2019-02-09T02:49:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-02-09T02:49:45Z",
+          "userName": "noob447",
+          "issueNumber": 58994,
           "arch32": false
         }
       ]
