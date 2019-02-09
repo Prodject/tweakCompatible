@@ -1816,11 +1816,11 @@
       "repository": "BigBoss",
       "date": "2019-02-03T21:19:13Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1864,6 +1864,15 @@
           "date": "2019-02-05T18:45:20Z",
           "userName": "SoulessApollo",
           "issueNumber": 58769,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-09T05:24:13Z",
+          "userName": "gothub001",
+          "issueNumber": 59026,
           "arch32": false
         }
       ]
