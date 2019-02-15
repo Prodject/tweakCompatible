@@ -1,7 +1,7 @@
 {
   "id": "com.unlimapps.uaupdatetools",
   "name": "App Admin",
-  "latest": "1.0r-101",
+  "latest": "1.0r-92",
   "repository": "beta.unlimapps.com",
   "url": "https://beta.unlimapps.com/",
   "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
@@ -3475,6 +3475,37 @@
           "date": "2019-02-05T15:57:26Z",
           "userName": "hellotinh03",
           "issueNumber": 58748,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0r-92",
+      "iOSVersion": "11.4",
+      "repository": "test.unlimapps.com",
+      "date": "2019-02-11T23:31:40Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "App admin works perfectly on ios 11.4 Electra on IPhone 6s ",
+          "date": "2019-02-11T23:31:40Z",
+          "userName": "vahpetrosyan",
+          "issueNumber": 59268,
           "arch32": false
         }
       ]
