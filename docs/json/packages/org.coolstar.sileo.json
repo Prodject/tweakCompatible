@@ -484,6 +484,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.7b3",
+      "iOSVersion": "11.4.1",
+      "repository": "Electra's iOS Utilities",
+      "date": "2019-02-13T13:07:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-13T13:07:57Z",
+          "userName": "RemoteScript",
+          "issueNumber": 59348,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
