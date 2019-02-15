@@ -1896,11 +1896,11 @@
       "repository": "BigBoss",
       "date": "2019-02-07T06:38:34Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1917,6 +1917,15 @@
           "date": "2019-02-07T06:38:34Z",
           "userName": "harivalkyrie",
           "issueNumber": 58883,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-09T20:25:49Z",
+          "userName": "guthomaz",
+          "issueNumber": 59067,
           "arch32": false
         }
       ]
