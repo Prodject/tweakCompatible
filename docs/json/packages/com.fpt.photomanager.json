@@ -201,10 +201,10 @@
       "date": "2018-07-07T02:16:36Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 90,
+        "percentage": 83,
         "good": 10,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -311,6 +311,15 @@
           "date": "2018-09-18T14:57:14Z",
           "userName": "swang530",
           "issueNumber": 50837,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "Some photos are hidden but some disappear entirely!",
+          "date": "2019-02-10T22:51:55Z",
+          "userName": "thesassmachine",
+          "issueNumber": 59164,
           "arch32": false
         }
       ]
