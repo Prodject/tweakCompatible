@@ -1177,9 +1177,9 @@
       "repository": "BigBoss",
       "date": "2018-12-29T04:34:03Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
         "bad": 0,
         "total": 1,
         "arch32": {
@@ -1192,12 +1192,12 @@
       },
       "users": [
         {
-          "status": "not working",
+          "status": "working",
           "device": "iPad4,1",
-          "issues": "Boots into safemode ",
-          "date": "2018-12-29T04:34:03Z",
+          "issues": "",
+          "date": "2019-02-11T14:57:12Z",
           "userName": "Srcuso",
-          "issueNumber": 56760,
+          "issueNumber": 59232,
           "arch32": false
         }
       ]
