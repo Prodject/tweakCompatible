@@ -101,22 +101,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.3gunrestrictor5",
+      "id": "com.kstreich-dev.3gunrestrictor5",
       "name": "3G Unrestrictor 5 (iOS 10/9/8/7)",
       "latest": "5.9.10",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.3gunrestrictor5/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.kstreich-dev.3gunrestrictor5/",
       "shortDescription": "Enables WiFi-Only features on 3G & LTE",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Kim Streich",
-      "commercial": false,
-      "date": "2018-03-17T11:18:01Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "5.9.10",
           "iOSVersion": "10.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-17T11:18:01Z",
+          "repository": "BigBoss",
+          "date": "2018-08-20T19:49:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -135,21 +134,22 @@
       ]
     },
     {
-      "id": "com.kstreich-dev.3gunrestrictor5",
+      "id": "com.hackyouriphone.3gunrestrictor5",
       "name": "3G Unrestrictor 5 (iOS 10/9/8/7)",
       "latest": "5.9.10",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.kstreich-dev.3gunrestrictor5/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.3gunrestrictor5/",
       "shortDescription": "Enables WiFi-Only features on 3G & LTE",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Kim Streich",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-17T11:18:01Z",
       "versions": [
         {
           "tweakVersion": "5.9.10",
           "iOSVersion": "10.2",
-          "repository": "BigBoss",
-          "date": "2018-08-20T19:49:34Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-17T11:18:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1639,20 +1639,22 @@
       ]
     },
     {
-      "id": "com.iphonecake.appcake2",
+      "id": "com.hackyouriphone.appcake2",
       "name": "AppCake",
-      "latest": "5.6.0.2",
-      "repository": "AppCake",
-      "url": "http://iphonecake.com/forum/",
-      "shortDescription": "The new AppCake 5.6.0.1! Introducing Direct Download/Install!  Require AppSync to be installed ***",
-      "category": "Utilities",
+      "latest": "5.5.7.2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.appcake2/",
+      "shortDescription": "The new AppCake 5.5.7.2! Introducing Direct Download/Install!  Require AppSync to be installed ***",
+      "category": "HYI - Applications",
       "author": "Mickael liang",
       "commercial": false,
+      "date": "2018-03-26T07:58:39Z",
       "versions": [
         {
-          "tweakVersion": "5.5.5.0",
+          "tweakVersion": "5.5.7.2",
           "iOSVersion": "10.2",
-          "repository": "AppCake",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-26T07:58:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1671,22 +1673,20 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.appcake2",
+      "id": "com.iphonecake.appcake2",
       "name": "AppCake",
-      "latest": "5.5.7.2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.appcake2/",
-      "shortDescription": "The new AppCake 5.5.7.2! Introducing Direct Download/Install!  Require AppSync to be installed ***",
-      "category": "HYI - Applications",
+      "latest": "5.6.0.2",
+      "repository": "AppCake",
+      "url": "http://iphonecake.com/forum/",
+      "shortDescription": "The new AppCake 5.6.0.1! Introducing Direct Download/Install!  Require AppSync to be installed ***",
+      "category": "Utilities",
       "author": "Mickael liang",
       "commercial": false,
-      "date": "2018-03-26T07:58:39Z",
       "versions": [
         {
-          "tweakVersion": "5.5.7.2",
+          "tweakVersion": "5.5.5.0",
           "iOSVersion": "10.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-26T07:58:39Z",
+          "repository": "AppCake",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6487,6 +6487,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.colorbadges",
+      "name": "ColorBadges",
+      "latest": "1.2.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbadges/",
+      "shortDescription": "Colorize your badges",
+      "category": "HYI - Tweaks",
+      "author": "David Goldman",
+      "commercial": false,
+      "date": "2018-03-17T12:50:00Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "10.2",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-17T12:50:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
@@ -6521,40 +6555,6 @@
           "iOSVersion": "10.2",
           "repository": "BigBoss",
           "date": "2018-04-23T16:48:04Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.colorbadges",
-      "name": "ColorBadges",
-      "latest": "1.2.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbadges/",
-      "shortDescription": "Colorize your badges",
-      "category": "HYI - Tweaks",
-      "author": "David Goldman",
-      "commercial": false,
-      "date": "2018-03-17T12:50:00Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2.0",
-          "iOSVersion": "10.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-17T12:50:00Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12597,22 +12597,22 @@
       ]
     },
     {
-      "id": "com.jerryen.gifviewer",
+      "id": "com.hackyouriphone.gifviewer",
       "name": "GIFViewer",
       "latest": "1.0.3-2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jerryen.gifviewer/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.gifviewer/",
       "shortDescription": "View animated GIFs in Photos.app and the image picker.",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Jerry En",
-      "commercial": true,
-      "date": "2018-03-05T14:04:35Z",
+      "commercial": false,
+      "date": "2018-03-22T22:11:47Z",
       "versions": [
         {
           "tweakVersion": "1.0.3-2",
           "iOSVersion": "10.2",
-          "repository": "BigBoss",
-          "date": "2018-08-23T10:49:31Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-22T22:11:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12631,22 +12631,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.gifviewer",
+      "id": "com.jerryen.gifviewer",
       "name": "GIFViewer",
       "latest": "1.0.3-2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.gifviewer/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jerryen.gifviewer/",
       "shortDescription": "View animated GIFs in Photos.app and the image picker.",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Jerry En",
-      "commercial": false,
-      "date": "2018-03-22T22:11:47Z",
+      "commercial": true,
+      "date": "2018-03-05T14:04:35Z",
       "versions": [
         {
           "tweakVersion": "1.0.3-2",
           "iOSVersion": "10.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-22T22:11:47Z",
+          "repository": "BigBoss",
+          "date": "2018-08-23T10:49:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12700,10 +12700,10 @@
     {
       "id": "gnupg",
       "name": "GNU Privacy Guard",
-      "latest": "2.2.11-2",
+      "latest": "1.4.19-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gnupg/",
-      "shortDescription": "GNU privacy guard - a free PGP replacement",
+      "shortDescription": "Encryption compatible with OpenPGP",
       "category": "Security",
       "author": "(null)",
       "commercial": false,
@@ -12714,6 +12714,26 @@
           "iOSVersion": "10.2",
           "repository": "Cydia/Telesphoreo",
           "date": "2018-08-12T13:40:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.4.19-1",
+          "iOSVersion": "10.2",
+          "repository": "iOS WebStack",
+          "date": "2019-02-13T05:56:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -22995,39 +23015,6 @@
       ]
     },
     {
-      "id": "com.creatix.peek-a-boo",
-      "name": "Peek-a-Boo",
-      "latest": "4.0.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.creatix.peek-a-boo/",
-      "shortDescription": "Peek and Pop on older devices!",
-      "category": "Tweaks",
-      "author": "Creatix",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "10.0.2",
-          "iOSVersion": "10.2",
-          "repository": "(null)",
-          "date": "2018-03-04T20:59:55Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.peek-a-boo",
       "name": "Peek-a-Boo",
       "latest": "11.0.3",
@@ -23048,6 +23035,39 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.creatix.peek-a-boo",
+      "name": "Peek-a-Boo",
+      "latest": "4.0.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.creatix.peek-a-boo/",
+      "shortDescription": "Peek and Pop on older devices!",
+      "category": "Tweaks",
+      "author": "Creatix",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "10.0.2",
+          "iOSVersion": "10.2",
+          "repository": "(null)",
+          "date": "2018-03-04T20:59:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
