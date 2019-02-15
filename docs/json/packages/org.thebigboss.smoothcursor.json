@@ -1213,11 +1213,11 @@
       "repository": "BigBoss",
       "date": "2019-01-31T23:08:45Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1234,6 +1234,15 @@
           "date": "2019-01-31T23:08:45Z",
           "userName": "Goldstriker208",
           "issueNumber": 57982,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-02-11T07:47:55Z",
+          "userName": "Ner0n96",
+          "issueNumber": 59204,
           "arch32": false
         }
       ]
