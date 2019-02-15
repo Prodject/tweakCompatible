@@ -181,10 +181,10 @@
       "date": "2018-10-08T22:15:52Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -219,6 +219,15 @@
           "date": "2018-10-09T18:24:04Z",
           "userName": "teamstreetmotion",
           "issueNumber": 52601,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-02-15T10:19:49Z",
+          "userName": "razedsgn",
+          "issueNumber": 59438,
           "arch32": false
         }
       ]
