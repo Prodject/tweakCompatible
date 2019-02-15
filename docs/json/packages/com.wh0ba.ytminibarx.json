@@ -4,7 +4,7 @@
   "latest": "0.1",
   "repository": "Wh0ba",
   "url": "http://cydia.saurik.com/package/com.wh0ba.ytminibarx/",
-  "shortDescription": "Gives the YouTube mini bar some rounded corners",
+  "shortDescription": "Gives the YouTube mini bar rounded corners",
   "category": "Tweaks",
   "author": "Wh0ba",
   "commercial": false,
@@ -33,10 +33,10 @@
         {
           "status": "working",
           "device": "iPhone9,3",
-          "issues": "works perfectly",
-          "date": "2019-01-28T00:35:15Z",
+          "issues": "",
+          "date": "2019-02-11T23:36:20Z",
           "userName": "LittleMuslim",
-          "issueNumber": 57763,
+          "issueNumber": 59279,
           "arch32": false
         }
       ]
