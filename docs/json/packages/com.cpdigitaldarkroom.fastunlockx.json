@@ -1573,9 +1573,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1601,6 +1601,15 @@
           "date": "2018-08-11T22:29:50Z",
           "userName": "tempus2016",
           "issueNumber": 42179,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-02-15T23:14:46Z",
+          "userName": "DatNightcat",
+          "issueNumber": 59462,
           "arch32": false
         }
       ]
