@@ -7937,9 +7937,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -7974,6 +7974,15 @@
           "date": "2019-02-05T04:44:06Z",
           "userName": "rourien",
           "issueNumber": 58712,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-02-15T23:15:39Z",
+          "userName": "DatNightcat",
+          "issueNumber": 59465,
           "arch32": false
         }
       ]
