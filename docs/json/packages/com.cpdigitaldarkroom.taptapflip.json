@@ -1752,9 +1752,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1789,6 +1789,15 @@
           "date": "2019-02-05T16:20:39Z",
           "userName": "RemoteScript",
           "issueNumber": 58752,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-02-14T21:02:45Z",
+          "userName": "wsmyth1",
+          "issueNumber": 59424,
           "arch32": false
         }
       ]
