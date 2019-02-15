@@ -239,10 +239,10 @@
       "date": "2018-07-07T13:24:16Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 92,
-        "good": 13,
+        "percentage": 93,
+        "good": 14,
         "bad": 0,
-        "total": 14,
+        "total": 15,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -376,6 +376,15 @@
           "date": "2019-01-08T19:17:12Z",
           "userName": "vxrsce",
           "issueNumber": 57171,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,2",
+          "issues": "The lock works, however regardless of my orientation it always locks to portrait view, essentially making this tweak worthless. Nobody watches anything in portrait view. ",
+          "date": "2019-02-09T22:15:30Z",
+          "userName": "genericusernameidonotcareabout",
+          "issueNumber": 59068,
           "arch32": false
         }
       ]
