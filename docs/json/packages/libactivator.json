@@ -3467,10 +3467,10 @@
       "date": "2019-02-02T01:09:20Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 4,
+        "percentage": 55,
+        "good": 5,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3550,6 +3550,15 @@
           "date": "2019-02-13T18:46:31Z",
           "userName": "Ectalite",
           "issueNumber": 59350,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-02-10T06:09:58Z",
+          "userName": "DavidNC1978",
+          "issueNumber": 59109,
           "arch32": false
         }
       ]
