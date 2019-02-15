@@ -696,10 +696,10 @@
         {
           "status": "working",
           "device": "iPhone9,3",
-          "issues": "",
-          "date": "2019-01-29T00:41:15Z",
+          "issues": "iPhone 7 ios 11.3.1 work perfectly ",
+          "date": "2019-02-11T23:35:50Z",
           "userName": "LittleMuslim",
-          "issueNumber": 57787,
+          "issueNumber": 59277,
           "arch32": false
         }
       ]
