@@ -1817,10 +1817,10 @@
       "date": "2019-02-03T21:19:13Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1873,6 +1873,15 @@
           "date": "2019-02-09T05:24:13Z",
           "userName": "gothub001",
           "issueNumber": 59026,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-10T01:11:38Z",
+          "userName": "KurdishBoy93",
+          "issueNumber": 59081,
           "arch32": false
         }
       ]
