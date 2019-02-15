@@ -1318,9 +1318,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 4,
+        "good": 5,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1364,6 +1364,15 @@
           "date": "2018-08-07T19:16:22Z",
           "userName": "CapnCodems",
           "issueNumber": 40135,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-02-11T00:01:31Z",
+          "userName": "thehappydinoa",
+          "issueNumber": 59175,
           "arch32": false
         }
       ]
