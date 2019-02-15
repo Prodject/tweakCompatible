@@ -1,10 +1,10 @@
 {
   "id": "com.tigisoftware.filza",
   "name": "Filza File Manager",
-  "latest": "3.6.1-22",
+  "latest": "3.6.0-38",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-  "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+  "shortDescription": "File Manager for iOS. Supports iOS 7+",
   "category": "Utilities",
   "author": "TIGI Software",
   "commercial": false,
@@ -4791,9 +4791,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4819,6 +4819,15 @@
           "date": "2019-02-01T01:47:54Z",
           "userName": "AWNetworkYT",
           "issueNumber": 58009,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-02-10T06:10:07Z",
+          "userName": "DavidNC1978",
+          "issueNumber": 59110,
           "arch32": false
         }
       ]
