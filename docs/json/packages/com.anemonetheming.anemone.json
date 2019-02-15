@@ -5344,9 +5344,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5363,6 +5363,15 @@
           "date": "2018-10-23T19:32:12Z",
           "userName": "ceiliarose",
           "issueNumber": 53686,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,2",
+          "issues": "Anemone just crash my Springboard. With NO themes installed.",
+          "date": "2019-02-13T20:33:14Z",
+          "userName": "yohano",
+          "issueNumber": 59361,
           "arch32": false
         }
       ]
