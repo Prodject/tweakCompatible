@@ -606,11 +606,11 @@
       "repository": "BigBoss",
       "date": "2019-01-31T21:01:24Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -627,6 +627,15 @@
           "date": "2019-01-31T21:01:24Z",
           "userName": "Giovannigiacomo96",
           "issueNumber": 57973,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "Caused some pretty extreme bugs, not recommenfed",
+          "date": "2019-02-13T22:11:49Z",
+          "userName": "Vaporeonus",
+          "issueNumber": 59366,
           "arch32": false
         }
       ]
