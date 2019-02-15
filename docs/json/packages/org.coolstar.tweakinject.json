@@ -1710,21 +1710,21 @@
       },
       "users": [
         {
-          "status": "working",
-          "device": "iPhone10,1",
-          "issues": "",
-          "date": "2019-02-02T01:51:58Z",
-          "userName": "Hydroxing",
-          "issueNumber": 58223,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone9,2",
           "issues": "",
           "date": "2019-02-07T18:19:36Z",
           "userName": "SoulessApollo",
           "issueNumber": 58909,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-11T07:03:11Z",
+          "userName": "Hydroxing",
+          "issueNumber": 59200,
           "arch32": false
         }
       ]
