@@ -3556,10 +3556,10 @@
     {
       "id": "com.jakeashacks.catchathief",
       "name": "CatchaThief",
-      "latest": "1.0.0",
+      "latest": "1.0.0-1+debug",
       "repository": "Jakeashacks",
       "url": "http://cydia.saurik.com/package/com.jakeashacks.catchathief/",
-      "shortDescription": "Take a picture of whoever inputs an incorrect passcode!",
+      "shortDescription": "Take a picture of whoever inputs an incorrect passcode! Does not support Touch ID/Face ID yet. Images are stored in /var/mobile/catchathief. Sending images via email is being looked into.",
       "category": "Tweaks",
       "author": "Jake James",
       "commercial": false,
@@ -7665,7 +7665,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.6.1-22",
+      "latest": "3.6.1-20",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -14726,6 +14726,40 @@
       ]
     },
     {
+      "id": "com.i0sa.phonecaller",
+      "name": "PhoneCaller",
+      "latest": "1.6.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.i0sa.phonecaller/",
+      "shortDescription": "Find out who's calling before answering",
+      "category": "Tweaks",
+      "author": "Osama Muhammed",
+      "commercial": true,
+      "date": "2018-03-03T08:40:51Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6.1",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-10T20:59:01Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.justinpetkovic.phototools",
       "name": "Photo Tools",
       "latest": "1.3",
@@ -19185,7 +19219,7 @@
     {
       "id": "com.quackdev.twitterdarkmode",
       "name": "TwitterDarkMode",
-      "latest": "1.0.1",
+      "latest": "1.0.2-1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.quackdev.twitterdarkmode/",
       "shortDescription": "TwitterDarkmode",
