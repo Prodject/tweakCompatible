@@ -1297,9 +1297,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1316,6 +1316,15 @@
           "date": "2019-01-08T19:01:14Z",
           "userName": "vxrsce",
           "issueNumber": 57170,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-02-09T19:05:55Z",
+          "userName": "xXG0DLessXx",
+          "issueNumber": 59062,
           "arch32": false
         }
       ]
