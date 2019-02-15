@@ -1,7 +1,7 @@
 {
   "id": "com.alexzielenski.zeppelin",
   "name": "Zeppelin",
-  "latest": "2.1.1-1",
+  "latest": "2.1.0-12",
   "repository": "ModMyi (Archive)",
   "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
   "shortDescription": "Replaces carrier text with an image!",
@@ -2068,9 +2068,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2123,6 +2123,15 @@
           "date": "2018-09-02T20:15:09Z",
           "userName": "alwaysbemine",
           "issueNumber": 48804,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-02-11T00:01:20Z",
+          "userName": "thehappydinoa",
+          "issueNumber": 59174,
           "arch32": false
         }
       ]
