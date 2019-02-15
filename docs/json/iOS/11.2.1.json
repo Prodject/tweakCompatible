@@ -783,7 +783,7 @@
     {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
-      "latest": "1.0r-101",
+      "latest": "1.0r-92",
       "repository": "beta.unlimapps.com",
       "url": "https://beta.unlimapps.com/",
       "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
@@ -3585,21 +3585,22 @@
       ]
     },
     {
-      "id": "com.rpetrich.cask",
+      "id": "repo.biteyourapple.net.cask",
       "name": "Cask",
       "latest": "0.2",
-      "repository": "rpetrich repo",
-      "url": "http://rpetri.ch/repo/",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cask/",
       "shortDescription": "Animated table scrolling inspired by Google Plus",
-      "category": "Tweaks",
-      "author": "Ryan Petrich",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
+      "date": "2018-06-08T11:59:00Z",
       "versions": [
         {
           "tweakVersion": "0.2",
           "iOSVersion": "11.2.1",
-          "repository": "rpetrich repo",
-          "date": "2019-02-09T13:33:52Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-07-09T09:08:57Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3618,22 +3619,21 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.cask",
+      "id": "com.rpetrich.cask",
       "name": "Cask",
       "latest": "0.2",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cask/",
+      "repository": "rpetrich repo",
+      "url": "http://rpetri.ch/repo/",
       "shortDescription": "Animated table scrolling inspired by Google Plus",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "Ryan Petrich",
       "commercial": false,
-      "date": "2018-06-08T11:59:00Z",
       "versions": [
         {
           "tweakVersion": "0.2",
           "iOSVersion": "11.2.1",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-07-09T09:08:57Z",
+          "repository": "rpetrich repo",
+          "date": "2019-02-09T13:33:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4105,22 +4105,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.cercube",
+      "id": "repo.biteyourapple.net.cercube3",
       "name": "Cercube 3 for YouTube",
-      "latest": "1.6.1",
+      "latest": "1.6.9k",
       "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cercube/",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cercube3/",
       "shortDescription": "All-in-one YouTube extension!",
       "category": "BYA Apps",
       "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-07-08T16:12:41Z",
+      "date": "2018-07-08T16:12:51Z",
       "versions": [
         {
-          "tweakVersion": "1.6.1",
+          "tweakVersion": "1.6.9k",
           "iOSVersion": "11.2.1",
           "repository": "BiteYourApple",
-          "date": "2018-07-08T16:12:41Z",
+          "date": "2018-07-08T16:12:51Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -4139,22 +4139,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.cercube3",
+      "id": "repo.biteyourapple.net.cercube",
       "name": "Cercube 3 for YouTube",
-      "latest": "1.6.9k",
+      "latest": "1.6.1",
       "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cercube3/",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cercube/",
       "shortDescription": "All-in-one YouTube extension!",
       "category": "BYA Apps",
       "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-07-08T16:12:51Z",
+      "date": "2018-07-08T16:12:41Z",
       "versions": [
         {
-          "tweakVersion": "1.6.9k",
+          "tweakVersion": "1.6.1",
           "iOSVersion": "11.2.1",
           "repository": "BiteYourApple",
-          "date": "2018-07-08T16:12:51Z",
+          "date": "2018-07-08T16:12:41Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -7013,6 +7013,40 @@
       ]
     },
     {
+      "id": "com.repo.xarold.com.eclipsex",
+      "name": "Eclipse X Beta 7 (iOS 11)",
+      "latest": "5.0.8-3",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.eclipsex/",
+      "shortDescription": "Universal Night Mode and more for iOS 11.",
+      "category": "Tweaks",
+      "author": "Guillermo Morán (fr0st)",
+      "commercial": false,
+      "date": "2018-03-01T07:59:42Z",
+      "versions": [
+        {
+          "tweakVersion": "5.0.8-3",
+          "iOSVersion": "11.2.1",
+          "repository": "Xarold Repo",
+          "date": "2018-07-08T12:54:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.gmoran.eclipsex",
       "name": "Eclipse X Beta 7 (iOS 11)",
       "latest": "5.1.6",
@@ -7128,40 +7162,6 @@
           "iOSVersion": "11.2.1",
           "repository": "Packix",
           "date": "2019-01-09T02:35:54Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.repo.xarold.com.eclipsex",
-      "name": "Eclipse X Beta 7 (iOS 11)",
-      "latest": "5.0.8-3",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.eclipsex/",
-      "shortDescription": "Universal Night Mode and more for iOS 11.",
-      "category": "Tweaks",
-      "author": "Guillermo Morán (fr0st)",
-      "commercial": false,
-      "date": "2018-03-01T07:59:42Z",
-      "versions": [
-        {
-          "tweakVersion": "5.0.8-3",
-          "iOSVersion": "11.2.1",
-          "repository": "Xarold Repo",
-          "date": "2018-07-08T12:54:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8103,7 +8103,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.6.1-1",
+      "latest": "3.6.1-22",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -8650,40 +8650,6 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
-      "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
-      "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
-      "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-2",
-          "iOSVersion": "11.2.1",
-          "repository": "BigBoss",
-          "date": "2018-07-09T09:10:20Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
       "latest": "1.1",
@@ -8704,6 +8670,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cabralcole.forceinpicture",
+      "name": "ForceInPicture",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "category": "Tweaks",
+      "author": "cole cabral @ca13ra1",
+      "commercial": false,
+      "date": "2018-03-01T20:00:33Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-2",
+          "iOSVersion": "11.2.1",
+          "repository": "BigBoss",
+          "date": "2018-07-09T09:10:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -13206,40 +13206,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.noctisxi",
-      "name": "NoctisXI",
-      "latest": "1.4.3.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctisxi/",
-      "shortDescription": "A system wide dark mode.",
-      "category": "HYI - Tweaks",
-      "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-07-07T19:57:52Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.2",
-          "iOSVersion": "11.2.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T02:21:55Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.laughingquoll.noctisxi",
       "name": "NoctisXI",
       "latest": "1.6.6",
@@ -13336,6 +13302,40 @@
           "iOSVersion": "11.2.1",
           "repository": "Packix",
           "date": "2019-01-16T06:57:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.noctisxi",
+      "name": "NoctisXI",
+      "latest": "1.4.3.1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctisxi/",
+      "shortDescription": "A system wide dark mode.",
+      "category": "HYI - Tweaks",
+      "author": "LaughingQuoll",
+      "commercial": false,
+      "date": "2018-07-07T19:57:52Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.2",
+          "iOSVersion": "11.2.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T02:21:55Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15455,6 +15455,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "profile.d",
+      "name": "Profile Directory",
+      "latest": "0-1",
+      "repository": "Cydia/Telesphoreo",
+      "url": "http://cydia.saurik.com/package/profile.d/",
+      "shortDescription": "makes packaging for /etc/profile reasonable",
+      "category": "Administration",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-02T03:10:01Z",
+      "versions": [
+        {
+          "tweakVersion": "0-1",
+          "iOSVersion": "11.2.1",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-02-11T21:26:38Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
