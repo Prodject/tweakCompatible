@@ -2607,9 +2607,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2635,6 +2635,15 @@
           "date": "2019-02-06T09:24:59Z",
           "userName": "real7modi",
           "issueNumber": 58824,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-02-14T20:58:14Z",
+          "userName": "wsmyth1",
+          "issueNumber": 59417,
           "arch32": false
         }
       ]
