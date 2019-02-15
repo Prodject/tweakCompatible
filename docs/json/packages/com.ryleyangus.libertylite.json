@@ -1964,11 +1964,11 @@
       "repository": "Ryley's Repo",
       "date": "2019-01-31T10:11:52Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 80,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2021,6 +2021,15 @@
           "date": "2019-02-06T12:25:47Z",
           "userName": "guthomaz",
           "issueNumber": 58830,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-02-10T12:22:39Z",
+          "userName": "stado91",
+          "issueNumber": 59133,
           "arch32": false
         }
       ]
