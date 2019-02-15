@@ -1,7 +1,7 @@
 {
   "id": "com.cydiageek.skinnysettings",
   "name": "SkinnySettings",
-  "latest": "1.2.5",
+  "latest": "1.2.8",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.cydiageek.skinnysettings/",
   "shortDescription": "Make your Settings Minimal/Sleek & More!",
@@ -633,6 +633,37 @@
           "date": "2018-12-30T02:46:10Z",
           "userName": "sulemanzubair",
           "issueNumber": 56790,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.8",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2019-02-11T23:37:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "perfect",
+          "date": "2019-02-11T23:37:01Z",
+          "userName": "LittleMuslim",
+          "issueNumber": 59281,
           "arch32": false
         }
       ]
