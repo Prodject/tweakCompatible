@@ -851,11 +851,11 @@
       "repository": "iGG",
       "date": "2019-02-15T19:22:28Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -872,6 +872,15 @@
           "date": "2019-02-15T19:22:28Z",
           "userName": "ADEL0505968663",
           "issueNumber": 59452,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-02-15T21:31:20Z",
+          "userName": "tansautn",
+          "issueNumber": 59457,
           "arch32": false
         }
       ]
