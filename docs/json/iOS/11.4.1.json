@@ -5205,6 +5205,40 @@
       ]
     },
     {
+      "id": "com.4nni3.coolfolder",
+      "name": "CoolFolder",
+      "latest": "2.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.4nni3.coolfolder/",
+      "shortDescription": "This tweak makes Folder cool!",
+      "category": "Tweaks",
+      "author": "4nni3",
+      "commercial": false,
+      "date": "2018-09-07T16:35:41Z",
+      "versions": [
+        {
+          "tweakVersion": "2.1",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-09T15:56:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "coreutils",
       "name": "Core Utilities",
       "latest": "8.30-2",
