@@ -817,10 +817,10 @@
     {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
-      "latest": "1.0r-92",
+      "latest": "1.0r-61",
       "repository": "beta.unlimapps.com",
       "url": "https://beta.unlimapps.com/",
-      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
+      "shortDescription": "Downgrade apps to any previous version! No AppSync needed!!!",
       "category": "System",
       "author": "UnlimApps Inc.",
       "commercial": false,
@@ -1285,10 +1285,10 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "0",
+      "latest": "1.7.0",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
-      "shortDescription": "the advanced packaging library from Debian",
+      "shortDescription": "repository encryption key management tool",
       "category": "Packaging",
       "author": "(null)",
       "commercial": false,
@@ -1339,7 +1339,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "0-1",
+      "latest": "1.7.0-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -2579,7 +2579,7 @@
     {
       "id": "net.limneos.bioprotectx",
       "name": "BioProtect X for iOS 11",
-      "latest": "3.1-44",
+      "latest": "3.1-68",
       "repository": "Limneos Repo",
       "url": "http://limneos.net/repo/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -3761,21 +3761,22 @@
       ]
     },
     {
-      "id": "com.rpetrich.cask",
+      "id": "repo.biteyourapple.net.cask",
       "name": "Cask",
       "latest": "0.2",
-      "repository": "rpetrich repo",
-      "url": "http://rpetri.ch/repo/",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cask/",
       "shortDescription": "Animated table scrolling inspired by Google Plus",
-      "category": "Tweaks",
-      "author": "Ryan Petrich",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
+      "date": "2018-06-08T11:59:00Z",
       "versions": [
         {
           "tweakVersion": "0.2",
           "iOSVersion": "11.2.1",
-          "repository": "rpetrich repo",
-          "date": "2019-02-09T13:33:52Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-07-09T09:08:57Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3794,22 +3795,21 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.cask",
+      "id": "com.rpetrich.cask",
       "name": "Cask",
       "latest": "0.2",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cask/",
+      "repository": "rpetrich repo",
+      "url": "http://rpetri.ch/repo/",
       "shortDescription": "Animated table scrolling inspired by Google Plus",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "Ryan Petrich",
       "commercial": false,
-      "date": "2018-06-08T11:59:00Z",
       "versions": [
         {
           "tweakVersion": "0.2",
           "iOSVersion": "11.2.1",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-07-09T09:08:57Z",
+          "repository": "rpetrich repo",
+          "date": "2019-02-09T13:33:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3864,10 +3864,10 @@
     {
       "id": "com.jakeashacks.catchathief",
       "name": "CatchaThief",
-      "latest": "1.0.0",
+      "latest": "1.0.0-1+debug",
       "repository": "Jakeashacks",
       "url": "http://cydia.saurik.com/package/com.jakeashacks.catchathief/",
-      "shortDescription": "Take a picture of whoever inputs an incorrect passcode!",
+      "shortDescription": "Take a picture of whoever inputs an incorrect passcode! Does not support Touch ID/Face ID yet. Images are stored in /var/mobile/catchathief. Sending images via email is being looked into.",
       "category": "Tweaks",
       "author": "Jake James",
       "commercial": false,
@@ -4121,7 +4121,7 @@
     {
       "id": "com.opa334.ccsupport",
       "name": "CCSupport",
-      "latest": "1.2",
+      "latest": "1.1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.ccsupport/",
       "shortDescription": "Support tweak for CC modules!",
@@ -4315,40 +4315,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.cercube3",
-      "name": "Cercube 3 for YouTube",
-      "latest": "1.6.9k",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cercube3/",
-      "shortDescription": "All-in-one YouTube extension!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "date": "2018-07-08T16:12:51Z",
-      "versions": [
-        {
-          "tweakVersion": "1.6.9k",
-          "iOSVersion": "11.2.1",
-          "repository": "BiteYourApple",
-          "date": "2018-07-08T16:12:51Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.cercube",
       "name": "Cercube 3 for YouTube",
       "latest": "1.6.1",
@@ -4383,9 +4349,43 @@
       ]
     },
     {
+      "id": "repo.biteyourapple.net.cercube3",
+      "name": "Cercube 3 for YouTube",
+      "latest": "1.6.9k",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cercube3/",
+      "shortDescription": "All-in-one YouTube extension!",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "date": "2018-07-08T16:12:51Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6.9k",
+          "iOSVersion": "11.2.1",
+          "repository": "BiteYourApple",
+          "date": "2018-07-08T16:12:51Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.10",
+      "latest": "4.2.2.5",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -5542,10 +5542,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "0.9.7020",
+      "latest": "99.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "powerful code insertion platform",
+      "shortDescription": "Compatibility wrapper for Substrate tweaks to work with Tweak Injector + Substitute",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -7210,6 +7210,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.eclipse4",
+      "name": "Eclipse 4 (iOS 10)",
+      "latest": "4.1.3-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.eclipse4/",
+      "shortDescription": "System-wide Night Mode and more for iOS 10.",
+      "category": "Tweaks",
+      "author": "Guillermo Moran (@fr0st)",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "4.1.3-1",
+          "iOSVersion": "11.2.1",
+          "repository": "BigBoss",
+          "date": "2019-02-15T22:38:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "repo.biteyourapple.net.eclipse4",
       "name": "Eclipse 4 (iOS 10)",
       "latest": "4.1.3",
@@ -8334,10 +8367,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.1-22",
+      "latest": "3.6.0-38",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "shortDescription": "File Manager for iOS. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -8367,7 +8400,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.6.1-22",
+      "latest": "3.6.1-23",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -13660,40 +13693,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.noctisxi",
-      "name": "NoctisXI",
-      "latest": "1.4.3.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctisxi/",
-      "shortDescription": "A system wide dark mode.",
-      "category": "HYI - Tweaks",
-      "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-07-07T19:57:52Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.2",
-          "iOSVersion": "11.2.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T02:21:55Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.laughingquoll.noctisxi",
       "name": "NoctisXI",
       "latest": "1.6.6",
@@ -13790,6 +13789,40 @@
           "iOSVersion": "11.2.1",
           "repository": "Packix",
           "date": "2019-01-16T06:57:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.noctisxi",
+      "name": "NoctisXI",
+      "latest": "1.4.3.1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctisxi/",
+      "shortDescription": "A system wide dark mode.",
+      "category": "HYI - Tweaks",
+      "author": "LaughingQuoll",
+      "commercial": false,
+      "date": "2018-07-07T19:57:52Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.2",
+          "iOSVersion": "11.2.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T02:21:55Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14782,7 +14815,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.6p1-4",
+      "latest": "7.9p1-3",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -17213,7 +17246,7 @@
     {
       "id": "org.coolstar.sileo",
       "name": "Sileo (Beta)",
-      "latest": "0.7b3",
+      "latest": "0.4b6",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/org.coolstar.sileo/",
       "shortDescription": "A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)",
@@ -18151,7 +18184,7 @@
     {
       "id": "com.cydiageek.spotlightless11",
       "name": "Spotlightless11",
-      "latest": "1.0.4",
+      "latest": "1.0.6",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cydiageek.spotlightless11/",
       "shortDescription": "Get Rid of the Spotlight on iOS 10 and 11!",
@@ -19946,22 +19979,22 @@
       ]
     },
     {
-      "id": "science.xnu.undecimus.resources",
+      "id": "jailbreak-resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "0.11",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/science.xnu.undecimus.resources/",
-      "shortDescription": "Resources used by Unc0ver",
+      "latest": "1.0~b1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/jailbreak-resources/",
+      "shortDescription": "Resources used by KPPLess Jailbreaks",
       "category": "System",
-      "author": "(null)",
+      "author": "Sam Bingner",
       "commercial": false,
-      "date": "2018-11-29T22:55:17Z",
+      "date": "2019-01-20T22:07:55Z",
       "versions": [
         {
-          "tweakVersion": "0.11",
+          "tweakVersion": "1.0~b1",
           "iOSVersion": "11.2.1",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-02-12T23:52:14Z",
+          "repository": "(null)",
+          "date": "2019-02-05T04:46:24Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19980,22 +20013,22 @@
       ]
     },
     {
-      "id": "jailbreak-resources",
+      "id": "science.xnu.undecimus.resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "1.0~b1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/jailbreak-resources/",
-      "shortDescription": "Resources used by KPPLess Jailbreaks",
+      "latest": "0.11",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/science.xnu.undecimus.resources/",
+      "shortDescription": "Resources used by Unc0ver",
       "category": "System",
-      "author": "Sam Bingner",
+      "author": "(null)",
       "commercial": false,
-      "date": "2019-01-20T22:07:55Z",
+      "date": "2018-11-29T22:55:17Z",
       "versions": [
         {
-          "tweakVersion": "1.0~b1",
+          "tweakVersion": "0.11",
           "iOSVersion": "11.2.1",
-          "repository": "(null)",
-          "date": "2019-02-05T04:46:24Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-02-12T23:52:14Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20619,7 +20652,7 @@
     {
       "id": "com.iarrays.whoozit",
       "name": "WhoozItPro",
-      "latest": "2.0.7-beta-8",
+      "latest": "2.0.7-beta-9",
       "repository": "IArrays",
       "url": "http://iarrays.com/",
       "shortDescription": "Now with iOS 11 support. The all in one perfect caller ID solution for your iDevice. No clue who is calling you and don't know whom you missed? Don't worry, now this all in one perfect caller ID solution will make your life is more simple. Just install this and TrueCaller on your device and just start searchin the calls from you stack apps like Phone, Messages & Notification Center and even from the Recents (tweak).",
@@ -21197,7 +21230,7 @@
     {
       "id": "com.alexzielenski.zeppelin",
       "name": "Zeppelin",
-      "latest": "2.1.1-1",
+      "latest": "2.1.0-12",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
       "shortDescription": "Replaces carrier text with an image!",
