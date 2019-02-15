@@ -2740,20 +2740,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,1",
-          "issues": "",
-          "date": "2019-02-08T23:25:22Z",
-          "userName": "Hydroxing",
-          "issueNumber": 58980,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone6,2",
           "issues": "",
           "date": "2019-02-11T08:04:10Z",
           "userName": "Sanglich",
           "issueNumber": 59221,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-11T07:02:34Z",
+          "userName": "Hydroxing",
+          "issueNumber": 59199,
           "arch32": false
         }
       ]
