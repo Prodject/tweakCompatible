@@ -2699,10 +2699,10 @@
     {
       "id": "ca.ndoizo.bolders",
       "name": "Bolders",
-      "latest": "1.0",
+      "latest": "1.0.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ca.ndoizo.bolders/",
-      "shortDescription": "Bigger bolder folders.",
+      "shortDescription": "Bigger, bolder folders!",
       "category": "Tweaks",
       "author": "candoizo",
       "commercial": false,
@@ -3693,21 +3693,22 @@
       ]
     },
     {
-      "id": "com.rpetrich.cask",
+      "id": "repo.biteyourapple.net.cask",
       "name": "Cask",
       "latest": "0.2",
-      "repository": "rpetrich repo",
-      "url": "http://rpetri.ch/repo/",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cask/",
       "shortDescription": "Animated table scrolling inspired by Google Plus",
-      "category": "Tweaks",
-      "author": "Ryan Petrich",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
+      "date": "2018-06-08T11:59:00Z",
       "versions": [
         {
           "tweakVersion": "0.2",
           "iOSVersion": "11.2.1",
-          "repository": "rpetrich repo",
-          "date": "2019-02-09T13:33:52Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-07-09T09:08:57Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3726,22 +3727,21 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.cask",
+      "id": "com.rpetrich.cask",
       "name": "Cask",
       "latest": "0.2",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.cask/",
+      "repository": "rpetrich repo",
+      "url": "http://rpetri.ch/repo/",
       "shortDescription": "Animated table scrolling inspired by Google Plus",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "Ryan Petrich",
       "commercial": false,
-      "date": "2018-06-08T11:59:00Z",
       "versions": [
         {
           "tweakVersion": "0.2",
           "iOSVersion": "11.2.1",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-07-09T09:08:57Z",
+          "repository": "rpetrich repo",
+          "date": "2019-02-09T13:33:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4053,7 +4053,7 @@
     {
       "id": "com.opa334.ccsupport",
       "name": "CCSupport",
-      "latest": "1.1.2",
+      "latest": "1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.ccsupport/",
       "shortDescription": "Support tweak for CC modules!",
@@ -5401,10 +5401,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.32~b12",
+      "latest": "1.9.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "graphical iPhone front-end for APT",
+      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -6046,7 +6046,7 @@
     {
       "id": "com.neinzedd9.dateundertimex",
       "name": "DateUnderTimeX",
-      "latest": "1.1",
+      "latest": "1.1-1",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.neinzedd9.dateundertimex/",
       "shortDescription": "Adds date under status bar on iPhone X.",
@@ -6568,7 +6568,7 @@
     {
       "id": "com.ahmedbafkir.dleasy",
       "name": "DLEasy",
-      "latest": "1.2",
+      "latest": "1.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
       "shortDescription": "Download images & videos from social apps easily!",
@@ -7041,39 +7041,6 @@
       ]
     },
     {
-      "id": "com.spark.easyswitcherx",
-      "name": "EasySwitcherX [Public]",
-      "latest": "0.0.4-5",
-      "repository": "Spark's Beta Repo",
-      "url": "http://beta.sparkservers.co.uk/",
-      "shortDescription": "Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)",
-      "category": "Tweaks",
-      "author": "Spark",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.4-5",
-          "iOSVersion": "11.2.1",
-          "repository": "Spark's Beta Repo",
-          "date": "2018-07-08T06:41:51Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.easyswitcherx",
       "name": "EasySwitcherX [Public]",
       "latest": "0.0.4-5",
@@ -7096,6 +7063,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spark.easyswitcherx",
+      "name": "EasySwitcherX [Public]",
+      "latest": "0.0.4-5",
+      "repository": "Spark's Beta Repo",
+      "url": "http://beta.sparkservers.co.uk/",
+      "shortDescription": "Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)",
+      "category": "Tweaks",
+      "author": "Spark",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-5",
+          "iOSVersion": "11.2.1",
+          "repository": "Spark's Beta Repo",
+          "date": "2018-07-08T06:41:51Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -7599,6 +7599,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.volatile-dev.extbundleloader",
+      "name": "ExtBundleLoader",
+      "latest": "1.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.volatile-dev.extbundleloader/",
+      "shortDescription": "Load bundles as extensions in addition to the normal dylibs.",
+      "category": "Development",
+      "author": "Thomas Moore (volatile-dev)",
+      "commercial": false,
+      "date": "2019-02-13T00:06:43Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.2.1",
+          "repository": "BigBoss",
+          "date": "2019-02-13T00:06:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8232,10 +8266,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.0-38",
+      "latest": "3.6.1-22",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -10174,7 +10208,7 @@
     {
       "id": "com.exile90.icleanerpro",
       "name": "iCleaner Pro",
-      "latest": "7.7.1~beta3",
+      "latest": "7.7.1",
       "repository": "Karen's Repo",
       "url": "http://ib-soft.net/icleaner",
       "shortDescription": "The first real iOS system cleaner & optimizer",
@@ -12770,7 +12804,7 @@
     {
       "id": "io.ominousness.mitsuhaxi",
       "name": "MitsuhaXI",
-      "latest": "0.5.4",
+      "latest": "0.5.5",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/io.ominousness.mitsuhaxi/",
       "shortDescription": "Universal iOS 11 audio visualizer",
@@ -12991,6 +13025,39 @@
       ]
     },
     {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "11.2.1",
+          "repository": "BigBoss",
+          "date": "2018-07-13T18:01:12Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -13011,39 +13078,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "11.2.1",
-          "repository": "BigBoss",
-          "date": "2018-07-13T18:01:12Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -13524,40 +13558,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.noctisxi",
-      "name": "NoctisXI",
-      "latest": "1.4.3.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctisxi/",
-      "shortDescription": "A system wide dark mode.",
-      "category": "HYI - Tweaks",
-      "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-07-07T19:57:52Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.2",
-          "iOSVersion": "11.2.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T02:21:55Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.laughingquoll.noctisxi",
       "name": "NoctisXI",
       "latest": "1.6.6",
@@ -13654,6 +13654,40 @@
           "iOSVersion": "11.2.1",
           "repository": "Packix",
           "date": "2019-01-16T06:57:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.noctisxi",
+      "name": "NoctisXI",
+      "latest": "1.4.3.1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctisxi/",
+      "shortDescription": "A system wide dark mode.",
+      "category": "HYI - Tweaks",
+      "author": "LaughingQuoll",
+      "commercial": false,
+      "date": "2018-07-07T19:57:52Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.2",
+          "iOSVersion": "11.2.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T02:21:55Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17043,7 +17077,7 @@
     {
       "id": "org.coolstar.sileo",
       "name": "Sileo (Beta)",
-      "latest": "0.4b6",
+      "latest": "0.7b3",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/org.coolstar.sileo/",
       "shortDescription": "A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)",
@@ -19075,7 +19109,7 @@
       "latest": "1.1r-14",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.unlimapps.toneenabler/",
-      "shortDescription": "Restore ringtone folder use on iOS 7/8",
+      "shortDescription": "In iOS 7.x/8.x apple uses a plist in order to load ringtones in settings instead of simply iterating through the /Library/Ringtones directory. This tweak enables the old behavior that was present before 7.x and reads the tones from the directory so tones that you download from cydia or UnlimTones will now show in settings.",
       "category": "Tweaks",
       "author": "UnlimApps Inc.",
       "commercial": false,
@@ -20050,7 +20084,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.1.7",
+      "latest": "1.1.8",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
