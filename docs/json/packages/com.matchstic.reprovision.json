@@ -1141,6 +1141,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.3.3",
+      "iOSVersion": "10.3.3",
+      "repository": "Matchstic",
+      "date": "2019-02-11T19:57:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 1,
+          "bad": 0,
+          "percentage": 100,
+          "calculatedStatus": "Working"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone5,4",
+          "issues": "Works fine on iPhone 5c and iPad 2 (wifi). ",
+          "date": "2019-02-11T19:57:41Z",
+          "userName": "gamma-577",
+          "issueNumber": 59243,
+          "arch32": true
+        }
+      ]
     }
   ]
 }
