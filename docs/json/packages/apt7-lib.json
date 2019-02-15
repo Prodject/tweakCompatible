@@ -1,7 +1,7 @@
 {
   "id": "apt7-lib",
   "name": "APT 0.7 Strict (lib)",
-  "latest": "0",
+  "latest": "1.7.0-sileo3",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/apt7-lib/",
   "shortDescription": "the advanced packaging library from Debian",
@@ -1281,9 +1281,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1300,6 +1300,15 @@
           "date": "2018-12-29T14:48:17Z",
           "userName": "vxrsce",
           "issueNumber": 56772,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-02-09T19:05:25Z",
+          "userName": "xXG0DLessXx",
+          "issueNumber": 59059,
           "arch32": false
         }
       ]
