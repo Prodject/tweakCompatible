@@ -657,10 +657,10 @@
         {
           "status": "not working",
           "device": "iPhone10,2",
-          "issues": "",
-          "date": "2019-02-14T16:17:32Z",
+          "issues": "Opens official reddit app instead. ",
+          "date": "2019-02-09T16:40:00Z",
           "userName": "dboy2365",
-          "issueNumber": 59395,
+          "issueNumber": 59045,
           "arch32": false
         }
       ]
