@@ -1647,11 +1647,11 @@
       "repository": "OLD - Add https://sparkdev.me",
       "date": "2019-02-03T07:26:39Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1668,6 +1668,15 @@
           "date": "2019-02-03T07:26:39Z",
           "userName": "fluffinuff",
           "issueNumber": 58508,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "Doesn’t work for me on iPhone 6s+",
+          "date": "2019-02-12T04:52:52Z",
+          "userName": "Alivecoolkidman0",
+          "issueNumber": 59287,
           "arch32": false
         }
       ]
