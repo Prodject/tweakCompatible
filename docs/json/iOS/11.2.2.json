@@ -184,10 +184,10 @@
     {
       "id": "p7zip",
       "name": "7-zip (POSIX)",
-      "latest": "16.02",
+      "latest": "16.02-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/p7zip/",
-      "shortDescription": "A port of 7za.exe for POSIX systems like Unix",
+      "shortDescription": "claims to be a good compressor",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
@@ -353,7 +353,7 @@
     {
       "id": "com.xcxiao.quickswitcherxi",
       "name": "Adagio",
-      "latest": "1.1.0",
+      "latest": "1.3.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.xcxiao.quickswitcherxi/",
       "shortDescription": "Quickswitcher for iOS",
@@ -761,6 +761,40 @@
       ]
     },
     {
+      "id": "com.adamseiter.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "eXqusic's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-07-17T09:43:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "11.2.2",
+          "repository": "eXqusic's Repo",
+          "date": "2019-02-12T20:50:44Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "net.limneos.answeringmachinex",
       "name": "AnsweringMachineX",
       "latest": "0.4-21",
@@ -850,7 +884,7 @@
     {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
-      "latest": "1.0r-98",
+      "latest": "1.0r-92",
       "repository": "beta.unlimapps.com",
       "url": "https://beta.unlimapps.com/",
       "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
@@ -1124,10 +1158,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.4.0-45",
+      "latest": "1.4.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -1224,10 +1258,10 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "1.7.0",
+      "latest": "0",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
-      "shortDescription": "repository encryption key management tool",
+      "shortDescription": "the advanced packaging library from Debian",
       "category": "Packaging",
       "author": "(null)",
       "commercial": false,
@@ -1258,7 +1292,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.7.0",
+      "latest": "0-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1292,7 +1326,7 @@
     {
       "id": "apt7-lib",
       "name": "APT 0.7 Strict (lib)",
-      "latest": "1.7.0-sileo3",
+      "latest": "0",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/apt7-lib/",
       "shortDescription": "the advanced packaging library from Debian",
@@ -1838,7 +1872,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-4",
+      "latest": "1-5",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -1959,7 +1993,7 @@
     {
       "id": "com.spark.batterypercentx",
       "name": "BatteryPercentX [Public]",
-      "latest": "1.2.3-1",
+      "latest": "1.2.1-1",
       "repository": "Spark's Beta Repo",
       "url": "http://beta.sparkservers.co.uk/",
       "shortDescription": "Replaces the battery icon with percentage on the iPhone X",
@@ -2128,7 +2162,7 @@
     {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
-      "latest": "1.3.9",
+      "latest": "1.4.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.atwiiks.betterccxi/",
       "shortDescription": "Enhance your control center on iOS 11",
@@ -2392,7 +2426,7 @@
     {
       "id": "net.limneos.bioprotectx",
       "name": "BioProtect X for iOS 11",
-      "latest": "3.1-41",
+      "latest": "3.1-44",
       "repository": "Limneos Repo",
       "url": "http://limneos.net/repo/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -2527,10 +2561,10 @@
     {
       "id": "ca.ndoizo.bolders",
       "name": "Bolders",
-      "latest": "0.0.4-2",
+      "latest": "1.0.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ca.ndoizo.bolders/",
-      "shortDescription": "Bigger bolder folders.",
+      "shortDescription": "Bigger, bolder folders!",
       "category": "Tweaks",
       "author": "candoizo",
       "commercial": false,
@@ -2661,7 +2695,7 @@
     {
       "id": "bash",
       "name": "Bourne-Again SHell",
-      "latest": "4.4.18",
+      "latest": "4.4.23-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/bash/",
       "shortDescription": "the best shell ever written by Brian Fox",
@@ -3017,10 +3051,10 @@
     {
       "id": "com.jakeashacks.catchathief",
       "name": "CatchaThief",
-      "latest": "1.0.0-1+debug",
+      "latest": "1.0.0",
       "repository": "Jakeashacks",
       "url": "http://cydia.saurik.com/package/com.jakeashacks.catchathief/",
-      "shortDescription": "Take a picture of whoever inputs an incorrect passcode! Does not support Touch ID/Face ID yet. Images are stored in /var/mobile/catchathief. Sending images via email is being looked into.",
+      "shortDescription": "Take a picture of whoever inputs an incorrect passcode!",
       "category": "Tweaks",
       "author": "Jake James",
       "commercial": false,
@@ -3085,7 +3119,7 @@
     {
       "id": "com.jailbreak365.safeccmodules",
       "name": "CCModules (Safe, Uses Silo)",
-      "latest": "1.3-2",
+      "latest": "1.3-3",
       "repository": "jailbreak365's Repo",
       "url": "http://cydia.saurik.com/package/com.jailbreak365.safeccmodules/",
       "shortDescription": "Control center modules for iOS 11.",
@@ -3119,7 +3153,7 @@
     {
       "id": "com.opa334.ccsupport",
       "name": "CCSupport",
-      "latest": "1.1.2",
+      "latest": "1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.ccsupport/",
       "shortDescription": "Support tweak for CC modules!",
@@ -3274,7 +3308,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.8",
+      "latest": "4.2.2.10",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -3400,7 +3434,7 @@
     {
       "id": "com.skylerk99.chargepulse",
       "name": "ChargePulse",
-      "latest": "0.2",
+      "latest": "0.2r",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.skylerk99.chargepulse/",
       "shortDescription": "Status bar battery pulsates while charging.",
@@ -3634,6 +3668,40 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop64",
+      "name": "CocoaTop",
+      "latest": "2.0.2-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
+      "shortDescription": "Process Viewer for iOS GUI (64-bit)",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "date": "2018-03-13T11:14:04Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0.2",
+          "iOSVersion": "11.2.2",
+          "repository": "(null)",
+          "date": "2018-08-08T16:29:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop",
       "name": "CocoaTop",
       "latest": "2.0.1",
@@ -3653,40 +3721,6 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop64",
-      "name": "CocoaTop",
-      "latest": "2.0.2",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
-      "shortDescription": "Process Viewer for iOS GUI (64-bit)",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "date": "2018-03-13T11:14:04Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0.2",
-          "iOSVersion": "11.2.2",
-          "repository": "(null)",
-          "date": "2018-08-08T16:29:06Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -4141,7 +4175,7 @@
     {
       "id": "cydia-gui",
       "name": "Cydia (GUI Only)",
-      "latest": "1.1.30-4",
+      "latest": "1.1.30-5",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/cydia-gui/",
       "shortDescription": "graphical iPhone front-end for APT",
@@ -4175,10 +4209,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.32~b12",
+      "latest": "1.9.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "graphical iPhone front-end for APT",
+      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -4208,10 +4242,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "99.1",
+      "latest": "0.9.7020",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "Compatibility wrapper for Substrate tweaks to work with Tweak Injector + Substitute",
+      "shortDescription": "powerful code insertion platform",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -4261,7 +4295,7 @@
     {
       "id": "cydia-lproj",
       "name": "Cydia Translations",
-      "latest": "1.1.32~b1",
+      "latest": "1.1.12",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia-lproj/",
       "shortDescription": "languages and translations for Cydia",
@@ -4361,7 +4395,7 @@
     {
       "id": "com.foxfort.darkmessenger",
       "name": "Dark Messenger",
-      "latest": "1.3.0",
+      "latest": "2.0.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.foxfort.darkmessenger/",
       "shortDescription": "Dark mode for Messenger",
@@ -4530,7 +4564,7 @@
     {
       "id": "com.neinzedd9.dateundertimex",
       "name": "DateUnderTimeX",
-      "latest": "1.1",
+      "latest": "1.1-1",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.neinzedd9.dateundertimex/",
       "shortDescription": "Adds date under status bar on iPhone X.",
@@ -4632,10 +4666,10 @@
     {
       "id": "dpkg",
       "name": "Debian Packager",
-      "latest": "1.19.2-4",
+      "latest": "1.18.25-5",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/dpkg/",
-      "shortDescription": "package maintenance tools from Debian",
+      "shortDescription": "package maintainance tools from Debian",
       "category": "Packaging",
       "author": "(null)",
       "commercial": false,
@@ -4836,7 +4870,7 @@
     {
       "id": "diffutils",
       "name": "Diff Utilities",
-      "latest": "3.6",
+      "latest": "3.6-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/diffutils/",
       "shortDescription": "compare two files for differences",
@@ -5677,7 +5711,7 @@
     {
       "id": "com.xandesign.felicity",
       "name": "Felicity",
-      "latest": "2.7",
+      "latest": "3.0",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.xandesign.felicity/",
       "shortDescription": "An Intense and Happy theme.",
@@ -5745,10 +5779,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-1",
+      "latest": "3.6.1-22",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -5852,7 +5886,7 @@
     {
       "id": "findutils",
       "name": "Find Utilities",
-      "latest": "4.6",
+      "latest": "4.6.0-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/findutils/",
       "shortDescription": "indexes and searches filesystems",
@@ -6430,10 +6464,10 @@
     {
       "id": "gnupg",
       "name": "GNU Privacy Guard",
-      "latest": "2.2.11-2",
+      "latest": "1.4.19-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gnupg/",
-      "shortDescription": "GNU privacy guard - a free PGP replacement",
+      "shortDescription": "Encryption compatible with OpenPGP",
       "category": "Security",
       "author": "(null)",
       "commercial": false,
@@ -6464,7 +6498,7 @@
     {
       "id": "grep",
       "name": "grep",
-      "latest": "3.2",
+      "latest": "3.1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/grep/",
       "shortDescription": "searches files for regular expressions",
@@ -6498,7 +6532,7 @@
     {
       "id": "gzip",
       "name": "gzip",
-      "latest": "1.9",
+      "latest": "1.9-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gzip/",
       "shortDescription": "the standard Unix compression algorithm",
@@ -6856,7 +6890,7 @@
     {
       "id": "com.exile90.icleanerpro",
       "name": "iCleaner Pro",
-      "latest": "7.7.0",
+      "latest": "7.7.1",
       "repository": "Karen's Repo",
       "url": "http://ib-soft.net/icleaner",
       "shortDescription": "The first real iOS system cleaner & optimizer",
@@ -7161,7 +7195,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-240",
+      "latest": "1.8r-249",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -7592,7 +7626,7 @@
     {
       "id": "me.alfhaily.cercube.lib",
       "name": "libCercube",
-      "latest": "1.1.0",
+      "latest": "1.1.1",
       "repository": "Alfhaily APT",
       "url": "http://cydia.saurik.com/package/me.alfhaily.cercube.lib/",
       "shortDescription": "A library used by Cercube tweak",
@@ -7848,7 +7882,7 @@
     {
       "id": "com.modmyi.libswift4",
       "name": "libswift4",
-      "latest": "4.2-1",
+      "latest": "4.2.1-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.modmyi.libswift4/",
       "shortDescription": "libswift dylibs for iOS",
@@ -7949,7 +7983,7 @@
     {
       "id": "ldid",
       "name": "Link Identity Editor",
-      "latest": "2.0.1-1",
+      "latest": "2.0.1-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/ldid/",
       "shortDescription": "pseudo-codesign Mach-O files",
@@ -8103,40 +8137,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.5",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
-      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "Tweaks",
-      "author": "anondev",
-      "commercial": false,
-      "date": "2018-02-28T19:15:03Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4-2",
-          "iOSVersion": "11.2.2",
-          "repository": "Xarold Repo",
-          "date": "2018-07-08T17:01:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.4-2",
@@ -8159,6 +8159,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.5",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
+      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "Tweaks",
+      "author": "anondev",
+      "commercial": false,
+      "date": "2018-02-28T19:15:03Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4-2",
+          "iOSVersion": "11.2.2",
+          "repository": "Xarold Repo",
+          "date": "2018-07-08T17:01:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8308,7 +8342,7 @@
     {
       "id": "com.junesiphone.lockpluspro",
       "name": "LockPlus Pro",
-      "latest": "1.4.9.5",
+      "latest": "1.5.1",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.lockpluspro/",
       "shortDescription": "The ultimate lock screen tweak!",
@@ -8529,22 +8563,22 @@
       ]
     },
     {
-      "id": "sileoturkiye.luxury10",
+      "id": "com.sileoturkiye.luxury10",
       "name": "Luxury ios 11",
       "latest": "2.0",
       "repository": "Sileo Türkiye",
-      "url": "http://cydia.saurik.com/package/sileoturkiye.luxury10/",
+      "url": "http://cydia.saurik.com/package/com.sileoturkiye.luxury10/",
       "shortDescription": "Güzel ve Kaliteli bir Tema.",
       "category": "TR - Tema",
       "author": "Barış Çağlar",
       "commercial": false,
-      "date": "2018-08-08T08:41:22Z",
+      "date": "2018-08-03T18:58:54Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "11.2.2",
           "repository": "Sileo Türkiye",
-          "date": "2018-08-08T08:41:22Z",
+          "date": "2018-08-03T18:58:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8563,22 +8597,22 @@
       ]
     },
     {
-      "id": "com.sileoturkiye.luxury10",
+      "id": "sileoturkiye.luxury10",
       "name": "Luxury ios 11",
       "latest": "2.0",
       "repository": "Sileo Türkiye",
-      "url": "http://cydia.saurik.com/package/com.sileoturkiye.luxury10/",
+      "url": "http://cydia.saurik.com/package/sileoturkiye.luxury10/",
       "shortDescription": "Güzel ve Kaliteli bir Tema.",
       "category": "TR - Tema",
       "author": "Barış Çağlar",
       "commercial": false,
-      "date": "2018-08-03T18:58:54Z",
+      "date": "2018-08-08T08:41:22Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "11.2.2",
           "repository": "Sileo Türkiye",
-          "date": "2018-08-03T18:58:54Z",
+          "date": "2018-08-08T08:41:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8666,7 +8700,7 @@
     {
       "id": "com.spark.melior",
       "name": "melior",
-      "latest": "1.0.7-2",
+      "latest": "1.0.8-1",
       "repository": "Spark's Beta Repo",
       "url": "http://cydia.saurik.com/package/com.spark.melior/",
       "shortDescription": "Custom volume HUD",
@@ -8732,22 +8766,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.mikoto",
+      "id": "repo.biteyourapple.net.mikoto",
       "name": "mikoto",
       "latest": "3.0.8",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.mikoto/",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.mikoto/",
       "shortDescription": "Comprehensive iOS System/App Store App customisation suite",
-      "category": "HYI - Tweaks",
-      "author": "Karen Tsai (angelXwind)",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-07-09T11:57:02Z",
+      "date": "2018-07-09T23:10:31Z",
       "versions": [
         {
           "tweakVersion": "3.0.8",
           "iOSVersion": "11.2.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-09T11:57:02Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-07-09T23:10:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8766,22 +8800,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.mikoto",
+      "id": "com.hackyouriphone.mikoto",
       "name": "mikoto",
       "latest": "3.0.8",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.mikoto/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.mikoto/",
       "shortDescription": "Comprehensive iOS System/App Store App customisation suite",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "HYI - Tweaks",
+      "author": "Karen Tsai (angelXwind)",
       "commercial": false,
-      "date": "2018-07-09T23:10:31Z",
+      "date": "2018-07-09T11:57:02Z",
       "versions": [
         {
           "tweakVersion": "3.0.8",
           "iOSVersion": "11.2.2",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-07-09T23:10:31Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-09T11:57:02Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8902,10 +8936,10 @@
     {
       "id": "com.reddestdream.minimalhostsblocker",
       "name": "Minimal Hosts Blocker",
-      "latest": "7.3",
+      "latest": "7.1",
       "repository": "ReddestDream's Repo",
       "url": "https://reddestdream.github.io/",
-      "shortDescription": "A Minimal Ad Blocker! ^_^",
+      "shortDescription": "A minimal ad blocker!",
       "category": "Tweaks",
       "author": "ReddestDream",
       "commercial": false,
@@ -8969,7 +9003,7 @@
     {
       "id": "io.ominousness.mitsuhaxi",
       "name": "MitsuhaXI",
-      "latest": "0.5.4",
+      "latest": "0.5.5",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/io.ominousness.mitsuhaxi/",
       "shortDescription": "Universal iOS 11 audio visualizer",
@@ -9077,7 +9111,7 @@
     {
       "id": "io.ominousness.modernxi",
       "name": "ModernXI",
-      "latest": "0.1.2",
+      "latest": "0.1.3",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/io.ominousness.modernxi/",
       "shortDescription": "A tweak that does something weird to notifications.",
@@ -10261,7 +10295,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.9p1-3",
+      "latest": "7.6p1-4",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -10294,10 +10328,10 @@
     {
       "id": "openssl",
       "name": "OpenSSL",
-      "latest": "1.0.2n",
+      "latest": "1.0.2q-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssl/",
-      "shortDescription": "SSL library and cryptographic tools",
+      "shortDescription": "OpenSSL tools",
       "category": "Security",
       "author": "(null)",
       "commercial": false,
@@ -10618,7 +10652,7 @@
     {
       "id": "pincrush",
       "name": "pincrush",
-      "latest": "0.9.2-2",
+      "latest": "0.9.2-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/pincrush/",
       "shortDescription": "optimize PNGs just like Apple does",
@@ -10752,7 +10786,7 @@
     {
       "id": "com.pokego2.pokego2-11",
       "name": "PokeGo++ 2.0 for Electra!",
-      "latest": "2.0r-101",
+      "latest": "2.0r-104a",
       "repository": "pokego2.com",
       "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
       "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -11482,7 +11516,7 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.2.4",
+      "latest": "3.2.9",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
       "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -11662,7 +11696,7 @@
     {
       "id": "com.opa334.safariplus",
       "name": "Safari Plus",
-      "latest": "1.6.4",
+      "latest": "1.6.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.safariplus/",
       "shortDescription": "Various enhancements to Safari!",
@@ -11972,7 +12006,7 @@
     {
       "id": "sed",
       "name": "sed",
-      "latest": "4.6",
+      "latest": "4.5-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/sed/",
       "shortDescription": "edits streams of text using patterns",
@@ -12040,7 +12074,7 @@
     {
       "id": "shell-cmds",
       "name": "shell-cmds",
-      "latest": "203",
+      "latest": "118-8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/shell-cmds/",
       "shortDescription": "killall, mktemp, renice, time, which",
@@ -12244,7 +12278,7 @@
     {
       "id": "com.xcxiao.simplelsios10",
       "name": "SimpleLSiOS10",
-      "latest": "1.5.0",
+      "latest": "1.5.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.xcxiao.simplelsios10/",
       "shortDescription": "Simple lockscreen for iOS 10/11 devices.",
@@ -12419,10 +12453,10 @@
     {
       "id": "net.midkin.smartvolumecontrol2",
       "name": "SmartVolumeControl2",
-      "latest": "2.4.1",
+      "latest": "2.6",
       "repository": "midkin's repo",
       "url": "http://cydia.saurik.com/package/net.midkin.smartvolumecontrol2/",
-      "shortDescription": "iOS Most Advanced Volume Controller.",
+      "shortDescription": "iOS most advanced volume controller.",
       "category": "Tweaks",
       "author": "midkin",
       "commercial": false,
@@ -12586,7 +12620,7 @@
     {
       "id": "com.spark.snowboard",
       "name": "Snowboard",
-      "latest": "1.0.4-1",
+      "latest": "1.0.1",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
       "shortDescription": "Snowboard theming engine",
@@ -12721,7 +12755,7 @@
     {
       "id": "org.s1ris.spinxi",
       "name": "SpinXI",
-      "latest": "1.1-2",
+      "latest": "1.2",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/org.s1ris.spinxi/",
       "shortDescription": "Circular lock screen media controls",
@@ -12923,7 +12957,7 @@
     {
       "id": "com.jammytea.stencilmusiccontrol",
       "name": "Stencil Music Controls",
-      "latest": "1.1",
+      "latest": "1.2",
       "repository": "Jammytea's repo",
       "url": "http://cydia.saurik.com/package/com.jammytea.stencilmusiccontrol/",
       "shortDescription": "Media controls for Stencil theme",
@@ -13099,7 +13133,7 @@
     {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
-      "latest": "1.0.0-1+debug",
+      "latest": "1.0.0",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
       "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
@@ -13286,7 +13320,7 @@
     {
       "id": "system-cmds",
       "name": "system-cmds",
-      "latest": "790",
+      "latest": "790.30.1-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/system-cmds/",
       "shortDescription": "iostat, login, passwd, sync, sysctl",
@@ -13320,7 +13354,7 @@
     {
       "id": "tar",
       "name": "Tape Archive",
-      "latest": "1.30",
+      "latest": "1.30-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/tar/",
       "shortDescription": "tool for making tape archives",
@@ -13422,10 +13456,10 @@
     {
       "id": "net.tetherme.tetherme8",
       "name": "TetherMe for iOS 10/9/8",
-      "latest": "1.2.2-1",
+      "latest": "1.2.2-5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/net.tetherme.tetherme8/",
-      "shortDescription": "Dynamically enables native tethering iOS8+",
+      "shortDescription": "Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.",
       "category": "Tweaks",
       "author": "Sam Bingner",
       "commercial": true,
@@ -13526,7 +13560,7 @@
       "latest": "1.1r-14",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.unlimapps.toneenabler/",
-      "shortDescription": "Restore ringtone folder use on iOS 7/8",
+      "shortDescription": "In iOS 7.x/8.x apple uses a plist in order to load ringtones in settings instead of simply iterating through the /Library/Ringtones directory. This tweak enables the old behavior that was present before 7.x and reads the tones from the directory so tones that you download from cydia or UnlimTones will now show in settings.",
       "category": "Tweaks",
       "author": "UnlimApps Inc.",
       "commercial": false,
@@ -13878,7 +13912,7 @@
     {
       "id": "uikittools",
       "name": "UIKit Tools",
-      "latest": "1.1.12-coolstar",
+      "latest": "1.1.13-4",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/uikittools/",
       "shortDescription": "UIKit/GraphicsServices command line access",
@@ -14014,7 +14048,7 @@
     {
       "id": "unzip",
       "name": "unzip",
-      "latest": "6.0",
+      "latest": "6.0-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unzip/",
       "shortDescription": "de-compesses files in zip format",
@@ -14082,7 +14116,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.74",
+      "latest": "1.1.8",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -14195,7 +14229,7 @@
     {
       "id": "com.f0u4d.watusitools",
       "name": "WatusiTools",
-      "latest": "1.5.7",
+      "latest": "2.0.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.f0u4d.watusitools/",
       "shortDescription": "Library for Watusi and WhatsApp tweaks",
@@ -14228,7 +14262,7 @@
     {
       "id": "com.malcolmhall.wifipasswords",
       "name": "WiFi Passwords",
-      "latest": "11.0-1",
+      "latest": "3.0.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.malcolmhall.wifipasswords/",
       "shortDescription": "shows previously entered wifi passwords",
@@ -14368,7 +14402,7 @@
     {
       "id": "com.junesiphone.xeninfo",
       "name": "XenInfo",
-      "latest": "2.0",
+      "latest": "2.0.4",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.xeninfo/",
       "shortDescription": "Music, Weather, and battery info for XenHTML",
@@ -14402,7 +14436,7 @@
     {
       "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4",
+      "latest": "4.32.7-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
@@ -14489,7 +14523,7 @@
     {
       "id": "com.alexzielenski.zeppelin",
       "name": "Zeppelin",
-      "latest": "2.1.0-12",
+      "latest": "2.1.1-1",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
       "shortDescription": "Replaces carrier text with an image!",
