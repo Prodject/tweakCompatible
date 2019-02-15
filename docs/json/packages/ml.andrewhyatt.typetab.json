@@ -142,9 +142,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -161,6 +161,15 @@
           "date": "2019-01-31T20:41:24Z",
           "userName": "burkybang",
           "issueNumber": 57971,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad7,1",
+          "issues": "Just like other user, opening safari it works. But not when opening a new tab. ",
+          "date": "2019-02-14T13:31:15Z",
+          "userName": "RiPx88",
+          "issueNumber": 59388,
           "arch32": false
         }
       ]
