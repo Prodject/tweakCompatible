@@ -238,11 +238,11 @@
       "repository": "BigBoss",
       "date": "2019-01-30T17:47:19Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -259,6 +259,15 @@
           "date": "2019-01-30T17:47:19Z",
           "userName": "conhangcui",
           "issueNumber": 57825,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "It doesnt block ads it plays them in the background of the video your trying to watch, with no way to skip or close them.",
+          "date": "2019-02-10T14:03:13Z",
+          "userName": "itstragicz",
+          "issueNumber": 59140,
           "arch32": false
         }
       ]
