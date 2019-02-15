@@ -1508,20 +1508,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,1",
-          "issues": "",
-          "date": "2019-02-08T23:24:20Z",
-          "userName": "Hydroxing",
-          "issueNumber": 58978,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone8,2",
           "issues": "Just hold the get button",
           "date": "2019-02-12T05:00:05Z",
           "userName": "Alivecoolkidman0",
           "issueNumber": 59288,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-11T07:01:28Z",
+          "userName": "Hydroxing",
+          "issueNumber": 59194,
           "arch32": false
         }
       ]
