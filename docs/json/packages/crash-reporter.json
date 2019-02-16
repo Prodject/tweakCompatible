@@ -1713,11 +1713,11 @@
       "repository": "BigBoss",
       "date": "2018-07-13T18:19:15Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 80,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1770,6 +1770,15 @@
           "date": "2018-09-04T07:44:15Z",
           "userName": "danieladanieladanieladaniela",
           "issueNumber": 49131,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Stalls, then crashes.",
+          "date": "2019-02-16T16:37:03Z",
+          "userName": "DatNightcat",
+          "issueNumber": 59519,
           "arch32": false
         }
       ]
