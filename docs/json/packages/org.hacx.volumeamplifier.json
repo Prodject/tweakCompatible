@@ -404,6 +404,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.82",
+      "iOSVersion": "11.4.1",
+      "repository": "BigBoss",
+      "date": "2019-02-16T01:53:27Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-02-16T01:53:27Z",
+          "userName": "blekmamba",
+          "issueNumber": 59471,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
