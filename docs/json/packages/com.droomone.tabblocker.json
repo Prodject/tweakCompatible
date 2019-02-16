@@ -16,11 +16,11 @@
       "repository": "BigBoss",
       "date": "2019-02-13T23:53:26Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2019-02-15T13:24:39Z",
           "userName": "WINH4X",
           "issueNumber": 59446,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "This tweak does nothing",
+          "date": "2019-02-16T15:28:36Z",
+          "userName": "atifchy",
+          "issueNumber": 59515,
           "arch32": false
         }
       ]
