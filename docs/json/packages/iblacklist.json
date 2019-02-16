@@ -178,10 +178,10 @@
       "date": "2018-07-08T20:58:01Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -216,6 +216,15 @@
           "date": "2018-11-01T03:18:37Z",
           "userName": "lineararc",
           "issueNumber": 54366,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-02-16T22:01:21Z",
+          "userName": "starmega",
+          "issueNumber": 59533,
           "arch32": false
         }
       ]
