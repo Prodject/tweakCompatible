@@ -1514,6 +1514,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "4.2.1-1",
+      "iOSVersion": "11.4",
+      "repository": "BigBoss",
+      "date": "2019-02-16T07:57:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-02-16T07:57:11Z",
+          "userName": "FugiMuffi",
+          "issueNumber": 59495,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
