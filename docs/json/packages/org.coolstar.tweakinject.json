@@ -1704,11 +1704,11 @@
       "repository": "Electra's iOS Utilities",
       "date": "2019-02-02T01:51:58Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1734,6 +1734,15 @@
           "date": "2019-02-11T07:03:11Z",
           "userName": "Hydroxing",
           "issueNumber": 59200,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2019-02-16T18:33:40Z",
+          "userName": "looolaa",
+          "issueNumber": 59528,
           "arch32": false
         }
       ]
