@@ -233,10 +233,10 @@
       "date": "2019-02-01T06:26:32Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -262,6 +262,15 @@
           "date": "2019-02-04T06:07:18Z",
           "userName": "darksouls2835",
           "issueNumber": 58623,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-17T19:12:04Z",
+          "userName": "ASCEND1NG-VO1D",
+          "issueNumber": 59560,
           "arch32": false
         }
       ]
