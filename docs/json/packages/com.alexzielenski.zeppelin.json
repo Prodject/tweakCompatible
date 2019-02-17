@@ -2299,9 +2299,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2327,6 +2327,15 @@
           "date": "2019-01-30T18:44:46Z",
           "userName": "Ectalite",
           "issueNumber": 57837,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-02-17T18:50:20Z",
+          "userName": "Brandon097",
+          "issueNumber": 59556,
           "arch32": false
         }
       ]
