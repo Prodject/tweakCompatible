@@ -1,0 +1,71 @@
+{
+  "packages": [
+    {
+      "id": "com.irepo.boxy3",
+      "name": "Boxy3",
+      "latest": "3.3.3-1+debug",
+      "repository": "iOS Creatix",
+      "url": "http://cydia.saurik.com/package/com.irepo.boxy3/",
+      "shortDescription": "Fully customize your icon layout!",
+      "category": "Tweaks",
+      "author": "william vabrinskas",
+      "commercial": true,
+      "date": "2018-03-26T15:59:07Z",
+      "versions": [
+        {
+          "tweakVersion": "3.3.3-1+debug",
+          "iOSVersion": "12.1.2",
+          "repository": "Packix",
+          "date": "2019-02-18T06:11:04Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bz.jed.tweakcompatible",
+      "name": "tweakCompatible",
+      "latest": "0.1.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/bz.jed.tweakcompatible/",
+      "shortDescription": "Adds a way to check tweak compatibility in cydia",
+      "category": "Tweaks",
+      "author": "treAson",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.1.0",
+          "iOSVersion": "12.1.2",
+          "repository": "BigBoss",
+          "date": "2019-02-18T06:11:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
