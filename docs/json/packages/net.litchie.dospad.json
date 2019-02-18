@@ -20,7 +20,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-08-12T15:33:05Z",
           "userName": "halfdev",
           "issueNumber": 42586,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad4,2",
+          "issues": "",
+          "date": "2019-02-18T14:21:20Z",
+          "userName": "T4shf33n",
+          "issueNumber": 59595,
           "arch32": false
         }
       ]
