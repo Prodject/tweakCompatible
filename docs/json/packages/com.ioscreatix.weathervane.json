@@ -1,10 +1,10 @@
 {
   "id": "com.ioscreatix.weathervane",
   "name": "WeatherVane",
-  "latest": "1.1.0-1+debug",
+  "latest": "1.1.0",
   "repository": "iOS Creatix",
   "url": "http://cydia.saurik.com/package/com.ioscreatix.weathervane/",
-  "shortDescription": "Access Wifi Networks and Bluetooth Devices from the Control Center on iOS 11",
+  "shortDescription": "Bluetooth and Weather Menus in the iOS 11 Control Center",
   "category": "Tweaks",
   "author": "iOS Creatix",
   "commercial": true,
@@ -535,6 +535,37 @@
           "date": "2018-08-14T11:50:53Z",
           "userName": "tomhop99",
           "issueNumber": 43433,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "12.1.2",
+      "repository": "Packix",
+      "date": "2019-02-18T06:07:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-18T06:07:39Z",
+          "userName": "Samgisaninja",
+          "issueNumber": 59578,
           "arch32": false
         }
       ]
