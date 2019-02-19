@@ -1,7 +1,7 @@
 {
   "id": "org.coolstar.sileo",
   "name": "Sileo (Beta)",
-  "latest": "0.4b6",
+  "latest": "0.7b5",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/org.coolstar.sileo/",
   "shortDescription": "A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)",
@@ -521,6 +521,37 @@
           "date": "2019-02-13T13:07:57Z",
           "userName": "RemoteScript",
           "issueNumber": 59348,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.7b5",
+      "iOSVersion": "11.4.1",
+      "repository": "Electra's iOS Utilities",
+      "date": "2019-02-19T09:00:19Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "Running iOS 11.4.1, iPhone 6, after most recent Sileo update, 0.7b5 app refuses to open. Crashes on launch. ",
+          "date": "2019-02-19T09:00:19Z",
+          "userName": "cyntrifical",
+          "issueNumber": 59641,
           "arch32": false
         }
       ]
