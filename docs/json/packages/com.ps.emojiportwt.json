@@ -2136,6 +2136,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.2.4",
+      "iOSVersion": "11.3.1",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-02-19T21:15:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-02-19T21:15:14Z",
+          "userName": "vxrsce",
+          "issueNumber": 59679,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
