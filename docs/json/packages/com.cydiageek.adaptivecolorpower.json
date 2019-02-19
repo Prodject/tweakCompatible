@@ -76,9 +76,9 @@
       "repository": "BigBoss",
       "date": "2018-07-16T12:41:56Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
-        "good": 3,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
         "total": 3,
         "arch32": {
@@ -109,12 +109,12 @@
           "arch32": false
         },
         {
-          "status": "working",
+          "status": "not working",
           "device": "iPhone7,2",
           "issues": "",
-          "date": "2019-02-18T20:07:48Z",
+          "date": "2019-02-19T14:43:38Z",
           "userName": "Gladi88",
-          "issueNumber": 59599,
+          "issueNumber": 59657,
           "arch32": false
         }
       ]
