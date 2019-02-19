@@ -1,10 +1,10 @@
 {
   "id": "com.unlimapps.uaupdatetools",
   "name": "App Admin",
-  "latest": "1.0r-61",
+  "latest": "1.0r-92",
   "repository": "beta.unlimapps.com",
   "url": "https://beta.unlimapps.com/",
-  "shortDescription": "Downgrade apps to any previous version! No AppSync needed!!!",
+  "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
   "category": "System",
   "author": "UnlimApps Inc.",
   "commercial": false,
@@ -3515,6 +3515,37 @@
           "date": "2019-02-11T23:31:40Z",
           "userName": "vahpetrosyan",
           "issueNumber": 59268,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0r-92",
+      "iOSVersion": "12.1.2",
+      "repository": "test.unlimapps.com",
+      "date": "2019-02-19T14:27:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-19T14:27:30Z",
+          "userName": "Samgisaninja",
+          "issueNumber": 59655,
           "arch32": false
         }
       ]
