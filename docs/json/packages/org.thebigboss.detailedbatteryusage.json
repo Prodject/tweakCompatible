@@ -1112,10 +1112,10 @@
       "date": "2018-07-12T18:01:14Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1168,6 +1168,15 @@
           "date": "2019-02-14T12:38:53Z",
           "userName": "Yappuccino",
           "issueNumber": 59381,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,2",
+          "issues": "Show Daemons is broken, but graphs work fine.",
+          "date": "2019-02-19T02:56:12Z",
+          "userName": "thehappydinoa",
+          "issueNumber": 59604,
           "arch32": false
         }
       ]
