@@ -202,6 +202,40 @@
       ]
     },
     {
+      "id": "com.cydiageek.byehomebottombarx",
+      "name": "ByeHomeBottomBarX",
+      "latest": "1.0.1",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cydiageek.byehomebottombarx/",
+      "shortDescription": "Remove/Fade Away the Ugly Home Bottom Bar of the iPhone X!",
+      "category": "Tweaks",
+      "author": "CydiaGeek",
+      "commercial": false,
+      "date": "2018-03-23T19:07:47Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "12.1.2",
+          "repository": "BigBoss",
+          "date": "2019-02-19T15:26:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
       "latest": "4.2.2.10",
