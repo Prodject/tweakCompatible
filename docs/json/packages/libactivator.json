@@ -3535,15 +3535,6 @@
           "arch32": false
         },
         {
-          "status": "working",
-          "device": "iPhone10,6",
-          "issues": "",
-          "date": "2019-02-13T19:33:46Z",
-          "userName": "MKhaliiFa",
-          "issueNumber": 59358,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone10,4",
           "issues": "",
@@ -3577,6 +3568,15 @@
           "date": "2019-02-17T19:08:08Z",
           "userName": "ASCEND1NG-VO1D",
           "issueNumber": 59559,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-02-19T21:19:57Z",
+          "userName": "MKhaliiFa",
+          "issueNumber": 59681,
           "arch32": false
         }
       ]
