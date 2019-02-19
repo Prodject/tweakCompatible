@@ -611,9 +611,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -648,6 +648,15 @@
           "date": "2018-09-08T05:22:36Z",
           "userName": "rafaelfe",
           "issueNumber": 49780,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-02-19T21:15:19Z",
+          "userName": "VMverse",
+          "issueNumber": 59680,
           "arch32": false
         }
       ]
