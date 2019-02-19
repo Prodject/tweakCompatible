@@ -2706,11 +2706,11 @@
       "repository": "Chariz",
       "date": "2019-01-30T19:04:59Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2754,6 +2754,15 @@
           "date": "2019-02-11T07:02:34Z",
           "userName": "Hydroxing",
           "issueNumber": 59199,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-02-18T23:37:52Z",
+          "userName": "ASCEND1NG-VO1D",
+          "issueNumber": 59603,
           "arch32": false
         }
       ]
