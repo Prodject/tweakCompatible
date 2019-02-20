@@ -1190,22 +1190,21 @@
       ]
     },
     {
-      "id": "iloveapple.appsyncunified",
+      "id": "net.angelxwind.appsyncunified",
       "name": "AppSync Unified",
       "latest": "31.1",
-      "repository": "I  Apple",
-      "url": "http://cydia.saurik.com/package/iloveapple.appsyncunified/",
-      "shortDescription": "لعمل باتشش للجهاز لتستطيع تنزيل البرامج والألعاب المكركة يعمل 100% دون مشاكل",
-      "category": "i-Tweaks",
-      "author": "Support@ilove-apple.com",
+      "repository": "Karen's Repo",
+      "url": "http://cydia.angelxwind.net/",
+      "shortDescription": "Enables the ability to install unsigned/fakesigned iOS applications.",
+      "category": "Tweaks",
+      "author": "Linus Yang, Karen／明美",
       "commercial": false,
-      "date": "2019-02-16T23:02:13Z",
       "versions": [
         {
           "tweakVersion": "31.1",
           "iOSVersion": "11.4.1",
-          "repository": "I  Apple",
-          "date": "2019-02-16T23:02:13Z",
+          "repository": "Karen's Repo",
+          "date": "2019-01-31T22:05:18Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -1224,21 +1223,22 @@
       ]
     },
     {
-      "id": "net.angelxwind.appsyncunified",
+      "id": "iloveapple.appsyncunified",
       "name": "AppSync Unified",
       "latest": "31.1",
-      "repository": "Karen's Repo",
-      "url": "http://cydia.angelxwind.net/",
-      "shortDescription": "Enables the ability to install unsigned/fakesigned iOS applications.",
-      "category": "Tweaks",
-      "author": "Linus Yang, Karen／明美",
+      "repository": "I  Apple",
+      "url": "http://cydia.saurik.com/package/iloveapple.appsyncunified/",
+      "shortDescription": "لعمل باتشش للجهاز لتستطيع تنزيل البرامج والألعاب المكركة يعمل 100% دون مشاكل",
+      "category": "i-Tweaks",
+      "author": "Support@ilove-apple.com",
       "commercial": false,
+      "date": "2019-02-16T23:02:13Z",
       "versions": [
         {
           "tweakVersion": "31.1",
           "iOSVersion": "11.4.1",
-          "repository": "Karen's Repo",
-          "date": "2019-01-31T22:05:18Z",
+          "repository": "I  Apple",
+          "date": "2019-02-16T23:02:13Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -6431,6 +6431,40 @@
       ]
     },
     {
+      "id": "com.pulandres.obscuremmss",
+      "name": "DarkMessenger Cracked",
+      "latest": "2.0",
+      "repository": "Pulandres Repository",
+      "url": "http://cydia.saurik.com/package/com.pulandres.obscuremmss/",
+      "shortDescription": "Darkmode for Messenger APP",
+      "category": "Tweaks",
+      "author": "FoxfortMobile",
+      "commercial": false,
+      "date": "2019-02-20T10:59:29Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "11.4.1",
+          "repository": "Pulandres Repository",
+          "date": "2019-02-20T10:59:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.darkmoduleccxi",
       "name": "DarkModuleCCXI",
       "latest": "1.0",
@@ -7231,60 +7265,6 @@
       ]
     },
     {
-      "id": "com.ahmedbafkir.dleasy",
-      "name": "DLEasy",
-      "latest": "1.4",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
-      "shortDescription": "Download images & videos from social apps easily!",
-      "category": "Tweaks",
-      "author": "Ahmed Bafkir",
-      "commercial": false,
-      "date": "2019-01-23T22:07:44Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-02T21:55:10Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 66,
-            "good": 2,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.4",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-18T19:13:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.ahmedbafkir.dleasy",
       "name": "DLEasy",
       "latest": "1.3",
@@ -7321,6 +7301,60 @@
           "iOSVersion": "11.4.1",
           "repository": "AhmedBafkir Source - YouRepo",
           "date": "2019-02-16T10:22:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ahmedbafkir.dleasy",
+      "name": "DLEasy",
+      "latest": "1.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
+      "shortDescription": "Download images & videos from social apps easily!",
+      "category": "Tweaks",
+      "author": "Ahmed Bafkir",
+      "commercial": false,
+      "date": "2019-01-23T22:07:44Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-02T21:55:10Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 66,
+            "good": 2,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.4",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-18T19:13:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14432,6 +14466,39 @@
       ]
     },
     {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-03T02:21:13Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -14452,39 +14519,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-03T02:21:13Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 2,
             "arch32": {
@@ -18762,7 +18796,7 @@
     {
       "id": "org.coolstar.sileo",
       "name": "Sileo (Beta)",
-      "latest": "0.7b5",
+      "latest": "0.7b6",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/org.coolstar.sileo/",
       "shortDescription": "A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)",
