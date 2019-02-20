@@ -1294,9 +1294,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1322,6 +1322,15 @@
           "date": "2019-01-09T02:36:23Z",
           "userName": "xXG0DLessXx",
           "issueNumber": 57178,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "unc0ver 3.0.0~b28",
+          "date": "2019-02-20T12:20:17Z",
+          "userName": "DatNightcat",
+          "issueNumber": 59708,
           "arch32": false
         }
       ]
