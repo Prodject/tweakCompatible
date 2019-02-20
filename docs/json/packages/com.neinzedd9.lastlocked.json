@@ -1,7 +1,7 @@
 {
   "id": "com.neinzedd9.lastlocked",
   "name": "LastLocked",
-  "latest": "1.0.4",
+  "latest": "1.0.4-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.neinzedd9.lastlocked/",
   "shortDescription": "Replaces \"Press home\" text with \"Locked ... ago\"",
@@ -313,6 +313,37 @@
           "date": "2018-07-11T03:47:52Z",
           "userName": "Cedr0",
           "issueNumber": 21645,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.4-1",
+      "iOSVersion": "11.2.1",
+      "repository": "BigBoss",
+      "date": "2019-02-20T12:16:09Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "No change — unc0ver 3.0.0~b28",
+          "date": "2019-02-20T12:16:09Z",
+          "userName": "DatNightcat",
+          "issueNumber": 59702,
           "arch32": false
         }
       ]
