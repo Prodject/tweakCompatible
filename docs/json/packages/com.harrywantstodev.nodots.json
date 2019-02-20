@@ -233,10 +233,10 @@
       "date": "2019-02-01T06:26:32Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -271,6 +271,15 @@
           "date": "2019-02-17T19:12:04Z",
           "userName": "ASCEND1NG-VO1D",
           "issueNumber": 59560,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "NoDots10 works on my iPhone 6S.  Looks awesome!!!",
+          "date": "2019-02-20T03:26:17Z",
+          "userName": "Chiefkempster",
+          "issueNumber": 59689,
           "arch32": false
         }
       ]
