@@ -246,9 +246,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -265,6 +265,15 @@
           "date": "2019-01-30T20:49:24Z",
           "userName": "ios-reports",
           "issueNumber": 57848,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad4,4",
+          "issues": "",
+          "date": "2019-02-20T05:39:23Z",
+          "userName": "Brandon097",
+          "issueNumber": 59693,
           "arch32": false
         }
       ]
