@@ -1195,10 +1195,10 @@
     {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
-      "latest": "1.0r-61",
+      "latest": "1.0r-92",
       "repository": "beta.unlimapps.com",
       "url": "https://beta.unlimapps.com/",
-      "shortDescription": "Downgrade apps to any previous version! No AppSync needed!!!",
+      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
       "category": "System",
       "author": "UnlimApps Inc.",
       "commercial": false,
@@ -2562,6 +2562,40 @@
       ]
     },
     {
+      "id": "com.modmyi.batterylife",
+      "name": "BatteryLife",
+      "latest": "1.6.15",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
+      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
+      "category": "Themes (SpringBoard)",
+      "author": "rbt",
+      "commercial": false,
+      "date": "2018-07-10T16:20:42Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6.15",
+          "iOSVersion": "11.2.6",
+          "repository": "ModMyi (Archive)",
+          "date": "2018-07-10T16:20:42Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.rbt.batterylife",
       "name": "BatteryLife",
       "latest": "1.7.0",
@@ -2601,40 +2635,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.modmyi.batterylife",
-      "name": "BatteryLife",
-      "latest": "1.6.15",
-      "repository": "ModMyi (Archive)",
-      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
-      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
-      "category": "Themes (SpringBoard)",
-      "author": "rbt",
-      "commercial": false,
-      "date": "2018-07-10T16:20:42Z",
-      "versions": [
-        {
-          "tweakVersion": "1.6.15",
-          "iOSVersion": "11.2.6",
-          "repository": "ModMyi (Archive)",
-          "date": "2018-07-10T16:20:42Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -3505,6 +3505,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kiiimo.bioprotect",
+      "name": "BioProtect X for iOS 11",
+      "latest": "2.3-9K",
+      "repository": "cydia.kiiimo.org",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.bioprotect/",
+      "shortDescription": "Protect your apps with Touch ID!",
+      "category": "iOS 11.3x",
+      "author": "Elias Limneos",
+      "commercial": false,
+      "date": "2018-07-08T06:59:47Z",
+      "versions": [
+        {
+          "tweakVersion": "2.3-9K",
+          "iOSVersion": "11.2.6",
+          "repository": "A Kiiimo Repositoty .🌙",
+          "date": "2018-07-08T14:31:44Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "net.limneos.bioprotectx",
       "name": "BioProtect X for iOS 11",
       "latest": "3.1-68",
@@ -3581,40 +3615,6 @@
           "iOSVersion": "11.2.6",
           "repository": "Limneos Repo",
           "date": "2018-09-07T08:47:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.kiiimo.bioprotect",
-      "name": "BioProtect X for iOS 11",
-      "latest": "2.3-9K",
-      "repository": "cydia.kiiimo.org",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.bioprotect/",
-      "shortDescription": "Protect your apps with Touch ID!",
-      "category": "iOS 11.3x",
-      "author": "Elias Limneos",
-      "commercial": false,
-      "date": "2018-07-08T06:59:47Z",
-      "versions": [
-        {
-          "tweakVersion": "2.3-9K",
-          "iOSVersion": "11.2.6",
-          "repository": "A Kiiimo Repositoty .🌙",
-          "date": "2018-07-08T14:31:44Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5061,7 +5061,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.5",
+      "latest": "4.2.2.10",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -6378,22 +6378,21 @@
       ]
     },
     {
-      "id": "us.evendev.cydiaxi",
+      "id": "com.artikus.cydiaxi",
       "name": "CydiaXI",
-      "latest": "2.0.1",
-      "repository": "CydiaXI",
-      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
-      "shortDescription": "Making Cydia look more iOS 11-ish",
-      "category": "CydiaXI",
-      "author": "EvenDev",
+      "latest": "1.2",
+      "repository": "cydiaxi.at.ua",
+      "url": "http://cydiaxi.at.ua/",
+      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
+      "category": "Tweaks",
+      "author": "EvenD3V and ArtikusHG",
       "commercial": false,
-      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "0.1",
           "iOSVersion": "11.2.6",
-          "repository": "EvenDev",
-          "date": "2018-10-13T11:07:19Z",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-08-16T01:49:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6412,21 +6411,22 @@
       ]
     },
     {
-      "id": "com.artikus.cydiaxi",
+      "id": "us.evendev.cydiaxi",
       "name": "CydiaXI",
-      "latest": "1.2",
-      "repository": "cydiaxi.at.ua",
-      "url": "http://cydiaxi.at.ua/",
-      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
-      "category": "Tweaks",
-      "author": "EvenD3V and ArtikusHG",
+      "latest": "2.0.1",
+      "repository": "CydiaXI",
+      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
+      "shortDescription": "Making Cydia look more iOS 11-ish",
+      "category": "CydiaXI",
+      "author": "EvenDev",
       "commercial": false,
+      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "0.1",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "11.2.6",
-          "repository": "Smacpats’ Repo",
-          "date": "2018-08-16T01:49:56Z",
+          "repository": "EvenDev",
+          "date": "2018-10-13T11:07:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13173,40 +13173,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.4-2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.localiapstore/",
-      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "HYI - Tweaks",
-      "author": "anondev",
-      "commercial": false,
-      "date": "2018-03-02T03:42:40Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4-2",
-          "iOSVersion": "11.2.6",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T12:24:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.5",
@@ -13256,6 +13222,40 @@
           "iOSVersion": "11.2.6",
           "repository": "BiteYourApple",
           "date": "2018-07-07T21:41:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.4-2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.localiapstore/",
+      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "HYI - Tweaks",
+      "author": "anondev",
+      "commercial": false,
+      "date": "2018-03-02T03:42:40Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4-2",
+          "iOSVersion": "11.2.6",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T12:24:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17165,10 +17165,10 @@
     {
       "id": "com.dpkgdan.powertap",
       "name": "Power Tap",
-      "latest": "1.1.3-3",
+      "latest": "1.2.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dpkgdan.powertap/",
-      "shortDescription": "tap powerdown knob to reboot, respring, safe mode",
+      "shortDescription": "Power Tap allows you to toggle the power down bar through different settings, such as \"reboot,\" \"respring,\" and \"safe mode.\" Toggling takes place when you tap the slider's knob (a circular icon with a power symbol). Power Tap is intended to replace the earlier tweak \"Slide to Reboot.\"",
       "category": "Tweaks",
       "author": "Dan Saba",
       "commercial": false,
@@ -18581,10 +18581,10 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.0.17",
+      "latest": "3.2.9",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "posts and view stories anonymously and do much more",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -19979,7 +19979,7 @@
     {
       "id": "org.coolstar.sileo",
       "name": "Sileo (Beta)",
-      "latest": "0.4b6",
+      "latest": "0.7b6",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/org.coolstar.sileo/",
       "shortDescription": "A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)",
@@ -19993,6 +19993,26 @@
           "iOSVersion": "11.2.6",
           "repository": "Electra's iOS Utilities",
           "date": "2018-12-28T02:49:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "0.7b6",
+          "iOSVersion": "11.2.6",
+          "repository": "Electra's iOS Utilities",
+          "date": "2019-02-20T09:45:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20422,7 +20442,7 @@
     {
       "id": "com.spark.snowboard",
       "name": "Snowboard",
-      "latest": "1.0.4-1",
+      "latest": "1.0.1",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
       "shortDescription": "Snowboard theming engine",
@@ -21424,10 +21444,10 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.0.0-1",
+      "latest": "2.0.0-1216+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
-      "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
+      "shortDescription": "System information Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
       "category": "Tweaks",
       "author": "ARX8x",
       "commercial": false,
@@ -22585,7 +22605,7 @@
     {
       "id": "jailbreak-resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "1.0~b1",
+      "latest": "1.0~b1-25+debug",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/jailbreak-resources/",
       "shortDescription": "Resources used by KPPLess Jailbreaks",
