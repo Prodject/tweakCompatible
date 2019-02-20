@@ -1728,10 +1728,10 @@
       "date": "2019-01-30T22:30:56Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 85,
-        "good": 6,
+        "percentage": 87,
+        "good": 7,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1802,6 +1802,15 @@
           "date": "2019-02-06T09:38:46Z",
           "userName": "onikvarikyan",
           "issueNumber": 58827,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad4,4",
+          "issues": "",
+          "date": "2019-02-20T05:39:01Z",
+          "userName": "Brandon097",
+          "issueNumber": 59692,
           "arch32": false
         }
       ]
